@@ -1,0 +1,30 @@
+{
+  "$comment": "Index of all JSON Schemas in the phil ecosystem.",
+  "schemas": [
+    {
+      "name": "Concept",
+      "file": "concept.schema.json",
+      "description": "A philosophical concept with multilingual labels and tradition metadata."
+    },
+    {
+      "name": "ConceptSpans",
+      "file": "concept_spans.schema.json",
+      "description": "GRanges-like concept annotations on philosophical texts."
+    },
+    {
+      "name": "PhilCorpus",
+      "file": "phil_corpus.schema.json",
+      "description": "SummarizedExperiment-like data container for philosophical texts."
+    },
+    {
+      "name": "Argument",
+      "file": "argument.schema.json",
+      "description": "A philosophical argument with premises, conclusion, and inference type."
+    },
+    {
+      "name": "AlignmentResult",
+      "file": "alignment_result.schema.json",
+      "description": "Result of cross-tradition concept alignment."
+    }
+  ]
+}

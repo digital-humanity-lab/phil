@@ -1,0 +1,15 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "philapi"
+version = "0.1.0"
+description = "REST API server for the Phil philosophy ecosystem"
+license = "MIT"
+requires-python = ">=3.11"
+authors = [{ name = "Yusuke Matsui", email = "mail.to.matsui@gmail.com" }]
+dependencies = ["fastapi>=0.110", "uvicorn>=0.29", "philcore", "philengine", "philmap"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/philapi"]

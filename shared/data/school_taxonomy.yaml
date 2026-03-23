@@ -1,0 +1,244 @@
+# Phil Ecosystem - School/Tradition Taxonomy
+# 40+ philosophical schools across 5 major traditions
+
+western:
+  ancient:
+    - id: platonism
+      name_en: Platonism
+      era: "-427 ~ -347"
+      region: greece
+    - id: aristotelianism
+      name_en: Aristotelianism
+      era: "-384 ~ -322"
+      region: greece
+    - id: stoicism
+      name_en: Stoicism
+      era: "-300 ~ 200"
+      region: greece_rome
+    - id: epicureanism
+      name_en: Epicureanism
+      era: "-341 ~ -270"
+      region: greece
+    - id: skepticism
+      name_en: Skepticism
+      era: "-360 ~ 200"
+      region: greece
+    - id: neoplatonism
+      name_en: Neoplatonism
+      era: "200 ~ 500"
+      region: rome
+  medieval:
+    - id: scholasticism
+      name_en: Scholasticism
+      era: "1100 ~ 1500"
+      region: europe
+    - id: thomism
+      name_en: Thomism
+      era: "1225 ~ present"
+      region: europe
+  modern:
+    - id: rationalism
+      name_en: Rationalism
+      era: "1600 ~ 1800"
+      region: europe
+    - id: empiricism
+      name_en: Empiricism
+      era: "1600 ~ 1800"
+      region: britain
+    - id: german_idealism
+      name_en: German Idealism
+      era: "1780 ~ 1860"
+      region: germany
+    - id: utilitarianism
+      name_en: Utilitarianism
+      era: "1780 ~ present"
+      region: britain
+  contemporary:
+    - id: analytic
+      name_en: Analytic Philosophy
+      era: "1900 ~ present"
+      region: anglophone
+    - id: continental
+      name_en: Continental Philosophy
+      era: "1900 ~ present"
+      region: europe
+    - id: phenomenology
+      name_en: Phenomenology
+      era: "1900 ~ present"
+      region: germany_france
+    - id: existentialism
+      name_en: Existentialism
+      era: "1930 ~ 1970"
+      region: france_germany
+    - id: pragmatism
+      name_en: Pragmatism
+      era: "1870 ~ present"
+      region: america
+    - id: critical_theory
+      name_en: Critical Theory
+      era: "1930 ~ present"
+      region: germany
+    - id: poststructuralism
+      name_en: Poststructuralism
+      era: "1960 ~ present"
+      region: france
+
+east_asian:
+  chinese:
+    - id: confucianism
+      name_en: Confucianism
+      name_ja: 儒教
+      era: "-551 ~ present"
+      region: china
+    - id: neo_confucianism
+      name_en: Neo-Confucianism
+      name_ja: 宋明理学
+      era: "1000 ~ 1600"
+      region: china
+    - id: new_confucianism
+      name_en: New Confucianism
+      name_ja: 新儒学
+      era: "1920 ~ present"
+      region: china_taiwan
+    - id: daoism
+      name_en: Daoism
+      name_ja: 道教
+      era: "-600 ~ present"
+      region: china
+    - id: chinese_buddhism
+      name_en: Chinese Buddhism
+      name_ja: 中国仏教
+      era: "100 ~ present"
+      region: china
+    - id: legalism
+      name_en: Legalism
+      name_ja: 法家
+      era: "-400 ~ -200"
+      region: china
+    - id: mohism
+      name_en: Mohism
+      name_ja: 墨家
+      era: "-470 ~ -220"
+      region: china
+  japanese:
+    - id: kyoto_school
+      name_en: Kyoto School
+      name_ja: 京都学派
+      era: "1913 ~ present"
+      region: japan
+    - id: zen_buddhism
+      name_en: Zen Buddhism
+      name_ja: 禅仏教
+      era: "1200 ~ present"
+      region: japan
+    - id: watsuji_ethics
+      name_en: Watsuji Ethics
+      name_ja: 和辻倫理学
+      era: "1930 ~ 1960"
+      region: japan
+    - id: national_learning
+      name_en: National Learning
+      name_ja: 国学
+      era: "1700 ~ 1870"
+      region: japan
+  korean:
+    - id: korean_confucianism
+      name_en: Korean Confucianism
+      era: "1300 ~ present"
+      region: korea
+    - id: korean_buddhism
+      name_en: Korean Buddhism
+      era: "400 ~ present"
+      region: korea
+
+south_asian:
+  hindu:
+    - id: vedanta
+      name_en: Vedanta
+      era: "-800 ~ present"
+      region: india
+    - id: advaita
+      name_en: Advaita Vedanta
+      era: "700 ~ present"
+      region: india
+    - id: yoga
+      name_en: Yoga
+      era: "-400 ~ present"
+      region: india
+    - id: samkhya
+      name_en: Samkhya
+      era: "-400 ~ present"
+      region: india
+    - id: nyaya
+      name_en: Nyaya
+      era: "-200 ~ present"
+      region: india
+  buddhist:
+    - id: theravada
+      name_en: Theravada
+      era: "-300 ~ present"
+      region: south_southeast_asia
+    - id: madhyamaka
+      name_en: Madhyamaka
+      era: "150 ~ present"
+      region: india_tibet
+    - id: yogacara
+      name_en: Yogacara
+      era: "300 ~ present"
+      region: india
+    - id: tibetan_buddhism
+      name_en: Tibetan Buddhism
+      era: "700 ~ present"
+      region: tibet
+  heterodox:
+    - id: jainism
+      name_en: Jainism
+      era: "-600 ~ present"
+      region: india
+    - id: carvaka
+      name_en: Carvaka
+      era: "-600 ~ 1400"
+      region: india
+
+islamic:
+  kalam:
+    - id: ashari
+      name_en: Ash'ari
+      era: "900 ~ present"
+      region: islamic_world
+    - id: mutazili
+      name_en: Mu'tazili
+      era: "750 ~ 1200"
+      region: islamic_world
+  falsafa:
+    - id: avicennism
+      name_en: Avicennism
+      era: "980 ~ present"
+      region: persia
+    - id: averroism
+      name_en: Averroism
+      era: "1126 ~ 1400"
+      region: iberia
+  illuminationist:
+    - id: ishraqism
+      name_en: Illuminationism
+      era: "1170 ~ present"
+      region: persia
+
+african:
+  - id: ubuntu_philosophy
+    name_en: Ubuntu Philosophy
+    era: "1950 ~ present"
+    region: southern_africa
+  - id: sage_philosophy
+    name_en: Sage Philosophy
+    era: "1970 ~ present"
+    region: east_africa
+  - id: ethnophilosophy
+    name_en: Ethnophilosophy
+    era: "1945 ~ present"
+    region: africa
+  - id: african_existentialism
+    name_en: African Existentialism
+    era: "1940 ~ present"
+    region: africa

@@ -1,0 +1,21 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "philengine"
+version = "0.1.0"
+description = "Text quantification engine for the Phil philosophy ecosystem"
+license = "MIT"
+requires-python = ">=3.11"
+authors = [{ name = "Yusuke Matsui", email = "mail.to.matsui@gmail.com" }]
+dependencies = ["numpy>=1.24", "scipy>=1.10", "pydantic>=2.6"]
+
+[project.optional-dependencies]
+st = ["sentence-transformers>=3.0", "torch>=2.0"]
+openai = ["openai>=1.0"]
+cohere = ["cohere>=5.0"]
+all = ["sentence-transformers>=3.0", "torch>=2.0", "openai>=1.0", "cohere>=5.0"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/philengine"]

@@ -1,0 +1,39 @@
+embedding_models:
+  - name: intfloat/multilingual-e5-large
+    type: sentence_transformer
+    dimensions: 1024
+    languages: multilingual
+    recommended_for: concept_alignment
+
+  - name: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+    type: sentence_transformer
+    dimensions: 384
+    languages: multilingual
+    recommended_for: lightweight_similarity
+
+  - name: BAAI/bge-m3
+    type: sentence_transformer
+    dimensions: 1024
+    languages: multilingual
+    recommended_for: dense_retrieval
+
+  - name: openai/text-embedding-3-large
+    type: api
+    dimensions: 3072
+    languages: multilingual
+    recommended_for: high_accuracy
+
+  - name: cohere/embed-multilingual-v3.0
+    type: api
+    dimensions: 1024
+    languages: multilingual
+    recommended_for: multilingual_search
+
+llm_models:
+  - name: claude-sonnet-4-20250514
+    provider: anthropic
+    recommended_for: concept_extraction
+
+  - name: gpt-4o
+    provider: openai
+    recommended_for: text_classification

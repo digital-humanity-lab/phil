@@ -1,0 +1,27 @@
+Package: philworkbench
+Title: Philosophy Research Workbench
+Version: 0.1.0
+Authors@R:
+    person("Yusuke", "Matsui", email = "mail.to.matsui@gmail.com", role = c("aut", "cre"))
+Description: An integrated workbench for computational philosophy research.
+    Provides a unified verb-based interface (phil_read, phil_explore, phil_compare,
+    phil_plot, etc.) that orchestrates all layers of the Phil ecosystem. Includes
+    an interactive Shiny dashboard, Quarto integration for reproducible research,
+    and export to LaTeX/BibTeX.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports:
+    philcore,
+    philengine,
+    philmap,
+    jsonlite
+Suggests:
+    testthat (>= 3.0.0),
+    shiny,
+    ggplot2,
+    DT,
+    knitr,
+    quarto
+Config/testthat/edition: 3

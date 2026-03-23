@@ -1,0 +1,168 @@
+# Phil Ecosystem - Benchmark Concept Pairs v1
+# 15 cross-tradition pairs with expected similarity and scholarly references
+
+pairs:
+  - concept_a:
+      id: "phil:C00142"
+      label: "間柄 (aidagara)"
+      tradition: "watsuji_ethics"
+    concept_b:
+      id: "phil:C00089"
+      label: "Mitsein"
+      tradition: "phenomenology"
+    expected_similarity: 0.82
+    scholarly_reference: "Krueger 2009, 'Watsuji's Phenomenology of Embodiment and Social Space'"
+
+  - concept_a:
+      id: "phil:C00045"
+      label: "場所 (basho)"
+      tradition: "kyoto_school"
+    concept_b:
+      id: "phil:C00091"
+      label: "Lichtung"
+      tradition: "phenomenology"
+    expected_similarity: 0.72
+    scholarly_reference: "Davis 2019, 'Zen Pathways'"
+
+  - concept_a:
+      id: "phil:C00023"
+      label: "仁 (ren)"
+      tradition: "confucianism"
+    concept_b:
+      id: "phil:C00156"
+      label: "Ubuntu"
+      tradition: "ubuntu_philosophy"
+    expected_similarity: 0.68
+    scholarly_reference: "Metz 2017, 'Ubuntu as a Moral Theory'"
+
+  - concept_a:
+      id: "phil:C00034"
+      label: "空 (sunyata)"
+      tradition: "madhyamaka"
+    concept_b:
+      id: "phil:C00167"
+      label: "Différance"
+      tradition: "poststructuralism"
+    expected_similarity: 0.55
+    scholarly_reference: "Loy 1987, 'The Deconstruction of Buddhism'"
+
+  - concept_a:
+      id: "phil:C00012"
+      label: "道 (dao)"
+      tradition: "daoism"
+    concept_b:
+      id: "phil:C00178"
+      label: "Logos"
+      tradition: "ancient_greek"
+    expected_similarity: 0.45
+    scholarly_reference: "Zhang 2002, 'Comparative Studies of Chinese and Western Philosophy'"
+
+  - concept_a:
+      id: "phil:C00001"
+      label: "autonomy"
+      tradition: "kantian_ethics"
+    concept_b:
+      id: "phil:C00189"
+      label: "自律 (jiritsu)"
+      tradition: "japanese_philosophy"
+    expected_similarity: 0.75
+    scholarly_reference: "Heisig 2001, 'Philosophers of Nothingness'"
+
+  - concept_a:
+      id: "phil:C00056"
+      label: "Dasein"
+      tradition: "phenomenology"
+    concept_b:
+      id: "phil:C00045"
+      label: "場所 (basho)"
+      tradition: "kyoto_school"
+    expected_similarity: 0.65
+    scholarly_reference: "Nishitani 1982, 'Religion and Nothingness'"
+
+  - concept_a:
+      id: "phil:C00078"
+      label: "karma"
+      tradition: "hinduism"
+    concept_b:
+      id: "phil:C00190"
+      label: "因果 (inga)"
+      tradition: "buddhism_ea"
+    expected_similarity: 0.70
+    scholarly_reference: "Reichenbach 1990, 'The Law of Karma'"
+
+  - concept_a:
+      id: "phil:C00090"
+      label: "atman"
+      tradition: "vedanta"
+    concept_b:
+      id: "phil:C00034"
+      label: "無我 (anatman)"
+      tradition: "theravada"
+    expected_similarity: 0.35
+    scholarly_reference: "Hamilton 2000, 'Early Buddhism: A New Approach'"
+
+  - concept_a:
+      id: "phil:C00101"
+      label: "Aufhebung"
+      tradition: "german_idealism"
+    concept_b:
+      id: "phil:C00034"
+      label: "空 (sunyata)"
+      tradition: "madhyamaka"
+    expected_similarity: 0.50
+    scholarly_reference: "Inada 1991, 'Nagarjuna and Analytic Philosophy'"
+
+  - concept_a:
+      id: "phil:C00112"
+      label: "Ich-Du"
+      tradition: "dialogical_philosophy"
+    concept_b:
+      id: "phil:C00142"
+      label: "間柄 (aidagara)"
+      tradition: "watsuji_ethics"
+    expected_similarity: 0.79
+    scholarly_reference: "McCarthy 2010, 'The Political Humanism of Hannah Arendt'"
+
+  - concept_a:
+      id: "phil:C00123"
+      label: "li (理)"
+      tradition: "neo_confucianism"
+    concept_b:
+      id: "phil:C00134"
+      label: "Eidos"
+      tradition: "platonism"
+    expected_similarity: 0.58
+    scholarly_reference: "Angle 2009, 'Sagehood'"
+
+  - concept_a:
+      id: "phil:C00145"
+      label: "pratityasamutpada"
+      tradition: "buddhism"
+    concept_b:
+      id: "phil:C00156"
+      label: "Ubuntu"
+      tradition: "ubuntu_philosophy"
+    expected_similarity: 0.52
+    scholarly_reference: "Metz & Miller 2016"
+
+  - concept_a:
+      id: "phil:C00167"
+      label: "le visage"
+      tradition: "phenomenology"
+    concept_b:
+      id: "phil:C00142"
+      label: "間柄 (aidagara)"
+      tradition: "watsuji_ethics"
+    expected_similarity: 0.74
+    scholarly_reference: "Levinas 1969, 'Totality and Infinity'"
+
+  - concept_a:
+      id: "phil:C00178"
+      label: "wu wei (無為)"
+      tradition: "daoism"
+    concept_b:
+      id: "phil:C00189"
+      label: "Gelassenheit"
+      tradition: "phenomenology"
+    expected_similarity: 0.62
+    scholarly_reference: "Parkes 1987, 'Heidegger and Asian Thought'"
