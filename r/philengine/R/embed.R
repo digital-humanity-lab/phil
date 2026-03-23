@@ -8,8 +8,15 @@ phil_embed <- function(engine, texts) {
   stopifnot(inherits(engine, "phil_engine"))
 
   body <- list(texts = texts, model = engine$model)
-  resp <- .api_post(engine$api_url, "/embed", body)
+  resp <- tryCatch(
+    .api_post(engine$api_url, "/embed", body),
+    error = function(e) {
+      warning("phil_embed: API unreachable, returning NULL. ", e$message)
+      return(NULL)
+    }
+  )
 
+  if (is.null(resp)) return(NULL)
   do.call(rbind, resp$embeddings)
 }
 
@@ -33,6 +40,10 @@ phil_embed_corpus <- function(engine, corpus, layer_name = "embedding") {
   }
 
   embeddings <- phil_embed(engine, texts)
+  if (is.null(embeddings)) {
+    warning("phil_embed_corpus: embedding failed, returning corpus unchanged.")
+    return(corpus)
+  }
   philcore::phil_add_layer(corpus, layer_name, embeddings)
 }
 

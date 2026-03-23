@@ -4,7 +4,7 @@ from __future__ import annotations
 
 from typing import Iterator
 
-from philgraph.backend.base import GraphBackend
+from philgraph.backends.base import GraphBackend
 from philgraph.schema import Edge, EdgeProperties, EdgeType, NodeBase, NODE_TYPE_MAP
 
 
@@ -146,7 +146,7 @@ class Neo4jBackend(GraphBackend):
 
     def subgraph(self, uids: set[str]) -> Neo4jBackend:
         # For subgraph, fall back to in-memory filtering
-        from philgraph.backend.networkx_backend import NetworkXBackend
+        from philgraph.backends.networkx_backend import NetworkXBackend
         nx_backend = NetworkXBackend()
         for uid in uids:
             node = self._nodes.get(uid)

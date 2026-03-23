@@ -16,7 +16,8 @@ Imports:
     philcore,
     philengine,
     philmap,
-    jsonlite
+    jsonlite,
+    digest
 Suggests:
     testthat (>= 3.0.0),
     shiny,

@@ -2,7 +2,10 @@
 #' @return Character path to cache directory.
 #' @export
 phil_cache_path <- function() {
-  path <- file.path(rappdirs::user_cache_dir("phil"), "embeddings")
+  path <- tryCatch(
+    file.path(rappdirs::user_cache_dir("phil"), "embeddings"),
+    error = function(e) file.path(tempdir(), "phil_cache", "embeddings")
+  )
   if (!dir.exists(path)) dir.create(path, recursive = TRUE)
   path
 }

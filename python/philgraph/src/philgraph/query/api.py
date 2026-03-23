@@ -60,7 +60,7 @@ class QueryAPI:
     def export_graphml(self, path: str | Path) -> None:
         """Export graph to GraphML format."""
         import networkx as nx
-        from philgraph.backend.networkx_backend import NetworkXBackend
+        from philgraph.backends.networkx_backend import NetworkXBackend
 
         g = nx.MultiDiGraph()
         for uid, node in self.graph.iter_nodes():
@@ -124,7 +124,7 @@ class QueryAPI:
 
     def export_rdf(self, path: str | Path, format: str = "turtle") -> None:
         """Export graph to RDF."""
-        from philgraph.backend.rdflib_backend import RDFLibBackend
+        from philgraph.backends.rdflib_backend import RDFLibBackend
         if isinstance(self.graph.backend, RDFLibBackend):
             self.graph.backend.export_rdf(str(path), format=format)
         else:
