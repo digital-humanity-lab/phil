@@ -1,0 +1,11 @@
+id: oa_comparative_philosophy_v1
+title: "Open Access Comparative Philosophy Papers"
+description: "OA papers from comparative philosophy journals and cross-tradition studies"
+version: "0.1.0"
+sources: ["openalex", "philarchive"]
+language: ["en", "ja", "de"]
+tradition: ["comparative"]
+estimated_size: "2000-5000 papers"
+license: "mixed (CC-BY, CC-BY-SA, OA)"
+format: "philcorpus"
+status: "planned"

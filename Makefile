@@ -1,4 +1,4 @@
-.PHONY: test-python test-r test-all lint build-api docker-up
+.PHONY: test-python test-r test-all test-philcorpus lint build-api docker-up
 
 test-python:
 	@echo "Running Python tests..."
@@ -17,6 +17,10 @@ test-r:
 			Rscript -e "testthat::test_dir('$$pkg/tests/testthat')"; \
 		fi \
 	done
+
+test-philcorpus:
+	@echo "Testing philcorpus..."
+	@cd python/philcorpus && python -m pytest tests/ -v
 
 test-all: test-python test-r
 

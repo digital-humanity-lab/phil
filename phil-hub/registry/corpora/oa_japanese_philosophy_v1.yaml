@@ -1,0 +1,17 @@
+id: oa_japanese_philosophy_v1
+title: "J-STAGE日本哲学論文コーパス"
+description: "J-STAGE掲載の日本語哲学論文（OA）"
+version: "0.1.0"
+sources: ["jstage", "cinii"]
+language: ["ja"]
+tradition: ["kyoto_school", "watsuji_ethics", "zen_buddhism", "japanese_philosophy"]
+journals:
+  - "哲学研究"
+  - "倫理学年報"
+  - "比較思想研究"
+  - "宗教研究"
+  - "科学哲学"
+estimated_size: "1000-3000 papers"
+license: "OA (journal-dependent)"
+format: "philcorpus"
+status: "planned"
