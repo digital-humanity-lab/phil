@@ -157,27 +157,48 @@ TRADITION_PATTERNS = {
 
 
 def compute_relevance(paper: dict, lang: str = "en") -> dict:
-    """Compute philosophy relevance score and detect traditions/themes."""
+    """Compute philosophy relevance score and detect traditions/themes.
+
+    Scoring is language-aware: non-English papers receive a baseline bonus
+    because they were retrieved via language-specific philosophy queries
+    and their abstracts may not contain English keywords.
+    """
     title = (paper.get("title") or "").lower()
     abstract = (paper.get("abstract") or "").lower()
     text = title + " " + abstract
 
     score = 0
 
-    # Core keywords
+    # Core keywords: check BOTH English and language-specific
     keywords = CORE_KEYWORDS_EN + CORE_KEYWORDS_MULTI.get(lang, [])
     matches = sum(1 for kw in keywords if kw in text)
     score += min(matches * 10, 50)
 
-    # Exclusion
-    excluded = False
-    for kw in SelectionCriteria().exclude_domains:
-        if kw in text:
-            score -= 30
-            excluded = True
-            break
+    # Non-English baseline: papers retrieved via language-filtered
+    # philosophy queries deserve a baseline score even without English keywords
+    if lang != "en" and lang != "unknown":
+        # Check native-language philosophy keywords
+        native_kws = CORE_KEYWORDS_MULTI.get(lang, [])
+        native_matches = sum(1 for kw in native_kws if kw in text)
+        if native_matches > 0:
+            score += 25  # Strong signal: contains philosophy terms in native language
+        elif matches == 0:
+            # No keywords found at all - still came from philosophy query
+            # Give moderate baseline if title/abstract exists
+            if len(text) > 50:
+                score += 15
 
-    # Tradition detection
+    # Exclusion (only apply to English text to avoid false exclusions
+    # on non-English papers)
+    excluded = False
+    if lang == "en" or lang == "unknown":
+        for kw in SelectionCriteria().exclude_domains:
+            if kw in text:
+                score -= 30
+                excluded = True
+                break
+
+    # Tradition detection (uses multilingual patterns)
     traditions = []
     for trad, patterns in TRADITION_PATTERNS.items():
         if any(p in text for p in patterns):
@@ -362,6 +383,47 @@ COLLECTION_PLAN = {
         "ar": "filter=language:ar,concept.id:C138885662&per_page=200",
         "ru": "filter=language:ru,concept.id:C138885662&per_page=200",
     },
+
+    # Cross: tradition × language (addresses the gap where tradition queries
+    # return only English and language queries miss philosophy)
+    "by_tradition_language": {
+        # German × phenomenology/hermeneutics/idealism
+        ("de", "phenomenology"): "filter=language:de&search=Phänomenologie Husserl Heidegger Bewusstsein",
+        ("de", "hermeneutics"): "filter=language:de&search=Hermeneutik Gadamer Verstehen Auslegung",
+        ("de", "german_idealism"): "filter=language:de&search=Hegel Dialektik Aufhebung Geist Vernunft",
+        ("de", "kantian"): "filter=language:de&search=Kant Kritik Vernunft transzendental kategorisch",
+        ("de", "existentialism"): "filter=language:de&search=Existenzphilosophie Jaspers Heidegger Angst Dasein",
+        # French × existentialism/poststructuralism/phenomenology
+        ("fr", "existentialism"): "filter=language:fr&search=existentialisme Sartre Merleau-Ponty liberté néant",
+        ("fr", "poststructuralism"): "filter=language:fr&search=Derrida déconstruction Foucault Deleuze différance",
+        ("fr", "phenomenology"): "filter=language:fr&search=phénoménologie Husserl Merleau-Ponty intentionnalité",
+        ("fr", "hermeneutics"): "filter=language:fr&search=Ricoeur herméneutique interprétation narratif",
+        ("fr", "ethics"): "filter=language:fr&search=Levinas éthique visage autrui responsabilité",
+        # Japanese × kyoto_school/buddhism/confucianism
+        ("ja", "kyoto_school"): "filter=language:ja&search=京都学派 西田幾多郎 絶対無 場所",
+        ("ja", "watsuji_ethics"): "filter=language:ja&search=和辻哲郎 間柄 倫理学 風土",
+        ("ja", "buddhism"): "filter=language:ja&search=仏教 禅 空 縁起 龍樹",
+        ("ja", "phenomenology"): "filter=language:ja&search=現象学 フッサール ハイデガー 存在",
+        ("ja", "confucianism"): "filter=language:ja&search=儒教 儒学 孔子 朱子学",
+        # Chinese × confucianism/daoism/buddhism
+        ("zh", "confucianism"): "filter=language:zh&search=儒学 孔子 孟子 仁义 礼",
+        ("zh", "daoism"): "filter=language:zh&search=道家 老子 庄子 道德经 无为",
+        ("zh", "buddhism"): "filter=language:zh&search=佛教 佛学 空 般若 中观",
+        ("zh", "neo_confucianism"): "filter=language:zh&search=宋明理学 朱熹 王阳明 心学",
+        # Korean × confucianism/buddhism
+        ("ko", "confucianism"): "filter=language:ko&search=유교 성리학 퇴계 율곡",
+        ("ko", "buddhism"): "filter=language:ko&search=불교 선 원불교 철학",
+        # Arabic × islamic
+        ("ar", "islamic_philosophy"): "filter=language:ar&search=فلسفة إسلامية ابن سينا الفارابي",
+        ("ar", "kalam"): "filter=language:ar&search=علم الكلام الأشعري المعتزلة",
+        # Spanish × liberation
+        ("es", "latin_american"): "filter=language:es&search=filosofía liberación Dussel Freire ética",
+        ("es", "phenomenology"): "filter=language:es&search=fenomenología hermenéutica Heidegger Husserl",
+        # Portuguese × philosophy
+        ("pt", "ethics"): "filter=language:pt&search=filosofia ética fenomenologia hermenêutica",
+        # Russian × philosophy
+        ("ru", "philosophy"): "filter=language:ru&search=философия феноменология герменевтика этика",
+    },
 }
 
 
@@ -420,6 +482,23 @@ def run_collection(config_path: str | None = None, dry_run: bool = False) -> dic
             "query": query, "count": len(papers),
         })
         logger.info(f"  {lang}: {len(papers)} papers")
+        time.sleep(1)
+
+    # Phase 2b: Tradition × Language cross-queries
+    logger.info("Phase 2b: Tradition × Language cross-queries")
+    cross_plan = COLLECTION_PLAN.get("by_tradition_language", {})
+    for (lang, tradition), query in cross_plan.items():
+        target = 100
+        if dry_run:
+            logger.info(f"  [DRY RUN] {lang}×{tradition}: {query[:50]}...")
+            continue
+        papers = fetch_openalex(query, limit=target)
+        all_papers.extend(papers)
+        manifest["sources"].append({
+            "type": "tradition_language", "language": lang,
+            "tradition": tradition, "query": query, "count": len(papers),
+        })
+        logger.info(f"  {lang}×{tradition}: {len(papers)} papers")
         time.sleep(1)
 
     if dry_run:

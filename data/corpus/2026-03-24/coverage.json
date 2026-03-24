@@ -1,43 +1,43 @@
 {
-  "total_raw": 4064,
-  "total_filtered": 1809,
-  "filter_rate": "44.5%",
+  "total_raw": 4535,
+  "total_filtered": 2488,
+  "filter_rate": "54.9%",
   "tradition_coverage": {
     "phenomenology": {
       "target": 200,
-      "actual": 345,
+      "actual": 417,
       "met": true,
-      "ratio": "172%"
+      "ratio": "208%"
     },
     "confucianism": {
       "target": 200,
-      "actual": 1216,
+      "actual": 1720,
       "met": true,
-      "ratio": "608%"
+      "ratio": "860%"
     },
     "buddhism": {
       "target": 200,
-      "actual": 261,
+      "actual": 311,
       "met": true,
-      "ratio": "130%"
+      "ratio": "156%"
     },
     "daoism": {
       "target": 100,
-      "actual": 103,
+      "actual": 176,
       "met": true,
-      "ratio": "103%"
+      "ratio": "176%"
     },
     "platonism": {
       "target": 100,
-      "actual": 307,
+      "actual": 320,
       "met": true,
-      "ratio": "307%"
+      "ratio": "320%"
     },
     "aristotelianism": {
       "target": 100,
-      "actual": 93,
+      "actual": 95,
       "met": false,
-      "ratio": "93%"
+      "ratio": "95%"
     },
     "stoicism": {
       "target": 100,
@@ -53,51 +53,51 @@
     },
     "german_idealism": {
       "target": 100,
-      "actual": 111,
+      "actual": 139,
       "met": true,
-      "ratio": "111%"
+      "ratio": "139%"
     },
     "kantian": {
       "target": 100,
-      "actual": 340,
+      "actual": 384,
       "met": true,
-      "ratio": "340%"
+      "ratio": "384%"
     },
     "existentialism": {
       "target": 100,
-      "actual": 128,
+      "actual": 151,
       "met": true,
-      "ratio": "128%"
+      "ratio": "151%"
     },
     "hermeneutics": {
       "target": 100,
-      "actual": 103,
+      "actual": 157,
       "met": true,
-      "ratio": "103%"
+      "ratio": "157%"
     },
     "analytic": {
       "target": 100,
-      "actual": 119,
+      "actual": 125,
       "met": true,
-      "ratio": "119%"
+      "ratio": "125%"
     },
     "poststructuralism": {
       "target": 100,
-      "actual": 111,
+      "actual": 127,
       "met": true,
-      "ratio": "111%"
+      "ratio": "127%"
     },
     "pragmatism": {
       "target": 100,
-      "actual": 134,
+      "actual": 142,
       "met": true,
-      "ratio": "134%"
+      "ratio": "142%"
     },
     "critical_theory": {
       "target": 50,
-      "actual": 58,
+      "actual": 81,
       "met": true,
-      "ratio": "116%"
+      "ratio": "162%"
     },
     "ubuntu_philosophy": {
       "target": 100,
@@ -113,21 +113,21 @@
     },
     "islamic_philosophy": {
       "target": 200,
-      "actual": 82,
+      "actual": 85,
       "met": false,
-      "ratio": "41%"
+      "ratio": "42%"
     },
     "indian_philosophy": {
       "target": 200,
-      "actual": 60,
+      "actual": 62,
       "met": false,
-      "ratio": "30%"
+      "ratio": "31%"
     },
     "kyoto_school": {
       "target": 100,
-      "actual": 55,
+      "actual": 57,
       "met": false,
-      "ratio": "55%"
+      "ratio": "57%"
     },
     "korean_philosophy": {
       "target": 50,
@@ -137,9 +137,9 @@
     },
     "latin_american": {
       "target": 50,
-      "actual": 11,
+      "actual": 14,
       "met": false,
-      "ratio": "22%"
+      "ratio": "28%"
     },
     "process_philosophy": {
       "target": 50,
@@ -149,9 +149,9 @@
     },
     "watsuji_ethics": {
       "target": 50,
-      "actual": 12,
+      "actual": 13,
       "met": false,
-      "ratio": "24%"
+      "ratio": "26%"
     }
   },
   "language_coverage": {
@@ -162,72 +162,71 @@
     },
     "de": {
       "target": 200,
-      "actual": 19,
-      "met": false
+      "actual": 266,
+      "met": true
     },
     "fr": {
       "target": 200,
-      "actual": 30,
+      "actual": 90,
       "met": false
     },
     "ja": {
       "target": 200,
-      "actual": 4,
+      "actual": 39,
       "met": false
     },
     "zh": {
       "target": 200,
-      "actual": 10,
+      "actual": 133,
       "met": false
     },
     "es": {
       "target": 100,
-      "actual": 21,
+      "actual": 92,
       "met": false
     },
     "pt": {
       "target": 100,
-      "actual": 16,
+      "actual": 64,
       "met": false
     },
     "ko": {
       "target": 100,
-      "actual": 6,
+      "actual": 35,
       "met": false
     },
     "ar": {
       "target": 100,
-      "actual": 13,
+      "actual": 51,
       "met": false
     },
     "ru": {
       "target": 100,
-      "actual": 10,
+      "actual": 23,
       "met": false
     }
   },
   "temporal_coverage": {},
   "gaps": [
-    "tradition:aristotelianism (93/100)",
+    "tradition:aristotelianism (95/100)",
     "tradition:stoicism (84/100)",
     "tradition:scholasticism (56/100)",
     "tradition:ubuntu_philosophy (55/100)",
     "tradition:african_philosophy (25/100)",
-    "tradition:islamic_philosophy (82/200)",
-    "tradition:indian_philosophy (60/200)",
-    "tradition:kyoto_school (55/100)",
+    "tradition:islamic_philosophy (85/200)",
+    "tradition:indian_philosophy (62/200)",
+    "tradition:kyoto_school (57/100)",
     "tradition:korean_philosophy (26/50)",
-    "tradition:latin_american (11/50)",
+    "tradition:latin_american (14/50)",
     "tradition:process_philosophy (29/50)",
-    "tradition:watsuji_ethics (12/50)",
-    "language:de (19/200)",
-    "language:fr (30/200)",
-    "language:ja (4/200)",
-    "language:zh (10/200)",
-    "language:es (21/100)",
-    "language:pt (16/100)",
-    "language:ko (6/100)",
-    "language:ar (13/100)",
-    "language:ru (10/100)"
+    "tradition:watsuji_ethics (13/50)",
+    "language:fr (90/200)",
+    "language:ja (39/200)",
+    "language:zh (133/200)",
+    "language:es (92/100)",
+    "language:pt (64/100)",
+    "language:ko (35/100)",
+    "language:ar (51/100)",
+    "language:ru (23/100)"
   ]
 }

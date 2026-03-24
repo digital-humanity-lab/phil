@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-24T17:49:05.611499",
+  "timestamp": "2026-03-24T19:27:19.454809",
   "criteria": {
     "min_relevance_score": 40,
     "min_abstract_length": 100,
@@ -289,35 +289,223 @@
       "language": "ru",
       "query": "filter=language:ru,concept.id:C138885662&per_page=200",
       "count": 100
+    },
+    {
+      "type": "tradition_language",
+      "language": "de",
+      "tradition": "phenomenology",
+      "query": "filter=language:de&search=Phänomenologie Husserl Heidegger Bewusstsein",
+      "count": 7
+    },
+    {
+      "type": "tradition_language",
+      "language": "de",
+      "tradition": "hermeneutics",
+      "query": "filter=language:de&search=Hermeneutik Gadamer Verstehen Auslegung",
+      "count": 100
+    },
+    {
+      "type": "tradition_language",
+      "language": "de",
+      "tradition": "german_idealism",
+      "query": "filter=language:de&search=Hegel Dialektik Aufhebung Geist Vernunft",
+      "count": 100
+    },
+    {
+      "type": "tradition_language",
+      "language": "de",
+      "tradition": "kantian",
+      "query": "filter=language:de&search=Kant Kritik Vernunft transzendental kategorisch",
+      "count": 56
+    },
+    {
+      "type": "tradition_language",
+      "language": "de",
+      "tradition": "existentialism",
+      "query": "filter=language:de&search=Existenzphilosophie Jaspers Heidegger Angst Dasein",
+      "count": 63
+    },
+    {
+      "type": "tradition_language",
+      "language": "fr",
+      "tradition": "existentialism",
+      "query": "filter=language:fr&search=existentialisme Sartre Merleau-Ponty liberté néant",
+      "count": 0
+    },
+    {
+      "type": "tradition_language",
+      "language": "fr",
+      "tradition": "poststructuralism",
+      "query": "filter=language:fr&search=Derrida déconstruction Foucault Deleuze différance",
+      "count": 0
+    },
+    {
+      "type": "tradition_language",
+      "language": "fr",
+      "tradition": "phenomenology",
+      "query": "filter=language:fr&search=phénoménologie Husserl Merleau-Ponty intentionnalité",
+      "count": 1
+    },
+    {
+      "type": "tradition_language",
+      "language": "fr",
+      "tradition": "hermeneutics",
+      "query": "filter=language:fr&search=Ricoeur herméneutique interprétation narratif",
+      "count": 1
+    },
+    {
+      "type": "tradition_language",
+      "language": "fr",
+      "tradition": "ethics",
+      "query": "filter=language:fr&search=Levinas éthique visage autrui responsabilité",
+      "count": 5
+    },
+    {
+      "type": "tradition_language",
+      "language": "ja",
+      "tradition": "kyoto_school",
+      "query": "filter=language:ja&search=京都学派 西田幾多郎 絶対無 場所",
+      "count": 1
+    },
+    {
+      "type": "tradition_language",
+      "language": "ja",
+      "tradition": "watsuji_ethics",
+      "query": "filter=language:ja&search=和辻哲郎 間柄 倫理学 風土",
+      "count": 1
+    },
+    {
+      "type": "tradition_language",
+      "language": "ja",
+      "tradition": "buddhism",
+      "query": "filter=language:ja&search=仏教 禅 空 縁起 龍樹",
+      "count": 0
+    },
+    {
+      "type": "tradition_language",
+      "language": "ja",
+      "tradition": "phenomenology",
+      "query": "filter=language:ja&search=現象学 フッサール ハイデガー 存在",
+      "count": 1
+    },
+    {
+      "type": "tradition_language",
+      "language": "ja",
+      "tradition": "confucianism",
+      "query": "filter=language:ja&search=儒教 儒学 孔子 朱子学",
+      "count": 10
+    },
+    {
+      "type": "tradition_language",
+      "language": "zh",
+      "tradition": "confucianism",
+      "query": "filter=language:zh&search=儒学 孔子 孟子 仁义 礼",
+      "count": 23
+    },
+    {
+      "type": "tradition_language",
+      "language": "zh",
+      "tradition": "daoism",
+      "query": "filter=language:zh&search=道家 老子 庄子 道德经 无为",
+      "count": 23
+    },
+    {
+      "type": "tradition_language",
+      "language": "zh",
+      "tradition": "buddhism",
+      "query": "filter=language:zh&search=佛教 佛学 空 般若 中观",
+      "count": 22
+    },
+    {
+      "type": "tradition_language",
+      "language": "zh",
+      "tradition": "neo_confucianism",
+      "query": "filter=language:zh&search=宋明理学 朱熹 王阳明 心学",
+      "count": 15
+    },
+    {
+      "type": "tradition_language",
+      "language": "ko",
+      "tradition": "confucianism",
+      "query": "filter=language:ko&search=유교 성리학 퇴계 율곡",
+      "count": 2
+    },
+    {
+      "type": "tradition_language",
+      "language": "ko",
+      "tradition": "buddhism",
+      "query": "filter=language:ko&search=불교 선 원불교 철학",
+      "count": 0
+    },
+    {
+      "type": "tradition_language",
+      "language": "ar",
+      "tradition": "islamic_philosophy",
+      "query": "filter=language:ar&search=فلسفة إسلامية ابن سينا الفارابي",
+      "count": 0
+    },
+    {
+      "type": "tradition_language",
+      "language": "ar",
+      "tradition": "kalam",
+      "query": "filter=language:ar&search=علم الكلام الأشعري المعتزلة",
+      "count": 5
+    },
+    {
+      "type": "tradition_language",
+      "language": "es",
+      "tradition": "latin_american",
+      "query": "filter=language:es&search=filosofía liberación Dussel Freire ética",
+      "count": 1
+    },
+    {
+      "type": "tradition_language",
+      "language": "es",
+      "tradition": "phenomenology",
+      "query": "filter=language:es&search=fenomenología hermenéutica Heidegger Husserl",
+      "count": 37
+    },
+    {
+      "type": "tradition_language",
+      "language": "pt",
+      "tradition": "ethics",
+      "query": "filter=language:pt&search=filosofia ética fenomenologia hermenêutica",
+      "count": 10
+    },
+    {
+      "type": "tradition_language",
+      "language": "ru",
+      "tradition": "philosophy",
+      "query": "filter=language:ru&search=философия феноменология герменевтика этика",
+      "count": 0
     }
   ],
   "statistics": {
-    "total_raw": 4064,
-    "total_filtered": 1809,
+    "total_raw": 4535,
+    "total_filtered": 2488,
     "traditions_detected": 25,
-    "languages": 26,
+    "languages": 29,
     "gaps": [
-      "tradition:aristotelianism (93/100)",
+      "tradition:aristotelianism (95/100)",
       "tradition:stoicism (84/100)",
       "tradition:scholasticism (56/100)",
       "tradition:ubuntu_philosophy (55/100)",
       "tradition:african_philosophy (25/100)",
-      "tradition:islamic_philosophy (82/200)",
-      "tradition:indian_philosophy (60/200)",
-      "tradition:kyoto_school (55/100)",
+      "tradition:islamic_philosophy (85/200)",
+      "tradition:indian_philosophy (62/200)",
+      "tradition:kyoto_school (57/100)",
       "tradition:korean_philosophy (26/50)",
-      "tradition:latin_american (11/50)",
+      "tradition:latin_american (14/50)",
       "tradition:process_philosophy (29/50)",
-      "tradition:watsuji_ethics (12/50)",
-      "language:de (19/200)",
-      "language:fr (30/200)",
-      "language:ja (4/200)",
-      "language:zh (10/200)",
-      "language:es (21/100)",
-      "language:pt (16/100)",
-      "language:ko (6/100)",
-      "language:ar (13/100)",
-      "language:ru (10/100)"
+      "tradition:watsuji_ethics (13/50)",
+      "language:fr (90/200)",
+      "language:ja (39/200)",
+      "language:zh (133/200)",
+      "language:es (92/100)",
+      "language:pt (64/100)",
+      "language:ko (35/100)",
+      "language:ar (51/100)",
+      "language:ru (23/100)"
     ]
   }
 }
