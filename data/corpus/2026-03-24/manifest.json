@@ -1,0 +1,323 @@
+{
+  "timestamp": "2026-03-24T17:49:05.611499",
+  "criteria": {
+    "min_relevance_score": 40,
+    "min_abstract_length": 100,
+    "exclude_domains": [
+      "nursing",
+      "clinical trial",
+      "patient care",
+      "healthcare delivery",
+      "classroom management",
+      "teaching method",
+      "curriculum design",
+      "marketing strategy",
+      "business model",
+      "supply chain",
+      "sports performance",
+      "physical therapy",
+      "rehabilitation",
+      "software engineering",
+      "agricultural",
+      "crop yield"
+    ],
+    "tradition_targets": {
+      "phenomenology": 200,
+      "confucianism": 200,
+      "buddhism": 200,
+      "daoism": 100,
+      "platonism": 100,
+      "aristotelianism": 100,
+      "stoicism": 100,
+      "scholasticism": 100,
+      "german_idealism": 100,
+      "kantian": 100,
+      "existentialism": 100,
+      "hermeneutics": 100,
+      "analytic": 100,
+      "poststructuralism": 100,
+      "pragmatism": 100,
+      "critical_theory": 50,
+      "ubuntu_philosophy": 100,
+      "african_philosophy": 100,
+      "islamic_philosophy": 200,
+      "indian_philosophy": 200,
+      "kyoto_school": 100,
+      "korean_philosophy": 50,
+      "latin_american": 50,
+      "process_philosophy": 50,
+      "watsuji_ethics": 50
+    },
+    "language_targets": {
+      "en": 500,
+      "de": 200,
+      "fr": 200,
+      "ja": 200,
+      "zh": 200,
+      "es": 100,
+      "pt": 100,
+      "ko": 100,
+      "ar": 100,
+      "ru": 100
+    },
+    "temporal_targets": {
+      "pre_1900": 50,
+      "1900_1950": 100,
+      "1950_2000": 200,
+      "2000_present": 500
+    }
+  },
+  "sources": [
+    {
+      "type": "tradition",
+      "tradition": "phenomenology",
+      "query": "filter=concept.id:C138885662&search=phenomenology Husserl Heidegger intentionality",
+      "count": 200
+    },
+    {
+      "type": "tradition",
+      "tradition": "phenomenology",
+      "query": "filter=concept.id:C138885662&search=phenomenological method lifeworld embodiment",
+      "count": 200
+    },
+    {
+      "type": "tradition",
+      "tradition": "confucianism",
+      "query": "filter=concept.id:C138885662&search=Confucian ethics virtue ren li",
+      "count": 200
+    },
+    {
+      "type": "tradition",
+      "tradition": "confucianism",
+      "query": "filter=concept.id:C138885662&search=Confucius Mencius Xunzi Analects",
+      "count": 200
+    },
+    {
+      "type": "tradition",
+      "tradition": "buddhism",
+      "query": "filter=concept.id:C138885662&search=Buddhist philosophy emptiness sunyata Nagarjuna",
+      "count": 98
+    },
+    {
+      "type": "tradition",
+      "tradition": "buddhism",
+      "query": "filter=concept.id:C138885662&search=Buddhist ethics karma dharma nirvana",
+      "count": 200
+    },
+    {
+      "type": "tradition",
+      "tradition": "daoism",
+      "query": "filter=concept.id:C138885662&search=Daoism Taoism Laozi Zhuangzi wu wei dao",
+      "count": 100
+    },
+    {
+      "type": "tradition",
+      "tradition": "islamic_philosophy",
+      "query": "filter=concept.id:C138885662&search=Islamic philosophy Ibn Sina Avicenna soul",
+      "count": 200
+    },
+    {
+      "type": "tradition",
+      "tradition": "islamic_philosophy",
+      "query": "filter=concept.id:C138885662&search=Averroes Ibn Rushd kalam falsafa Ghazali",
+      "count": 25
+    },
+    {
+      "type": "tradition",
+      "tradition": "indian_philosophy",
+      "query": "filter=concept.id:C138885662&search=Vedanta Advaita Shankara Brahman Atman",
+      "count": 120
+    },
+    {
+      "type": "tradition",
+      "tradition": "indian_philosophy",
+      "query": "filter=concept.id:C138885662&search=Nyaya Vaisheshika Indian logic epistemology",
+      "count": 27
+    },
+    {
+      "type": "tradition",
+      "tradition": "kyoto_school",
+      "query": "filter=concept.id:C138885662&search=Kyoto school Nishida Tanabe Nishitani nothingness",
+      "count": 72
+    },
+    {
+      "type": "tradition",
+      "tradition": "kyoto_school",
+      "query": "filter=concept.id:C138885662&search=Watsuji aidagara betweenness fudo rinrigaku",
+      "count": 5
+    },
+    {
+      "type": "tradition",
+      "tradition": "african_philosophy",
+      "query": "filter=concept.id:C138885662&search=African philosophy ubuntu communalism personhood",
+      "count": 100
+    },
+    {
+      "type": "tradition",
+      "tradition": "african_philosophy",
+      "query": "filter=concept.id:C138885662&search=sage philosophy ethnophilosophy Wiredu Gyekye",
+      "count": 21
+    },
+    {
+      "type": "tradition",
+      "tradition": "stoicism",
+      "query": "filter=concept.id:C138885662&search=stoicism stoic Marcus Aurelius Seneca Epictetus",
+      "count": 100
+    },
+    {
+      "type": "tradition",
+      "tradition": "scholasticism",
+      "query": "filter=concept.id:C138885662&search=scholasticism Aquinas Scotus medieval philosophy",
+      "count": 100
+    },
+    {
+      "type": "tradition",
+      "tradition": "german_idealism",
+      "query": "filter=concept.id:C138885662&search=Hegel dialectic Aufhebung absolute spirit",
+      "count": 100
+    },
+    {
+      "type": "tradition",
+      "tradition": "existentialism",
+      "query": "filter=concept.id:C138885662&search=existentialism Sartre Camus Kierkegaard anxiety",
+      "count": 100
+    },
+    {
+      "type": "tradition",
+      "tradition": "hermeneutics",
+      "query": "filter=concept.id:C138885662&search=hermeneutics Gadamer Ricoeur interpretation understanding",
+      "count": 100
+    },
+    {
+      "type": "tradition",
+      "tradition": "analytic",
+      "query": "filter=concept.id:C138885662&search=analytic philosophy Wittgenstein Russell logical",
+      "count": 100
+    },
+    {
+      "type": "tradition",
+      "tradition": "poststructuralism",
+      "query": "filter=concept.id:C138885662&search=Derrida deconstruction Foucault Deleuze differance",
+      "count": 100
+    },
+    {
+      "type": "tradition",
+      "tradition": "kantian",
+      "query": "filter=concept.id:C138885662&search=Kant categorical imperative transcendental critique",
+      "count": 100
+    },
+    {
+      "type": "tradition",
+      "tradition": "platonism",
+      "query": "filter=concept.id:C138885662&search=Plato Platonic forms Republic eidos",
+      "count": 100
+    },
+    {
+      "type": "tradition",
+      "tradition": "pragmatism",
+      "query": "filter=concept.id:C138885662&search=pragmatism Dewey James Peirce Rorty",
+      "count": 100
+    },
+    {
+      "type": "tradition",
+      "tradition": "korean_philosophy",
+      "query": "filter=concept.id:C138885662&search=Korean Confucianism Neo-Confucianism Toegye",
+      "count": 50
+    },
+    {
+      "type": "tradition",
+      "tradition": "latin_american",
+      "query": "filter=concept.id:C138885662&search=liberation philosophy Dussel Freire Latin American",
+      "count": 50
+    },
+    {
+      "type": "tradition",
+      "tradition": "process_philosophy",
+      "query": "filter=concept.id:C138885662&search=process philosophy Whitehead actual entities",
+      "count": 50
+    },
+    {
+      "type": "language",
+      "language": "de",
+      "query": "filter=language:de,concept.id:C138885662&per_page=200",
+      "count": 200
+    },
+    {
+      "type": "language",
+      "language": "fr",
+      "query": "filter=language:fr,concept.id:C138885662&per_page=200",
+      "count": 200
+    },
+    {
+      "type": "language",
+      "language": "ja",
+      "query": "filter=language:ja,concept.id:C138885662&per_page=200",
+      "count": 200
+    },
+    {
+      "type": "language",
+      "language": "zh",
+      "query": "filter=language:zh,concept.id:C138885662&per_page=200",
+      "count": 200
+    },
+    {
+      "type": "language",
+      "language": "es",
+      "query": "filter=language:es,concept.id:C138885662&per_page=200",
+      "count": 100
+    },
+    {
+      "type": "language",
+      "language": "pt",
+      "query": "filter=language:pt,concept.id:C138885662&per_page=200",
+      "count": 100
+    },
+    {
+      "type": "language",
+      "language": "ko",
+      "query": "filter=language:ko,concept.id:C138885662&per_page=200",
+      "count": 100
+    },
+    {
+      "type": "language",
+      "language": "ar",
+      "query": "filter=language:ar,concept.id:C138885662&per_page=200",
+      "count": 100
+    },
+    {
+      "type": "language",
+      "language": "ru",
+      "query": "filter=language:ru,concept.id:C138885662&per_page=200",
+      "count": 100
+    }
+  ],
+  "statistics": {
+    "total_raw": 4064,
+    "total_filtered": 1809,
+    "traditions_detected": 25,
+    "languages": 26,
+    "gaps": [
+      "tradition:aristotelianism (93/100)",
+      "tradition:stoicism (84/100)",
+      "tradition:scholasticism (56/100)",
+      "tradition:ubuntu_philosophy (55/100)",
+      "tradition:african_philosophy (25/100)",
+      "tradition:islamic_philosophy (82/200)",
+      "tradition:indian_philosophy (60/200)",
+      "tradition:kyoto_school (55/100)",
+      "tradition:korean_philosophy (26/50)",
+      "tradition:latin_american (11/50)",
+      "tradition:process_philosophy (29/50)",
+      "tradition:watsuji_ethics (12/50)",
+      "language:de (19/200)",
+      "language:fr (30/200)",
+      "language:ja (4/200)",
+      "language:zh (10/200)",
+      "language:es (21/100)",
+      "language:pt (16/100)",
+      "language:ko (6/100)",
+      "language:ar (13/100)",
+      "language:ru (10/100)"
+    ]
+  }
+}
