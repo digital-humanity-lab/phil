@@ -1,0 +1,387 @@
+[
+  {
+    "m": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q183216"
+    },
+    "mLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "analytic philosophy"
+    },
+    "mLabel_ja": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "分析哲学"
+    }
+  },
+  {
+    "m": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q388524"
+    },
+    "mLabel": {
+      "type": "literal",
+      "value": "Q388524"
+    }
+  },
+  {
+    "m": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q412873"
+    },
+    "mLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Ājīvika"
+    },
+    "mLabel_ja": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "アージーヴィカ教"
+    }
+  },
+  {
+    "m": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q558571"
+    },
+    "mLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Transcendental Meditation"
+    },
+    "mLabel_ja": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "超越瞑想"
+    }
+  },
+  {
+    "m": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q904958"
+    },
+    "mLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Donghak"
+    },
+    "mLabel_ja": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "東学"
+    }
+  },
+  {
+    "m": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1734644"
+    },
+    "mLabel": {
+      "type": "literal",
+      "value": "Q1734644"
+    }
+  },
+  {
+    "m": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q2689619"
+    },
+    "mLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Kantian ethics"
+    },
+    "mLabel_ja": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "カンティアニズム"
+    }
+  },
+  {
+    "m": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q3045261"
+    },
+    "mLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "detachment"
+    },
+    "mLabel_ja": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "デタッチメント"
+    }
+  },
+  {
+    "m": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q3771394"
+    },
+    "mLabel": {
+      "type": "literal",
+      "value": "Q3771394"
+    }
+  },
+  {
+    "m": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q7048984"
+    },
+    "mLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "non-possession"
+    },
+    "mLabel_ja": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "非所有"
+    },
+    "partOfLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "satyagraha"
+    }
+  },
+  {
+    "m": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q9035763"
+    },
+    "mLabel": {
+      "type": "literal",
+      "value": "Q9035763"
+    }
+  },
+  {
+    "m": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q11519602"
+    },
+    "mLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Mishō-ryū"
+    },
+    "mLabel_ja": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "未生流"
+    }
+  },
+  {
+    "m": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q11924350"
+    },
+    "mLabel": {
+      "type": "literal",
+      "value": "Q11924350"
+    }
+  },
+  {
+    "m": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q11940802"
+    },
+    "mLabel": {
+      "type": "literal",
+      "value": "Q11940802"
+    }
+  },
+  {
+    "m": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q11942810"
+    },
+    "mLabel": {
+      "type": "literal",
+      "value": "Q11942810"
+    }
+  },
+  {
+    "m": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q12974284"
+    },
+    "mLabel": {
+      "type": "literal",
+      "value": "Q12974284"
+    }
+  },
+  {
+    "m": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q12975245"
+    },
+    "mLabel": {
+      "type": "literal",
+      "value": "Q12975245"
+    }
+  },
+  {
+    "m": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q12979512"
+    },
+    "mLabel": {
+      "type": "literal",
+      "value": "Q12979512"
+    }
+  },
+  {
+    "m": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q12982771"
+    },
+    "mLabel": {
+      "type": "literal",
+      "value": "Q12982771"
+    }
+  },
+  {
+    "m": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q15879765"
+    },
+    "mLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "new public governance"
+    }
+  },
+  {
+    "m": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q17149504"
+    },
+    "mLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "probabilistic causation"
+    },
+    "mLabel_ja": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "確率的因果関係"
+    }
+  },
+  {
+    "m": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q21087325"
+    },
+    "mLabel": {
+      "type": "literal",
+      "value": "Q21087325"
+    }
+  },
+  {
+    "m": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q56855238"
+    },
+    "mLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Nü Lunyu"
+    },
+    "mLabel_ja": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "女論語"
+    },
+    "partOfLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Four Books for Women"
+    }
+  },
+  {
+    "m": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q65209499"
+    },
+    "mLabel": {
+      "type": "literal",
+      "value": "Q65209499"
+    }
+  },
+  {
+    "m": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q105415869"
+    },
+    "mLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "śūnyavāda"
+    }
+  },
+  {
+    "m": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q121074345"
+    },
+    "mLabel": {
+      "type": "literal",
+      "value": "Q121074345"
+    },
+    "partOfLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Asháninka people"
+    }
+  },
+  {
+    "m": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q132631947"
+    },
+    "mLabel": {
+      "type": "literal",
+      "value": "Q132631947"
+    }
+  },
+  {
+    "m": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q135333919"
+    },
+    "mLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Inanisology"
+    }
+  },
+  {
+    "m": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q137711946"
+    },
+    "mLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Post-Hermeneutic Phenomenology"
+    },
+    "partOfLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Post-Interpretive Criticism"
+    }
+  },
+  {
+    "m": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q138335333"
+    },
+    "mLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "tateism"
+    }
+  }
+]

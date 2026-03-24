@@ -1,0 +1,172 @@
+[
+  {
+    "id": "gutenberg:1497",
+    "title": "Republic",
+    "authors": [
+      "Plato"
+    ],
+    "year": null,
+    "language": "en",
+    "chars": 1238673
+  },
+  {
+    "id": "gutenberg:1656",
+    "title": "Apology",
+    "authors": [
+      "Plato"
+    ],
+    "year": null,
+    "language": "en",
+    "chars": 106901
+  },
+  {
+    "id": "gutenberg:1636",
+    "title": "Symposium",
+    "authors": [
+      "Plato"
+    ],
+    "year": null,
+    "language": "en",
+    "chars": 235259
+  },
+  {
+    "id": "gutenberg:1658",
+    "title": "Phaedo",
+    "authors": [
+      "Plato"
+    ],
+    "year": null,
+    "language": "en",
+    "chars": 257000
+  },
+  {
+    "id": "gutenberg:5827",
+    "title": "Critique of Pure Reason",
+    "authors": [
+      "Immanuel Kant"
+    ],
+    "year": null,
+    "language": "en",
+    "chars": 269431
+  },
+  {
+    "id": "gutenberg:4280",
+    "title": "Critique of Practical Reason",
+    "authors": [
+      "Immanuel Kant"
+    ],
+    "year": null,
+    "language": "en",
+    "chars": 1310583
+  },
+  {
+    "id": "gutenberg:5740",
+    "title": "Meditations",
+    "authors": [
+      "Marcus Aurelius"
+    ],
+    "year": null,
+    "language": "en",
+    "chars": 0
+  },
+  {
+    "id": "gutenberg:3600",
+    "title": "An Essay Concerning Human Understanding",
+    "authors": [
+      "John Locke"
+    ],
+    "year": null,
+    "language": "en",
+    "chars": 3086108
+  },
+  {
+    "id": "gutenberg:4705",
+    "title": "A Treatise of Human Nature",
+    "authors": [
+      "David Hume"
+    ],
+    "year": null,
+    "language": "en",
+    "chars": 1365418
+  },
+  {
+    "id": "gutenberg:10615",
+    "title": "Meditations on First Philosophy",
+    "authors": [
+      "Rene Descartes"
+    ],
+    "year": null,
+    "language": "en",
+    "chars": 868226
+  },
+  {
+    "id": "gutenberg:1232",
+    "title": "The Prince",
+    "authors": [
+      "Niccolo Machiavelli"
+    ],
+    "year": null,
+    "language": "en",
+    "chars": 307128
+  },
+  {
+    "id": "gutenberg:7370",
+    "title": "Beyond Good and Evil",
+    "authors": [
+      "Friedrich Nietzsche"
+    ],
+    "year": null,
+    "language": "en",
+    "chars": 338549
+  },
+  {
+    "id": "gutenberg:38427",
+    "title": "Thus Spake Zarathustra",
+    "authors": [
+      "Friedrich Nietzsche"
+    ],
+    "year": null,
+    "language": "en",
+    "chars": 1152011
+  },
+  {
+    "id": "gutenberg:30821",
+    "title": "On Liberty",
+    "authors": [
+      "John Stuart Mill"
+    ],
+    "year": null,
+    "language": "en",
+    "chars": 40205
+  },
+  {
+    "id": "gutenberg:11224",
+    "title": "Leviathan",
+    "authors": [
+      "Thomas Hobbes"
+    ],
+    "year": null,
+    "language": "en",
+    "chars": 183411
+  },
+  {
+    "id": "gutenberg:9662",
+    "title": "The Nicomachean Ethics",
+    "authors": [
+      "Aristotle"
+    ],
+    "year": null,
+    "language": "en",
+    "chars": 373254
+  },
+  {
+    "id": "gutenberg:8438",
+    "title": "Politics",
+    "authors": [
+      "Aristotle"
+    ],
+    "year": null,
+    "language": "en",
+    "chars": 668400
+  }
+]
