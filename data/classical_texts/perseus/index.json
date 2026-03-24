@@ -1,23 +1,94 @@
-[
-  {
-    "id": "plato_republic",
-    "title": "Republic",
-    "author": "Plato",
-    "language": "grc",
-    "chars": 529558
-  },
-  {
-    "id": "epictetus_discourses",
-    "title": "Discourses",
-    "author": "Epictetus",
-    "language": "grc",
-    "chars": 465857
-  },
-  {
-    "id": "seneca_epistulae",
-    "title": "Epistulae Morales",
-    "author": "Seneca",
-    "language": "la",
-    "chars": 866571
+{
+  "source": "Perseus Digital Library",
+  "api": "Scaife CTS API",
+  "base_url": "https://scaife-cts.perseus.org/api/cts",
+  "fetched": "2026-03-24",
+  "texts": [
+    {
+      "name": "Aristotle - De Anima",
+      "urn": "urn:cts:greekLit:tlg0086.tlg002.1st1K-grc1",
+      "file": "aristotle_de_anima.txt",
+      "sections": 3,
+      "chars": 128701
+    },
+    {
+      "name": "Plato - Timaeus",
+      "urn": "urn:cts:greekLit:tlg0059.tlg031.perseus-grc2",
+      "file": "plato_timaeus.txt",
+      "sections": 76,
+      "chars": 146811
+    },
+    {
+      "name": "Plotinus - Enneads",
+      "urn": "urn:cts:greekLit:tlg2000.tlg001.opp-grc2",
+      "file": "plotinus_enneads.txt",
+      "sections": 6,
+      "chars": 1784015
+    },
+    {
+      "name": "Marcus Aurelius - Meditations",
+      "urn": "urn:cts:greekLit:tlg0562.tlg001.perseus-grc2",
+      "file": "marcus_aurelius_meditations.txt",
+      "sections": 12,
+      "chars": 180966
+    },
+    {
+      "name": "Augustine - Confessions",
+      "urn": "urn:cts:latinLit:stoa0040.stoa001.opp-lat1",
+      "file": "augustine_confessions.txt",
+      "sections": 13,
+      "chars": 1011918
+    }
+  ],
+  "notes": {
+    "aristotle_metaphysics": "Not available on Scaife CTS API. tlg0086.tlg025 not found in capabilities.",
+    "available_aristotle": [
+      "urn:cts:greekLit:tlg0086.tlg001.1st1K-grc1",
+      "urn:cts:greekLit:tlg0086.tlg001.1st1K-grc2",
+      "urn:cts:greekLit:tlg0086.tlg002.1st1K-grc1",
+      "urn:cts:greekLit:tlg0086.tlg002.1st1K-grc2",
+      "urn:cts:greekLit:tlg0086.tlg003.1st1K-grc1",
+      "urn:cts:greekLit:tlg0086.tlg003.1st1K-grc2",
+      "urn:cts:greekLit:tlg0086.tlg004.1st1K-grc1",
+      "urn:cts:greekLit:tlg0086.tlg005.1st1K-grc1",
+      "urn:cts:greekLit:tlg0086.tlg006.1st1K-grc1",
+      "urn:cts:greekLit:tlg0086.tlg007.1st1K-grc1",
+      "urn:cts:greekLit:tlg0086.tlg008.1st1K-grc1",
+      "urn:cts:greekLit:tlg0086.tlg011.1st1K-grc1",
+      "urn:cts:greekLit:tlg0086.tlg012.1st1K-grc1",
+      "urn:cts:greekLit:tlg0086.tlg013.1st1K-grc1",
+      "urn:cts:greekLit:tlg0086.tlg013.1st1K-grc2",
+      "urn:cts:greekLit:tlg0086.tlg014.1st1K-grc1",
+      "urn:cts:greekLit:tlg0086.tlg015.1st1K-grc1",
+      "urn:cts:greekLit:tlg0086.tlg016.1st1K-grc1",
+      "urn:cts:greekLit:tlg0086.tlg017.1st1K-grc1",
+      "urn:cts:greekLit:tlg0086.tlg018.1st1K-grc1",
+      "urn:cts:greekLit:tlg0086.tlg019.1st1K-grc1",
+      "urn:cts:greekLit:tlg0086.tlg020.1st1K-grc1",
+      "urn:cts:greekLit:tlg0086.tlg021.1st1K-grc1",
+      "urn:cts:greekLit:tlg0086.tlg022.1st1K-grc1",
+      "urn:cts:greekLit:tlg0086.tlg023.1st1K-grc1",
+      "urn:cts:greekLit:tlg0086.tlg024.1st1K-grc1",
+      "urn:cts:greekLit:tlg0086.tlg026.1st1K-grc1",
+      "urn:cts:greekLit:tlg0086.tlg026.1st1K-grc2",
+      "urn:cts:greekLit:tlg0086.tlg027.1st1K-grc1",
+      "urn:cts:greekLit:tlg0086.tlg030.1st1K-grc1",
+      "urn:cts:greekLit:tlg0086.tlg031.1st1K-grc1",
+      "urn:cts:greekLit:tlg0086.tlg032.1st1K-grc1",
+      "urn:cts:greekLit:tlg0086.tlg034.1st1K-grc1",
+      "urn:cts:greekLit:tlg0086.tlg036.1st1K-grc1",
+      "urn:cts:greekLit:tlg0086.tlg037.1st1K-grc1",
+      "urn:cts:greekLit:tlg0086.tlg039.1st1K-grc1",
+      "urn:cts:greekLit:tlg0086.tlg040.1st1K-grc1",
+      "urn:cts:greekLit:tlg0086.tlg041.1st1K-grc1",
+      "urn:cts:greekLit:tlg0086.tlg042.1st1K-grc1",
+      "urn:cts:greekLit:tlg0086.tlg043.1st1K-grc1",
+      "urn:cts:greekLit:tlg0086.tlg044.1st1K-grc1",
+      "urn:cts:greekLit:tlg0086.tlg046.1st1K-grc1",
+      "urn:cts:greekLit:tlg0086.tlg047.1st1K-grc1",
+      "urn:cts:greekLit:tlg0086.tlg052.1st1K-grc1",
+      "urn:cts:greekLit:tlg0086.tlg054.1st1K-grc1"
+    ],
+    "thomas_aquinas": "Not on Perseus"
   }
-]
+}

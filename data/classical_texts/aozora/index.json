@@ -1,0 +1,142 @@
+{
+  "source": "青空文庫 (Aozora Bunko)",
+  "url": "https://www.aozora.gr.jp/",
+  "fetched": "2026-03-24",
+  "texts": [
+    {
+      "title": "絶対矛盾的自己同一",
+      "author": "西田幾多郎",
+      "author_id": "000182",
+      "card_id": "1755",
+      "file": "西田幾多郎_絶対矛盾的自己同一.txt",
+      "chars": 51557,
+      "url": "https://www.aozora.gr.jp/cards/000182/card1755.html"
+    },
+    {
+      "title": "善の研究",
+      "author": "西田幾多郎",
+      "author_id": "000182",
+      "card_id": "946",
+      "file": "西田幾多郎_善の研究.txt",
+      "chars": 127479,
+      "url": "https://www.aozora.gr.jp/cards/000182/card946.html"
+    },
+    {
+      "title": "寒中滞岳記",
+      "author": "九鬼周造",
+      "author_id": "001188",
+      "card_id": "49588",
+      "file": "九鬼周造_寒中滞岳記.txt",
+      "chars": 10303,
+      "url": "https://www.aozora.gr.jp/cards/001188/card49588.html"
+    },
+    {
+      "title": "古寺巡礼",
+      "author": "和辻哲郎",
+      "author_id": "001395",
+      "card_id": "49891",
+      "file": "和辻哲郎_古寺巡礼.txt",
+      "chars": 151765,
+      "url": "https://www.aozora.gr.jp/cards/001395/card49891.html"
+    },
+    {
+      "title": "日本精神史研究",
+      "author": "和辻哲郎",
+      "author_id": "001395",
+      "card_id": "49905",
+      "file": "和辻哲郎_日本精神史研究.txt",
+      "chars": 219131,
+      "url": "https://www.aozora.gr.jp/cards/001395/card49905.html"
+    },
+    {
+      "title": "面とペルソナ",
+      "author": "和辻哲郎",
+      "author_id": "001395",
+      "card_id": "49911",
+      "file": "和辻哲郎_面とペルソナ.txt",
+      "chars": 5005,
+      "url": "https://www.aozora.gr.jp/cards/001395/card49911.html"
+    },
+    {
+      "title": "明日の知性",
+      "author": "三木清",
+      "author_id": "000311",
+      "card_id": "2972",
+      "file": "三木清_明日の知性.txt",
+      "chars": 6460,
+      "url": "https://www.aozora.gr.jp/cards/000311/card2972.html"
+    },
+    {
+      "title": "知性の開眼",
+      "author": "三木清",
+      "author_id": "000311",
+      "card_id": "3174",
+      "file": "三木清_知性の開眼.txt",
+      "chars": 4462,
+      "url": "https://www.aozora.gr.jp/cards/000311/card3174.html"
+    },
+    {
+      "title": "概念と心其もの",
+      "author": "三木清",
+      "author_id": "000311",
+      "card_id": "3067",
+      "file": "三木清_概念と心其もの.txt",
+      "chars": 6872,
+      "url": "https://www.aozora.gr.jp/cards/000311/card3067.html"
+    },
+    {
+      "title": "リアルな方法とは",
+      "author": "三木清",
+      "author_id": "000311",
+      "card_id": "2895",
+      "file": "三木清_リアルな方法とは.txt",
+      "chars": 1336,
+      "url": "https://www.aozora.gr.jp/cards/000311/card2895.html"
+    },
+    {
+      "title": "歴史と文学",
+      "author": "三木清",
+      "author_id": "000311",
+      "card_id": "15978",
+      "file": "三木清_歴史と文学.txt",
+      "chars": 2134,
+      "url": "https://www.aozora.gr.jp/cards/000311/card15978.html"
+    },
+    {
+      "title": "メメント　モリ",
+      "author": "田辺元",
+      "author_id": "001599",
+      "card_id": "53761",
+      "file": "田辺元_メメント_モリ.txt",
+      "chars": 9741,
+      "url": "https://www.aozora.gr.jp/cards/001599/card53761.html"
+    },
+    {
+      "title": "世界新秩序の原理",
+      "author": "西田幾多郎",
+      "author_id": "000182",
+      "card_id": "3668",
+      "file": "西田幾多郎_世界新秩序の原理.txt",
+      "chars": 5310,
+      "url": "https://www.aozora.gr.jp/cards/000182/card3668.html"
+    },
+    {
+      "title": "フランス哲学についての感想",
+      "author": "西田幾多郎",
+      "author_id": "000182",
+      "card_id": "1049",
+      "file": "西田幾多郎_フランス哲学についての感想.txt",
+      "chars": 3052,
+      "url": "https://www.aozora.gr.jp/cards/000182/card1049.html"
+    },
+    {
+      "title": "愚禿親鸞",
+      "author": "西田幾多郎",
+      "author_id": "000182",
+      "card_id": "3503",
+      "file": "西田幾多郎_愚禿親鸞.txt",
+      "chars": 1752,
+      "url": "https://www.aozora.gr.jp/cards/000182/card3503.html"
+    }
+  ]
+}

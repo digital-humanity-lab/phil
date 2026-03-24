@@ -36,5 +36,26 @@
     "language": "sa",
     "tradition": "madhyamaka",
     "chars": 44696
+  },
+  {
+    "id": "bhagavadgita_en",
+    "title": "Bhagavadgita (English)",
+    "language": "en",
+    "tradition": "vedanta",
+    "chars": 147382
+  },
+  {
+    "id": "upanishads_en",
+    "title": "Upanishads (English)",
+    "language": "en",
+    "tradition": "vedanta",
+    "chars": 125356
+  },
+  {
+    "id": "dhammapada_en",
+    "title": "Dhammapada (English)",
+    "language": "en",
+    "tradition": "theravada",
+    "chars": 88515
   }
 ]

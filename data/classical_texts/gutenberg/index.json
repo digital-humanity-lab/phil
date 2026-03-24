@@ -168,5 +168,137 @@
     "year": null,
     "language": "en",
     "chars": 668400
+  },
+  {
+    "id": "gutenberg:6342",
+    "title": "Kritik der reinen Vernunft (Teil 1)",
+    "authors": [
+      "Immanuel Kant"
+    ],
+    "year": null,
+    "language": "de",
+    "tradition": "german_idealism",
+    "chars": 1260978
+  },
+  {
+    "id": "gutenberg:6343",
+    "title": "Kritik der reinen Vernunft (Teil 2)",
+    "authors": [
+      "Immanuel Kant"
+    ],
+    "year": null,
+    "language": "de",
+    "tradition": "german_idealism",
+    "chars": 1326079
+  },
+  {
+    "id": "gutenberg:5682",
+    "title": "Grundlegung zur Metaphysik der Sitten",
+    "authors": [
+      "Immanuel Kant"
+    ],
+    "year": null,
+    "language": "en",
+    "tradition": "german_idealism",
+    "chars": 199644
+  },
+  {
+    "id": "gutenberg:49543",
+    "title": "Kritik der praktischen Vernunft",
+    "authors": [
+      "Immanuel Kant"
+    ],
+    "year": null,
+    "language": "de",
+    "tradition": "german_idealism",
+    "chars": 514917
+  },
+  {
+    "id": "gutenberg:6698",
+    "title": "Phänomenologie des Geistes",
+    "authors": [
+      "Georg Wilhelm Friedrich Hegel"
+    ],
+    "year": null,
+    "language": "de",
+    "tradition": "german_idealism",
+    "chars": 1210427
+  },
+  {
+    "id": "gutenberg:7205",
+    "title": "Also sprach Zarathustra",
+    "authors": [
+      "Friedrich Nietzsche"
+    ],
+    "year": null,
+    "language": "de",
+    "tradition": "existentialism",
+    "chars": 552245
+  },
+  {
+    "id": "gutenberg:7204",
+    "title": "Jenseits von Gut und Böse",
+    "authors": [
+      "Friedrich Nietzsche"
+    ],
+    "year": null,
+    "language": "de",
+    "tradition": "existentialism",
+    "chars": 420664
+  },
+  {
+    "id": "gutenberg:7206",
+    "title": "Die Geburt der Tragödie",
+    "authors": [
+      "Friedrich Nietzsche"
+    ],
+    "year": null,
+    "language": "de",
+    "tradition": "existentialism",
+    "chars": 314057
+  },
+  {
+    "id": "gutenberg:47406",
+    "title": "Aphorismen zur Lebensweisheit",
+    "authors": [
+      "Arthur Schopenhauer"
+    ],
+    "year": null,
+    "language": "de",
+    "tradition": "german_idealism",
+    "chars": 471513
+  },
+  {
+    "id": "gutenberg:13846",
+    "title": "Discours de la méthode",
+    "authors": [
+      "René Descartes"
+    ],
+    "year": null,
+    "language": "fr",
+    "tradition": "rationalism",
+    "chars": 711752
+  },
+  {
+    "id": "gutenberg:18269",
+    "title": "Pensées",
+    "authors": [
+      "Blaise Pascal"
+    ],
+    "year": null,
+    "language": "fr",
+    "tradition": "french_moralism",
+    "chars": 663000
+  },
+  {
+    "id": "gutenberg:48529",
+    "title": "Essais",
+    "authors": [
+      "Michel de Montaigne"
+    ],
+    "year": null,
+    "language": "fr",
+    "tradition": "renaissance_humanism",
+    "chars": 1908554
   }
 ]
