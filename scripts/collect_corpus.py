@@ -37,6 +37,7 @@ import argparse
 import hashlib
 import json
 import logging
+import re
 import sys
 import time
 from collections import Counter
@@ -127,32 +128,69 @@ CORE_KEYWORDS_MULTI = {
     "ru": ["философия", "метафизика", "онтология", "эпистемология", "этика", "феноменология"],
 }
 
+
+# Tradition detection uses regex word-boundary matching to prevent
+# false positives (e.g., "ren" matching "different", "parent", etc.)
+# Patterns prefixed with "r:" use \b word boundaries; others are plain substrings.
+# CJK patterns remain as substrings (word boundaries don't apply).
 TRADITION_PATTERNS = {
-    "phenomenology": ["phenomenology", "husserl", "heidegger", "merleau-ponty", "phänomenologie", "現象学"],
-    "existentialism": ["existentialism", "sartre", "camus", "kierkegaard", "jaspers", "実存"],
-    "hermeneutics": ["hermeneutics", "gadamer", "ricoeur", "hermeneutik", "解釈学"],
-    "confucianism": ["confucian", "confucius", "analects", "mencius", "ren", "junzi", "儒", "유교"],
-    "daoism": ["daoism", "taoism", "laozi", "zhuangzi", "dao de jing", "wu wei", "道", "老子"],
-    "buddhism": ["buddhism", "buddhist", "nagarjuna", "sunyata", "emptiness", "dharma", "仏教", "空", "불교"],
-    "kyoto_school": ["kyoto school", "nishida", "tanabe", "nishitani", "basho", "京都学派", "西田", "絶対無"],
-    "watsuji_ethics": ["watsuji", "aidagara", "betweenness", "rinrigaku", "和辻", "間柄"],
-    "ubuntu_philosophy": ["ubuntu", "umuntu", "african communalism"],
-    "african_philosophy": ["african philosophy", "sage philosophy", "wiredu", "gyekye", "ethnophilosophy"],
-    "islamic_philosophy": ["islamic philosophy", "ibn sina", "avicenna", "averroes", "kalam", "falsafa"],
-    "indian_philosophy": ["vedanta", "advaita", "samkhya", "nyaya", "upanishad", "yoga philosophy"],
-    "german_idealism": ["german idealism", "hegel", "fichte", "schelling", "aufhebung"],
-    "kantian": ["kantian", "kant", "categorical imperative", "transcendental", "critique"],
-    "platonism": ["platonism", "plato", "platonic", "forms", "eidos"],
-    "aristotelianism": ["aristotelian", "aristotle", "eudaimonia", "phronesis"],
-    "stoicism": ["stoicism", "stoic", "marcus aurelius", "seneca", "epictetus"],
-    "scholasticism": ["scholasticism", "aquinas", "scotus", "ockham", "medieval philosophy"],
-    "analytic": ["analytic philosophy", "logical positivism", "wittgenstein", "russell", "frege"],
-    "poststructuralism": ["poststructuralism", "deconstruction", "derrida", "foucault", "deleuze"],
-    "pragmatism": ["pragmatism", "dewey", "james", "peirce", "rorty"],
-    "critical_theory": ["critical theory", "frankfurt school", "habermas", "adorno"],
-    "process_philosophy": ["process philosophy", "whitehead", "process theology"],
-    "korean_philosophy": ["korean confucianism", "toegye", "korean buddhism", "won buddhism"],
-    "latin_american": ["liberation philosophy", "dussel", "freire", "latin american philosophy"],
+    "phenomenology": [r"\bphenomenolog", r"\bhusserl\b", r"\bheidegger\b",
+                      r"\bmerleau-ponty\b", "phänomenologie", "現象学", "fenomenología", "phénoménologie"],
+    "existentialism": [r"\bexistentialis", r"\bsartre\b", r"\bcamus\b",
+                       r"\bkierkegaard\b", r"\bjaspers\b", "実存", "existencialismo"],
+    "hermeneutics": [r"\bhermeneutic", r"\bgadamer\b", r"\bricoeur\b",
+                     "hermeneutik", "herméneutique", "解釈学"],
+    "confucianism": [r"\bconfucian", r"\bconfucius\b", r"\banalects\b",
+                     r"\bmencius\b", r"\bjunzi\b", r"\bxunzi\b",
+                     "儒教", "儒学", "儒", "유교", "孔子"],
+    "daoism": [r"\bdaoism\b", r"\btaoism\b", r"\blaozi\b", r"\bzhuangzi\b",
+               r"\bdao de jing\b", r"\bwu wei\b", "道家", "道教", "老子", "荘子"],
+    "buddhism": [r"\bbuddhis", r"\bnagarjuna\b", r"\bsunyata\b",
+                 r"\bdependent origination\b", r"\bdharma\b", r"\bnirvana\b",
+                 "仏教", "불교", "佛教", "佛学"],
+    "kyoto_school": ["kyoto school", r"\bnishida\b", r"\btanabe\b",
+                     r"\bnishitani\b", "absolute nothingness",
+                     "京都学派", "西田幾多郎", "絶対無"],
+    "watsuji_ethics": [r"\bwatsuji\b", r"\baidagara\b", r"\bbetweenness\b",
+                       r"\brinrigaku\b", "和辻", "間柄"],
+    "ubuntu_philosophy": [r"\bubuntu\b", r"\bumuntu\b", "african communalism"],
+    "african_philosophy": ["african philosophy", "sage philosophy",
+                           r"\bwiredu\b", r"\bgyekye\b", r"\bethnophilosophy\b",
+                           r"\boruka\b", r"\bmbiti\b"],
+    "islamic_philosophy": ["islamic philosophy", "ibn sina", r"\bavicenna\b",
+                           r"\baverro", "ibn rushd", r"\bal-farabi\b",
+                           r"\bkalam\b", r"\bfalsafa\b", "فلسفة إسلامية"],
+    "indian_philosophy": [r"\bvedanta\b", r"\badvaita\b", r"\bsamkhya\b",
+                          r"\bnyaya\b", r"\bupanishad", "yoga philosophy",
+                          r"\bmimamsa\b", r"\bvaisheshika\b"],
+    "german_idealism": ["german idealism", r"\bhegel\b", r"\bfichte\b",
+                        r"\bschelling\b", r"\baufhebung\b", "deutscher idealismus"],
+    "kantian": [r"\bkantian\b", r"\bkant's\b", r"\bkant\b(?!on\b)",
+                "categorical imperative", "transcendental idealism",
+                "critique of pure reason", "critique of practical reason",
+                "カント"],
+    "platonism": [r"\bplatonism\b", r"\bplatonic\b", r"\bplato's\b",
+                  r"\bplato\b", r"\beidos\b", "プラトン"],
+    "aristotelianism": [r"\baristotelian\b", r"\baristotle\b",
+                        r"\beudaimonia\b", r"\bphronesis\b"],
+    "stoicism": [r"\bstoicis", r"\bstoic\b", "marcus aurelius",
+                 r"\bseneca\b", r"\bepictetus\b"],
+    "scholasticism": [r"\bscholastic", r"\baquinas\b", r"\bscotus\b",
+                      r"\bockham\b", "medieval philosophy", r"\bthomis"],
+    "analytic": ["analytic philosophy", "logical positivism",
+                 r"\bwittgenstein\b", r"\brussell\b", r"\bfrege\b", r"\bquine\b"],
+    "poststructuralism": [r"\bpoststructuralis", r"\bdeconstruction\b",
+                          r"\bderrida\b", r"\bfoucault\b", r"\bdeleuze\b",
+                          "déconstruction", r"\bdifférance\b"],
+    "pragmatism": [r"\bpragmatism\b", r"\bpragmatist\b", r"\bdewey\b",
+                   r"\bpeirce\b", r"\brorty\b"],
+    "critical_theory": ["critical theory", "frankfurt school",
+                        r"\bhabermas\b", r"\badorno\b", r"\bhorkheimer\b"],
+    "process_philosophy": ["process philosophy", r"\bwhitehead\b", "process theology"],
+    "korean_philosophy": ["korean confucianism", r"\btoegye\b",
+                          "korean buddhism", "won buddhism", "율곡", "퇴계"],
+    "latin_american": ["liberation philosophy", r"\bdussel\b", r"\bfreire\b",
+                       "latin american philosophy", "filosofía de la liberación"],
 }
 
 
@@ -198,10 +236,22 @@ def compute_relevance(paper: dict, lang: str = "en") -> dict:
                 excluded = True
                 break
 
-    # Tradition detection (uses multilingual patterns)
+    # Tradition detection (uses regex word-boundary matching)
     traditions = []
     for trad, patterns in TRADITION_PATTERNS.items():
-        if any(p in text for p in patterns):
+        matched = False
+        for p in patterns:
+            if p.startswith(r"\b"):
+                # Regex pattern with word boundary
+                if re.search(p, text):
+                    matched = True
+                    break
+            else:
+                # Plain substring (CJK, multi-word phrases)
+                if p in text:
+                    matched = True
+                    break
+        if matched:
             traditions.append(trad)
             score += 15
 
