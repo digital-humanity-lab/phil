@@ -1,0 +1,23 @@
+[
+  {
+    "id": "plato_republic",
+    "title": "Republic",
+    "author": "Plato",
+    "language": "grc",
+    "chars": 529558
+  },
+  {
+    "id": "epictetus_discourses",
+    "title": "Discourses",
+    "author": "Epictetus",
+    "language": "grc",
+    "chars": 465857
+  },
+  {
+    "id": "seneca_epistulae",
+    "title": "Epistulae Morales",
+    "author": "Seneca",
+    "language": "la",
+    "chars": 866571
+  }
+]
