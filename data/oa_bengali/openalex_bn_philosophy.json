@@ -1,0 +1,2247 @@
+[
+  {
+    "id": "https://openalex.org/W1549199103",
+    "title": "The language of displayed art",
+    "authors": [
+      "L. M. O'Toole"
+    ],
+    "year": 1994,
+    "language": "bn",
+    "abstract": "1. Semiotics At Work 2. Bodily Perceptions: A Semiotics of Sculpture 3. A Semiotics of Architecture 4. Semiotics Across the Arts",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2020974538",
+    "title": "S-system parameter estimation for noisy metabolic profiles using Newton-flow analysis",
+    "authors": [
+      "Zoltán Kutalik",
+      "Warwick Tucker",
+      "Vincent Moulton"
+    ],
+    "year": 2007,
+    "language": "bn",
+    "abstract": "Biochemical systems are commonly modelled by systems of ordinary differential equations (ODEs). A particular class of such models called S-systems have recently gained popularity in biochemical system modelling. The parameters of an S-system are usually estimated from time-course profiles. However, finding these estimates is a difficult computational problem. Moreover, although several methods have been recently proposed to solve this problem for ideal profiles, relatively little progress has been reported for noisy profiles. We describe a special feature of a Newton-flow optimisation problem associated with S-system parameter estimation. This enables us to significantly reduce the search space, and also lends itself to parameter estimation for noisy data. We illustrate the applicability of our method by applying it to noisy time-course data synthetically produced from previously published 4- and 30-dimensional S-systems. In addition, we propose an extension of our method that allows the detection of network topologies for small S-systems. We introduce a new method for estimating S-system parameters from time-course profiles. We show that the performance of this method compares favorably with competing methods for ideal profiles, and that it also allows the determination of parameters for noisy profiles.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2402130306",
+    "title": "In Search of a Sacred King: Dārā Shukoh and the<i>Yogavāsiṣṭha</i>s of Mughal India",
+    "authors": [
+      "Muzaffar Alam"
+    ],
+    "year": 2016,
+    "language": "bn",
+    "abstract": "Dr Shukoh is a well-studied figure in Mughal Indian history. He has been portrayed as a saintly scholar, the beacon of Mughal nonsectarian political culture, particularly insofar as he was interested in the Muslim Sufi traditions as well as ancient Hindu religious scriptures. He had close connections with some of the most eminent Qadiri Sufis of his time, compiled two Sufi biographical /hagiographical dictionaries taz kiras, wrote three significant treatises on intricate mystical doctrines, studied Indic philosophy and religious scriptures, and by undertaking to translate into Persian several Hindu texts from the original Sanskrit, he initiated a discussion of Islam's close relations with Hindu traditions. 1 Several modern historians, commenting on his pol-Ananya Chakravarti, Sonam Kachru, Rajeev Kinra, and Jane Mikkelson have helped me in various ways in the preparation of this article. I thank them all. I owe a debt of gratitude to Sonam Kachru in particular for his generous help with Sanskrit and for important references",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2235166652",
+    "title": "Intermittent Redesign of Analog Controllers via the Youla Parameter",
+    "authors": [
+      "Leonid Mirkin"
+    ],
+    "year": 2016,
+    "language": "bn",
+    "abstract": "The paper studies digital redesign of linear time-invariant analog controllers under intermittent sampling. The sampling pattern is only assumed to be uniformly bounded, but otherwise irregular and unknown a priori. The contribution of the paper is twofold. First, it proposes a constructive algorithm to redesign any analog stabilizing controller so that the closed-loop stability is preserved. Second, it is shown that when applied to (sub) optimal H <sup xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">2</sup> and H <sup xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">∞</sup> controllers, the algorithm produces (sub) optimal sampled-data solutions under any a priori unknown sampling pattern. The proposed solutions are analytic, computationally simple, implementable, and transparent. Transparency pays off in showing the optimality, under a fixed sampling density, of uniform sampling for both performance measures studied.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2329588677",
+    "title": "Prediction of solubility parameter from melting point depression in polypropylene.",
+    "authors": [
+      "Nobuyuki Tanaka"
+    ],
+    "year": 1990,
+    "language": "bn",
+    "abstract": "In order to obtain the solubility parameter S for isotactic polypropylene(i-PP), the composi-V0 is the molar valume, gave 8=8.26-8.75 (cal/cc)1/2 for i-PP.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2131563262",
+    "title": "Nonlinear Blind Parameter Estimation",
+    "authors": [
+      "Sébastien Lagrange",
+      "Luc Jaulin",
+      "Vincent Vigneron",
+      "Christian Jutten"
+    ],
+    "year": 2008,
+    "language": "bn",
+    "abstract": "This note deals with parameter estimation of nonlinear continuous-time models when the input signals of the corresponding system are not measured. The contribution of the note is to show that, with simple priors about the unknown input signals and using derivatives of the output signals, one can perform the estimation procedure. As an illustration, we consider situations where the simple priors, e.g., independence or Gaussianity of the unknown inputs, is assumed.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2182539402",
+    "title": "UMD/BBN at MSE2005",
+    "authors": [
+      "David Zajic",
+      "Bonnie J. Dorr",
+      "Jimmy Lin",
+      "Richard Schwartz"
+    ],
+    "year": 2005,
+    "language": "bn",
+    "abstract": "We implemented an initial application of a sentence-trimming approach (Trimmer) to the problem of multi-document summarization in the MSE2005 task. Sentence trimming was incorporated into a feature-based summarization system, called Multi-Document Trimmer (MDT), by using sentence trimming as both a pre-processing stage and a feature for sentence ranking. We demonstrate that we were able to port Trimmer easily to this new problem, although the impact of sentence trimming was minimal compared to other features used in the system. The performance of our system in the official MSE2005 task was around the middle of the pack (16 out of 27). After some minor bug fixes and a simple correction (dateline removal) we obtained an improvement on a post-hoc run on the test data.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2567939889",
+    "title": "V.—CRITICAL NOTICE",
+    "authors": [
+      "A. E. Taylor"
+    ],
+    "year": 1920,
+    "language": "bn",
+    "abstract": "V.—CRITICAL NOTICE Get access The Metaphysical Theory of the State. By L. T. HOBHOUSE. London: George Allen & Unwin, Ltd., 1918. Pp. 156. A. E. TAYLOR A. E. TAYLOR Search for other works by this author on: Oxford Academic Google Scholar Mind, Volume XXIX, Issue 1, 1920, Pages 91–105, https://doi.org/10.1093/mind/XXIX.1.91 Published: 01 January 1920",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1597266411",
+    "title": "The philosophy of Viśiṣṭādvaita",
+    "authors": [
+      "P. N. Srinivasachari"
+    ],
+    "year": 1943,
+    "language": "bn",
+    "abstract": "Edition: Second edition Publisher: Adyar [Madras] Adyar Library 1946. Publication Date: 1946 Physical Description: 1 online resource (lii, 640 pages) Series: Adyar Library series ;, number 39",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2378363052",
+    "title": "NUCLEATION MECHANISM OF 8090 Al-Li ALLOY WELD METAL",
+    "authors": [
+      "Chuanyong Hao",
+      "Yu Erjing",
+      "Ying Huiyun",
+      "Shenyang"
+    ],
+    "year": 1996,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2013469306",
+    "title": "Sound symbolism in Iraqw literature",
+    "authors": [
+      "Maarten Mous",
+      "Safari Sanka"
+    ],
+    "year": 2011,
+    "language": "bn",
+    "abstract": "This article discusses the importance of conventionalised sound symbolism such as ideophones in Iraqw oral literature. It is argued that the meaning of ideophones is not referential but rather that they evoke an image. The study of the literary effect of sound symbolism in Iraqw riddles shows that emotive associations are not limited to one of the senses but instead often combine different senses, thereby evoking images such as movement and glitter; reflection and emptiness; tight structure, darkness and suddenness.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2186160800",
+    "title": "I m p I e m e n t i n g Vo I P : A Voice Transmission Performance Progress Report",
+    "authors": [
+      "Jemy James",
+      "Bing Chen",
+      "Laurie F. Garrison"
+    ],
+    "year": 2004,
+    "language": "bn",
+    "abstract": "Aiming to introduce voice over IP networks and services in ways that satisfy the voice quality expectations of our customers, we have been conducting laboratory studies of how VoIP transmission affects voice quality while also carefully monitoring and managing several field implementations of VolP. This article summarizes much of what we have learned in this work, and we Kope it provides a useful progress report on the industry's evolution to VoIP. We review our data on the voice quality effects of packet loss, delay, speech coders, packet loss concealment algorithms, and the compression option of suppressing transmission during silence. Because the familiar problem of echo has emerged repeatedly in the VoIP environment, we review this issue in some detail. Packet loss and delay variation measurements made on private VoIP networks are reviewed, and the data here are encouraging. We finish by making our case that the network planning tool known as the E-model is currently an inexact predictor of VolP network performance.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4243404709",
+    "title": "Al-Muḵtaṣar al-kabīr fi l-fiqh: the earliest example of an Islamic legal handbook",
+    "authors": [
+      "Jonathan E. Brockopp"
+    ],
+    "year": 2000,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2318327455",
+    "title": "EFFECT OF TEMPERATURE ON THE FATIGUE STRENGTH OF SOME THERMOPLASTIC POLYMERS",
+    "authors": [
+      "Nobuhiko Nakano",
+      "Sumiko Hasegawa"
+    ],
+    "year": 1986,
+    "language": "bn",
+    "abstract": "The fatigue strength in thermoplastic polymers is affected remarkably by temperature. The effects of temperature on the fatigue strength of some thermoplastic polymers such as poly (methyl methacrylate) (PMMA), polyoxymethylene (POM), polyethylene (PE), poly (vinyl chloride) (PVC), polystyrene (PS) and acrylonitrile-butadiene-styrene copolymer (ABS) have been investigated with the change of rise of surface temperature by the fatigue, alternating stress amplitude-number of cycles (S-N) curves and tensile stress-strain (S-S) curves.The change of fatigue strength of thermoplastic polymers with temperature may be indicated with one curve which has a certain transition temperature and the fatigue fracture in thermoplastic polymers may be roughly divided into three type as thermal fracture which breaks with the rise of temperature, cracking fracture which does not depend on the rise of temperature and the mixed fracture. PMMA is thermal fracture-type, ABS and PS are cracking fracture-type and POM, PE and PVC are the mixed fracture-type at -20°C_??_60°C.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2892812760",
+    "title": "Agroindustrial Complex of the Republic of Sakha (Yakutia): Program Targets",
+    "authors": [
+      "Natalia Vladimirovna Rodnina",
+      "Natalia Rodnina"
+    ],
+    "year": 2007,
+    "language": "bn",
+    "abstract": "Институтом экономических исследований Дальневосточного отделения Российской академии наук, при поддержке Научного Совета по вопросам регионального развития при Президиуме РАН, издается научный журнал «Пространственная экономика».",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2066697887",
+    "title": "Realization of two-port parameters",
+    "authors": [
+      "S. Can"
+    ],
+    "year": 1979,
+    "language": "bn",
+    "abstract": "A universal active-RC network is proposed for the realization of two-port parameters. It is shown that by generalizing Brugler's network, it is possible to synthesize arbitrary current transfer functions, transfer impedances, transfer admittances, driving-point admittances, as well as voltage transfer functions, by using simple functional decompositions. Comparing to the similar realizations, the proposed network offers a reduction in the number of active elements.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2318167995",
+    "title": "CHANGE IN STRAIN OF SHORT FIBER-RUBBER COMPOSITE UNDER DYNAMIC FATIGUE",
+    "authors": [
+      "Satoshi Mashimo",
+      "Masayoshi Nakajima",
+      "Yoshio Yamaguchi",
+      "Michio Ashida"
+    ],
+    "year": 1985,
+    "language": "bn",
+    "abstract": "The change in strain of short fiber-rubber composites under repeated constant load was investi-gated. The short fibers in the composites were oriented to the uniaxial direction. The fatigue test of composites was carried out in the direction of fiber orientation under 25 Hz of frequency and 6±2, 8±4 and 10±2 MPa of sinusoidal load. The change in strain of composites under-fatigue test was characterized with two stages, i.e. the strain linearly increased with increasing cycles at the initial stage, and then the strain showed marked increase deviating from an extrapolated straight line at the higher cycles. It seems that the former was caused by the deformation of interfacial region between fiber and rubber, and the latter was taken place by the destruction of interfacial region. This change in strain was restrained by the RFL-treatment and high loading of short fibers. It was also found that under the dynamic fatigue of large displacement, the destruction of interfacial region occurred at the early stage, since the interfacial region was difficult to deform with the displacement of sinusoidal stress.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2511212167",
+    "title": "Language Minorities in the Sakha Republic (Yakutia)",
+    "authors": [
+      "T. de Graaf"
+    ],
+    "year": 1996,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W126700627",
+    "title": "Role of public library in intellectual property rights [In Bengali] (মধসবতত সরকষন সধরণ গরনথগরর ভমক)",
+    "authors": [
+      "Anup Kumar Routh",
+      "Manas Samanta"
+    ],
+    "year": 2013,
+    "language": "bn",
+    "abstract": "সাধারণ গরনথাগার মেধাসবতত সংরকষনে যে উললেখযোগয ভমিকা পালন করতে পারে তা এই রচনাটি মাধযমে সবিসতারে বরণনা করা হয়েছে।",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W193724738",
+    "title": "Ke Xue Yu Zong Jiao de Dui Hua",
+    "authors": [
+      "Melville Y. Stewart",
+      "Hao Changchi"
+    ],
+    "year": 2007,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1965557913",
+    "title": "Readings in Classical Arabic Texts (<i>Qawā‘id f?‘arabiyyat al‐turāth</i>)",
+    "authors": [
+      "Ingrid Mattson"
+    ],
+    "year": 2003,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2040501882",
+    "title": "USES AND MIS-USES OF EPIDEMIOLOGY IN TORTS",
+    "authors": [
+      "Richard Clapp"
+    ],
+    "year": 2004,
+    "language": "bn",
+    "abstract": "ISEE-436 Abstract: Environmental and occupational epidemiologic studies are often used in court cases involving toxic exposures and health. Epidemiologists typically offer opinions about the scientific evidence associating exposure with disease in what is referred to as general causation testimony. Opposing epidemiologists may disagree with the opinions and invoke arbitrary rules such as a risk estimate of 2.0 or higher, statistical significance of each individual study, and various interpretations of the Bradford Hill guidelines in reaching causal conclusions. Since the landmark U.S. Supreme Court decision in Daubert v. Merrell-Dow, plaintiffs have had a much more difficult time developing evidence that can be put before a jury. This paper will describe some of the specific uses and mis-uses of epidemiology in court cases from State and Federal jurisdictions around the U.S. Examples of mis-construction and mis-application of the Hill guidelines will be presented. The basis upon which epidemiologists may reach valid conclusions using all the available information from animal studies, case reports, epidemiologic studies will be described.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2058613722",
+    "title": "Indo-Vietnamese Ties",
+    "authors": [
+      "Sourit Bhattacharya"
+    ],
+    "year": 1980,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2186997700",
+    "title": "Syntactic Recognition ofImperfectly Specified Patterns",
+    "authors": [
+      "M. G. Thomasonandr",
+      "Carmen Benavides González"
+    ],
+    "year": 1975,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2268387194",
+    "title": "Shishusahytik Monoranjan Bhattacharya: jeebon evam karma শশসহতযক মনরঞজন ভটটচরয: জবন এভম করম",
+    "authors": [
+      "Partha Sengupta"
+    ],
+    "year": 2012,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2270817493",
+    "title": "বদযচরচ ও ভষতততবর ততয় বপলব (What's After Third Revolution in Linguistics?)",
+    "authors": [
+      "Debaprasad Bandyopadhyay"
+    ],
+    "year": 2006,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2271414040",
+    "title": "Prak adhunik bangla sahitya jivika : ekti anusandhani samiksha (পরক আধনক বল সহতয জবক একই অনসনধন সমকষ )",
+    "authors": [
+      "Kali Sankar Ghosh"
+    ],
+    "year": 2008,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2281779699",
+    "title": "দদইজম ব দদয়ন ('Dadas' in Bangla Literature)",
+    "authors": [
+      "Debaprasad Bandyopadhyay"
+    ],
+    "year": 2005,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2302812670",
+    "title": "Narrative of ন-ইসকল ব/ or Nice School",
+    "authors": [
+      "Debaprasad Bandyopadhyay"
+    ],
+    "year": 2011,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2328804705",
+    "title": "Restoration of “Benibana dyeing and meaning”",
+    "authors": [
+      "Shuji NITTA"
+    ],
+    "year": 1979,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2329518193",
+    "title": "“Virtual Hegel”",
+    "authors": [
+      "Martin Donougho"
+    ],
+    "year": 1995,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2333540517",
+    "title": "Narasiṁha Mahetā-na Pada (Aprakāśita). Unpublished Padas of Narasiṁha Mahetā",
+    "authors": [
+      "Ernest Bender",
+      "Ratilal V. Dave"
+    ],
+    "year": 1984,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2392552060",
+    "title": "Automatically Finds the Specified Column Duplicates in EXCEL",
+    "authors": [
+      "Wang Li-mei"
+    ],
+    "year": 2012,
+    "language": "bn",
+    "abstract": "From a programming solution in EXCEL search data duplication,time-consuming and laborious difficult problem,improve the data processing efficiency.The main function of the design idea is:the double cycle,the system will automatically fill in the search results to the remarks column.Use the EXCEL VISUAL BASIC development process,which makes the whole process to find a simple,simply enter the 5 parameters and click columns to find button,you can get exact duplicates search results.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2406172198",
+    "title": "সমপরতক কল শরৎ-সহতযর পরসঙগকত (Relevance of Saratchandra's Literature in Contemporary Times)",
+    "authors": [
+      "Avishek Ray"
+    ],
+    "year": 2011,
+    "language": "bn",
+    "abstract": "শরৎচনদর চটটোপাধযায়, যিনি কিনা গোটা ভারতে না হলেও অনততপকষে বাংলায়, তার সময়ের জনপরিয়তম কথাসাহিতযিক, তার সাহিতয বিষয়ে পনরালোচনাই এই পরবনধের উদদেশয। হামেশাই তার সাহিতযকে সোশযালিসট এবং (সেই কারণেই) পরগতিবাদী তক‌মা দেওয়া হ’লেও, এই নিবনধের বকতবয, শরৎসাহিতয আসলে বেশ অনিশচয়তায় ভোগা। কষমতাহীনের পরতি অবিচার, দরবলের যনতরনা, হিনদ গোড়ামির কফল, সমাজচযতদের পরতি বৈষমযর মতো বিষয় নিয়ে লিখলেও, নিজের শরেণী এবং জাতের অবসথান থেকে নিজসব বাধা ছিল তার।This article revisits the works of Sarat Chandra Chattopadhyay (1876-1938), arguably the most popular literary practitioner of his time in Bengal, if not India. Often projected as socialist and (hence) progressive, Chattopadhyay's works, this paper argues, are in fact very ambivalent. His works do address the injustice to the powerless, the suffering of the weak, the ills of Hindu conservatism, the discrimination towards the outcasts, but he too has restraints arising out of his class-caste location.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2406389705",
+    "title": "বল সহতযর ঐতহসকয়ন ও লকসহতযর সলতমম (Historicization of Bangla Literature with Reference to Geneaology of Folklore)",
+    "authors": [
+      "Avishek Ray"
+    ],
+    "year": 2013,
+    "language": "bn",
+    "abstract": "কাকে বলব ‘লোক’, বাংলা সাহিতযের মলধারায় তাদের জায়গা আদৌ হবে কিনা, এই বিষয়ে দিনেশচনদর সেন এবং সকমার সেন, বাংলা সাহিতযের দই মসত ঐতিহাসিকের পরসপরবিরোধী বিচারই এই পরবনধের মল দরষটবয বিষয়। এই পরবনধের বকতবয, বসততপকষে, তাদের ‘হযাবিটাস’(বরদিও-র কথা ধার করেই যদি বলা যায়) থেকে তারা যেভাবে বাংলাকে একটা ‘কালপনিক গোষঠী’র আদলে কলপনা করছেন, সেটাই ছায়া ফেলছে তাদের বাংলা সাহিতযের ঐতিহাসিকায়ন সংকরানত বোঝাপড়া এবং তার পরচেষটার ওপর। সমসত পরসপরবিরোধিতা সততবেও, (বাংলা) সাহিতয আর ‘লোক’এর উচচাবচটা তারা সমসবরে মেনে নিচছেন। পাশচাতয এপিসটেমোলজিকাল কাঠামো অনসরণ করে ধরেই নিচছেন যে এটা ‘এপরায়োরাই’ বা বিচারের উরদধে।This paper shows how Dineshchandra and Sukumar Sen, two towering historians of Bangla literature, contradicted in their assessment of what they purportedly called 'folk' elements and in their opinion of whether it should be included in the canon of Bangla literature. The paper argues that what they envisaged the ‘Bengali' as an 'imagined community’ from their respective ‘habitus’, to borrow Bourdieu’s evocative phrase, is reflected in their respective understandings of and endeavors to historicize Bangla literature. Despite all contradictions, what they seem to unanimously agree on is the hierarchy between ‘folk’ and (Bangla) literature which they assumed as an apriori taking cues from Western epistemological models.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2407277177",
+    "title": "Aitihāsika Ḍhākā Mahānagarī, Bibartana O Sambhābanā (ঐতহসক ঢক মহনগর: ববরতন ও সমভবন (The Historical City of Dhaka: Evolution and Prospects)",
+    "authors": [
+      "A. Z. M. Iftikhar-ul-Awwal"
+    ],
+    "year": 2003,
+    "language": "bn",
+    "abstract": "Bengali Abstract: এই বইটিতে ঢাকা শহরের অতীত, বরতমান এবং ভবিষযৎ পরযালোচনামলক পঞচাননটি পরবনধ উপসথাপন করা হযেছে। ১৯৮৯ সালের ৭ থেকে ১৩ নভেমবর বাংলাদেশ জাতীয জাদঘরে অনষঠিত এক সপতাহবযাপী সিমপোসিযামে এই পরবনধগলো উপসথাপন করা হয। বাংলাদেশের সবনামধনয শিকষক, গবেষক, লেখক এবং শিলপীরা তাদের লিখিত এই পরবনধগলো উপসথাপন করেন। পরবরতীতে ২০০৩ সালে বাংলাদেশ জাতীয জাদঘরের মহাপরিচালক (২০০২-২০০৪) পরফেসর ডঃ ইফতিখার-উল-আউযাল এর সমপাদনায পরবনধগলো একতরিত করে বই আকারে পরকাশ করা হয। English Abstract: The book consists of 55 essays that eruditely analyses the past, present and future of Dhaka city. These essays were presented on a symposium that took place from 7th November to 13th November, 1989 at the Bangladesh National Museum. The essays were written and presented by renowned academics, researchers, authors and artists from Bangladesh. Professor Dr. Iftikhar-ul-Awwal, who was the Director General (2002-2004) of Bangladesh National Museum, edited these scholarly essays to bring it under one cover in 2003.Note: The book is written in Bengali.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W25024312",
+    "title": "নরবতর ন- ভষতততব: ললন (Non-Linguistics of Silenceme: Lalon)",
+    "authors": [
+      "Debaprasad Bandyopadhyay"
+    ],
+    "year": 2012,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2506374873",
+    "title": "The “Victorian Baudelaire”",
+    "authors": [
+      "Anne Jamison"
+    ],
+    "year": 2009,
+    "language": "bn",
+    "abstract": "When Rachel Teukolsky entitled her article on comparative nineteenth-century aesthetics \"Modernist Ruskin, Victorian Baudelaire,\" she drew on the shock effect one of her objects helped establish as valuable. Each noun phrase is a near oxymoron, and the chiasm reinforces that status: we cannot conceive of Ruskin as modern because he functions as a sign for all that is Victorian, while the converse is true for his French contemporary. Teukolsky sets out to recover the \"Victorian modern\" in Victorian terms and to restore to Baudelaire those aspects of his work that twentieth- century critiques, she claims, have jettisoned as retrograde or, that is, \"Victorian.\" In challenging the tradition in modern and postmodern thought that defines the modern in opposition to a dated and devalued Victorian era, Teukolsky opens her discussion of what she calls \"deliberately perverse readings of Baudelaire and Ruskin\" by way of Fredric Jameson. Jameson has argued that aspects of Baudelaire anticipate developments in modernist and postmodernist styles, but such an argument, Teukolsky observes, \"necessitates that the more old-fashioned elements of Baudelaire's poetics be set aside.\"1 Jameson explicitly enumerates among these elements a \"second-rate post- Romantic Baudelaire\" who wrote poems containing elements as \"funereal as the worst Victorian art photographs\" that are \"to be identified as the w orst Victorian kitsch.\"2KeywordsPolar BearSexual Double StandardEnglish PoemFall WomanProse PoemThese keywords were added by machine and not by the authors. This process is experimental and the keywords may be updated as the learning algorithm improves.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2512556259",
+    "title": "<i>Vāgbhaṭa's Aṣṭāṅgahṛdayasaṃhitā</i>. Luise Hilgenberg , Willibald Kirfel<i>The Principle of Tridosa in Ayurveda</i>. Dhirendra Nath Ray",
+    "authors": [
+      "George Sarton"
+    ],
+    "year": 1942,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2568397711",
+    "title": "THE STUDY ON POLYNOSIC FIBER:(1) CHANGES IN PHYSICAL PROPERTY OF FIBER BY FREEZING",
+    "authors": [
+      "Kagenobu Inoshita"
+    ],
+    "year": 1966,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2569280057",
+    "title": "V.—CRITICAL NOTICE",
+    "authors": [
+      "Huw Price"
+    ],
+    "year": 1938,
+    "language": "bn",
+    "abstract": "V.—CRITICAL NOTICE Get access Critical Realism. Studies in the Philosophy of Mind and Nature. By G. DAWES HICKS. London: Macmillan & Co., 1938. Pp. xxiv, 346. 15s. H. H. PRICE H. H. PRICE Search for other works by this author on: Oxford Academic Google Scholar Mind, Volume XLVII, Issue 188, October 1938, Pages 505–519, https://doi.org/10.1093/mind/XLVII.188.505 Published: 01 October 1938",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2581031899",
+    "title": "NEW METHODS OF LARGE-SCALE SHEAR TESTING OF ROCKS IN-SITU /CZECH/",
+    "authors": [
+      "Kamil Drozd"
+    ],
+    "year": 1966,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2592046564",
+    "title": "কষদর ন এব অরকষত সমপরদযক উননযন কঠম (SEVCDF)",
+    "authors": [
+      "Tema Alawari Kio-Michael"
+    ],
+    "year": 2016,
+    "language": "bn",
+    "abstract": "The development objective of the Regional Connectivity Project for Bangladesh is to lower time and costs associated with trade and improve infrastructure and conditions for trade along strategically important regional transport corridors. Some of the negative impacts are include : (i) threaten their cultural tradition and way of life; (ii) may severely restrict access to common property resources and livelihood activities; (iii) may affect places/objects of cultural and religious significance (places of worship, ancestral burial grounds, etc.); (iv) require involuntary land donation, “contribution against compensation” and purchases that are not offered on “willing buyer-seller” basis; (v) affect private homesteads; (vi) render households using public lands homeless or impact livelihood activities ongoing there; (vii) significantly restrict access to common property resources and livelihood activities of groups and communities; (viii) cause adverse impacts on physical cultural resources like buildings and objects that bear cultural and historical significance; Some of the mitigation measures are include : (i) increased access to information and knowledge about health and nutrition, including women's health, immunization services, personal hygiene, water and sanitation issues; literacy and leadership program; and human and legal rights, including child rights; (ii) ensuring that they do not suffer adverse effects during the development process; (iii)taking up economic benefit programs which are culturally and socially compatible; (iv) motivation towards increased participation, 'voice' and empowerment in working with local government bodies for local level planning, decision making and monitoring, thereby decreasing social exclusion and improving local governance; (v) increased economic opportunities for skill development and access to income creating assets.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2594232260",
+    "title": "Jagdish Chandra ke upanyaso me dalit chetana ek anushilan",
+    "authors": [
+      "Poonam K Mori"
+    ],
+    "year": 2015,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2785555648",
+    "title": "Miscellanea of Dohās / bram ze chen pos mdzad pa'i dho ha bskor gsum/_mdzod drug/_ka kha dho ha/_sa bcad rnams",
+    "authors": [
+      "btsun pa chos legs"
+    ],
+    "year": 2016,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2794100723",
+    "title": "SWAMI VIVEKANANDER BANI O RACHANA,VOL.7 সবম ববকননদর বন ও রচন,খণড ৭",
+    "authors": [
+      "Swâmi Vivekananda"
+    ],
+    "year": 1960,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2794613639",
+    "title": "Miscellanea of Dohās / bram ze chen pos mdzad pa'i dho ha bskor gsum/_mdzod drug/_ka kha dho ha/_sa bcad rnams",
+    "authors": [
+      "gtsang smyon he ru ka"
+    ],
+    "year": 2016,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2800455087",
+    "title": "ARTHASHASTRA PARICHAY অরথশসতর পরচয়",
+    "authors": [
+      "Satyendranath Sen",
+      "Sisirkumar Das"
+    ],
+    "year": 1959,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2806542857",
+    "title": "Hindu Shashtra হনদ শসতর",
+    "authors": [
+      "Bipin Biharee Ghoshal"
+    ],
+    "year": 1885,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2809859931",
+    "title": "KURURAJ কররজ",
+    "authors": [
+      "Kalidas Ray Kabishekher"
+    ],
+    "year": 1936,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2810326530",
+    "title": "Durgeshnandini দরগশননদন",
+    "authors": [
+      "Bankim Chandra Chattopadhyay"
+    ],
+    "year": 1925,
+    "language": "bn",
+    "abstract": "দুর্গেশনন্দিনী বঙ্কিমচন্দ্র চট্টোপাধ্যায় (১৮৩৮- ১৮৯৪) Bankim Chandra Chattopadhyay বঙ্কিমচন্দ্র চট্টোপাধ্যায় দুর্গেশনন্দিনী বঙ্কিমচন্দ্র চট্টোপাধ্যায় (১৮৩৮- ১৮৯৪)",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2811435285",
+    "title": "Swami Vivekanander Patrabali - Vol.4 সবম ববকননদর পতরবল - খনড ৪",
+    "authors": [
+      "Narendra Nath Dutta"
+    ],
+    "year": 1920,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2883607495",
+    "title": "SANKHYATATTWA-KAUMUDI সখযততব-কমদ",
+    "authors": [
+      "Purnachandra Bedantachunku"
+    ],
+    "year": 1901,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2885880669",
+    "title": "Hindu Samajer Itihas Vol. 2 হনদ সমজর ইতহস দবতয় খনড",
+    "authors": [
+      "Upendranath Mukhopadhyay"
+    ],
+    "year": 1933,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2887506158",
+    "title": "Hindu Darshan (Vedanta) হনদ দরশন (বদনত)",
+    "authors": [
+      "Chandrakanta Sharma"
+    ],
+    "year": 1900,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2888062757",
+    "title": "Michel Madhusudan Granthabali - Vol.1 মইকল মধসদন গরনথবল - খনড ১",
+    "authors": [
+      "Michel Madhusudan Dutta"
+    ],
+    "year": 1910,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2888212225",
+    "title": "Skandha Puranam সকনদ পরণম",
+    "authors": [
+      "Krishnadwaipayan Bedabyas"
+    ],
+    "year": 1911,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2891579386",
+    "title": "Tantra O Sadhan Paddhati তনতরক গর",
+    "authors": [
+      "Nigamananda Swami"
+    ],
+    "year": 1921,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2891854265",
+    "title": "Byakarankoumudi বযকরণকমদ",
+    "authors": [
+      "Iswarchandra Bidyasagar"
+    ],
+    "year": 1887,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2896542962",
+    "title": "ড. আবদললহ জহঙগর রহ. ও তর ফকহ রচনবল : একট পদধতগত বশলষণ|Dr. Abdullah Jahangir Rh. and His Fiqhi Literature A Methodological Analysis",
+    "authors": [
+      "Meer Monjur Mahmood"
+    ],
+    "year": 2018,
+    "language": "bn",
+    "abstract": "Among those intellectuals who have been responsible for disseminating true Islamic knowledge through daʻwah in Bangladesh, Dr. Abdullah Jahangir is the most prominent among them. He strove to formulate his timely vision and bring about unity among Muslims of the Ummah through his sincere and unique efforts and love for the Muslim Ummah. He stressed upon following the middle path in all aspects of Islam in human life. This article discusses his life, his thought and the various aspects of his philosophy and vision. Due to the unavailability of any books or prior articles discussing his life and visions, this article relies on the interview method to gather information. At the same time, it also uses the deductive process. This research concludes that Dr. Abdullah Jahangir was an intellectual of many talents. The mission of his life was Muslim unity and to dispel all extremist practices in favour of a middle path approach in life based upon the Quran and pure Sunnah.Keywords: Abdullah Jahangir; as-sunnah trust; pure sunnah; islamic unity; middle path.\r\nসারসংকষেপ: সামপরতিক কালে বাংলাদেশে সহীহ ইসলামী জঞান-বিজঞান ও দাওয়াহ পরচার-পরসারে যেসব মনীষী অনবদয অবদান রেখেছেন ড. আবদললাহ জাহাঙগীর রহ. তাদের মধযে পরাতসমরণীয়। নিজসব পদধতিতে আনতরিকতার সরবোচচ অবসথান থেকে উমমতের দরদী হয়ে তিনি মসলিম ঐকযের চিনতা করেছেন এবং এ বিষয়ে পেশ করেছেন যগোপযোগী দরশন। মানব জীবনের পরতিটি সতরে ইসলাম পরিপালনে তিনি মধযপনথার উপর জোর দেন। তার রচনাবলিতে এর সপষট ছাপ পরিলকষিত হয়েছে। এ মহান মনীষীর জীবন, তার চিনতা ও দরশনের বিভিনন দিক এবং তার ফিকহী রচনাবলি সমপরকে আলোচনার উদদেশযে এ পরবনধ পরণীত হয়েছে। এ সমপরকিত কোন গরনথ বা লেখা না থাকায় পরবনধটি পরণয়নের কষেতরে বেশিরভাগ নিরভর করা হয়েছে সাকষাতকার পদধতির ওপর। সাথে সাথে অবরোহ পদধতিরও পরয়োগ করা হয়েছে। গবেষণা থেকে পরমাণিত হয়েছে, ড. শায়খ আবদললাহ জাহাঙগীর ছিলেন বহমখী পরতিভার অধিকারী এক মনীষী, যার জীবনের মিশনই ছিল ইসলামী ঐকয ও সব ধরনের কটটরপনথার বিলোপ সাধন করে মধযপনথার ভিততিতে করআন ও বিশদধ সননাহর আলোকে জীবন পরিচালনা। মলশবদ: আবদললাহ জাহাঙগীর; আস-সননাহ টরাসট; বিশদধ সননাহ; ইসলামী ঐকয; মধযমপনথা।",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2897233695",
+    "title": "পরতবনধ ও বশষ চহদসমপনন জনগষঠর মরযদ ও অধকর : পরচলত আইন ও করআন-হদসর নরদশন|Dignity and Rights of Disabled and Special Needs People Instructions from Existing Laws and Quran-Hadith",
+    "authors": [
+      "Mohammad Abdul Jalil"
+    ],
+    "year": 2018,
+    "language": "bn",
+    "abstract": "Disabled and special needs people are an indispensable part of the society and the state. Under the current law, they have every right to life and development. Other than that, they have the right to full and effective participation in terms of living in respect in society, marriage, facilities in the educational, social, economic and state-related institutions, and the right to be employed in government and non-government organizations. The Islamic lifestyle clearly states about the rights of disabled people and duties towards them. There are numerous verses in the Quran and Hadiths dealing with this issue. The following article deals with the issues of the disabled and special needs population in light of the Quran and the Sunnah. Through descriptive and analytical analysis, it is proved that the respect and rights that Islam accords the disabled and special needs people is more than other life systems and is more welfare oriented.Keywords: disabled; special needs population; human rights; al-quran; al-hadith; existing laws.\r\nসারসংকষেপ : পরতিবনধী ও বিশেষ চাহিদাসমপনন জনগোষঠী পরতিটি সমাজ ও রাষটরের একটি অবিচছেদয অংশ। পরচলিত আইনের দষটিতে তাদের রয়েছে পরণমাতরায় বেচে থাকা ও বিকশিত হওয়ার অধিকার। তাছাড়া সমাজে সমমানের সাথে বসবাস, বৈবাহিক সমপরক সথাপন, শিকষা পরতিষঠানে উপযকত সবিধাপরাপতি, সামাজিক, অরথনৈতিক ও রাষটরীয় ইতযাদি সকল কষেতরে পরতিবনধিতার ধরন অনযায়ী পরণ ও কারযকরভাবে অংশগরহণ এবং সরকারি-বেসরকারি পরতিষঠানে করমে নিযকতির অধিকার। ইসলাম  পরতিবনধী ও বিশেষ চাহিদা সমপনন জনগোষঠীর অধিকার ও তাদের পরতি করণীয় বিষয়ে সপষট নিরদেশনা পরদান করেছে। এ বিষয়ে অসংখয আয়াত ও হাদীস বরণিত হয়েছে। বকষযমাণ পরবনধে পরতিবনধী ও বিশেষ চাহিদাসমপনন জনগোষঠীর মরযাদা ও অধিকার সংকরানত করআন ও হাদীসের নিরদেশনাগলো বযাখযা করা হয়েছে। পাশাপাশি এতদসংকরানত পরচলিত আইনগলোও তোলে ধরা হয়েছে। বরণনামলক ধারায় পরণীত এ পরবনধ থেকে পরমাণিত হয়েছে যে, ইসলাম পরতিবনধীদেরকে যথাযথ গরতব, মরযাদা ও অধিকার দিয়েছে এবং তাদের পরতি করণীয় সমপরকে সপষট নিরদেশনা পরদান করেছে।মলশবদ: পরতিবনধী; বিশেষ চাহিদাসমপনন জনগোষঠী; মানবাধিকার; করআন; হাদীস; পরচলিত আইন।",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2899652696",
+    "title": "Sanatan Dharma - Vol.1 সনতন ধরম - খনড ১",
+    "authors": [
+      "Swami Bhumananda"
+    ],
+    "year": 1928,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2902909350",
+    "title": "Stabamala সতবমল",
+    "authors": [
+      "Rup Goswami",
+      "Ramnarayan Bidyaratna"
+    ],
+    "year": 1885,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2903790598",
+    "title": "Shri Arabinder Gita - Vol.2 শর অরবনদর গত - খনড ২",
+    "authors": [
+      "Anilbaran Ray"
+    ],
+    "year": 1926,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2904019805",
+    "title": "Shyamacharan Sarkar-er Jiban Charit মহতম শযমচরণ সরকরর জবন - চরত",
+    "authors": [
+      "Becharam Chattopadhaya"
+    ],
+    "year": 1882,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2904087671",
+    "title": "BAIDYAK-BRITTANTA বদযক-বততনত",
+    "authors": [
+      "Gurupada Haldar"
+    ],
+    "year": 1954,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2904319241",
+    "title": "Swami Sishya Sangbad - 4th ed.সবম শষয সবদ - ৪রথ স",
+    "authors": [
+      "Sharachchhandra Chakrabarty"
+    ],
+    "year": 1921,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2904357876",
+    "title": "On the Formulaic Expression'I dare say'",
+    "authors": [
+      "Minoji Akimoto"
+    ],
+    "year": 1999,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2904552450",
+    "title": "BEDANTA-DARSHANER ITIHAS PART. 3, ED. 1ST বদনত-দরশনর ইতহস ৩য় ভগ, পরথম সসকরণ",
+    "authors": [
+      "Praganananda Saraswati"
+    ],
+    "year": 1927,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2904949377",
+    "title": "Adhyatma Ramayanam আধযতম রময়নম",
+    "authors": [
+      "Kashi Nath Sharma"
+    ],
+    "year": 1882,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2905360222",
+    "title": "Dayananda Charit দয়ননদ চরত",
+    "authors": [
+      "Debendranath Mukhopadhyay"
+    ],
+    "year": 1889,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2906102709",
+    "title": "AJODHYAMAHATTYAM অযধযমহতমযম",
+    "authors": [
+      "Bhudhar Chattapadhyay"
+    ],
+    "year": 1896,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2907035084",
+    "title": "驻海拔3 680 m高原地区陆军某部膳食营养调查与评价",
+    "authors": [
+      "张星弛",
+      "Zhang Xingchi",
+      "邵剑钢",
+      "Shao Jiangang",
+      "贾先勇",
+      "Jia Xian-yong",
+      "李晓莉",
+      "Li Xiaoli",
+      "张钢",
+      "Zhang Gang"
+    ],
+    "year": 2018,
+    "language": "bn",
+    "abstract": "目的调查高原官兵的膳食结构和身体状况，为指导部队合理膳食，提高高原官兵的膳食营养水平提供依据。 方法选取驻海拔3 680 m高原地区陆军某部一个伙食单位就餐人员(青年男性官兵)190名，采取称量法进行连续4 d的膳食调查；同时利用体质量身体脂肪测量器及皮脂测量仪进行体格检查；抽取官兵空腹全血，进行血样生化检查，测定贫血3项、全血矿物质8项以及血清维生素A、血清维生素D、血清维生素E等生化指标。并以GJB 826A-2010《军人食物定量》、GJB 823B-2016《军人营养素供给量》、GJB 1636A-2016《军队营养调查与评价方法》和血样检测结果参考值为依据进行评价。 结果膳食调查结果显示该部官兵肉类、禽蛋及食用菌等食物摄入充足，但鱼虾、蔬菜、水果、大豆和牛奶等食物摄入量不足，部分食物摄入低于标准的50%；蛋白质、铁、维生素E等多数营养素供给达标，但钙、锌、碘、维生素A、维生素B1、维生素B2摄入量不足；能量摄入量达标，其中3大营养素蛋白质、脂肪、碳水化合物供能所占比例分别为12.0%、45.0%、43.0%，脂肪供能比偏高，蛋白质和碳水化合物供能比未达到标准；体质指数在18.5~23.9范围内的官兵有91名，占比为75.8%，表明大多数官兵营养状况正常，但也存在慢性营养不良的情况。血样检测结果显示，官兵多种营养素在标准范围内，但维生素D和钙普遍缺乏，铁元素部分人员超标。 结论部分人员存在营养不良的情况，维生素D和钙缺乏明显，还需调整膳食结构和进行营养宣教来改善高原部队膳食营养现状。",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2908368350",
+    "title": "SRIMADBHAGABATAM শরমদভগবতম",
+    "authors": [
+      "Radharanjan Ed Chowdhury"
+    ],
+    "year": 1955,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2914058321",
+    "title": "Balmiki Ramayoner Bangla onubadok kobi Krittibaser sohit Nepali onubadok kobi Bhanubhokter tulonamulok bichar (বলমক রময়ণর বল অনবদক কব কততবসর সহত নপল অনবদক কব ভনভকতর তলনমলক বচর)",
+    "authors": [
+      "Bhajangopal Sanyal"
+    ],
+    "year": 1982,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2918406500",
+    "title": "Shri Gouranga Lilamrita শর গরঙগললমত",
+    "authors": [
+      "Biswanath Chakroborty"
+    ],
+    "year": 1888,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2948235297",
+    "title": "Simple intradyne PSK system for udWDM-PON",
+    "authors": [
+      "Josep Prat",
+      "Víctor Polo",
+      "Panagiotis Zakynthinos",
+      "Iván N. Cano",
+      "Jeison Tabares",
+      "Josep M. Fàbrega",
+      "Dimitrios Klonidis",
+      "Ioannis Tomkos"
+    ],
+    "year": 2014,
+    "language": "bn",
+    "abstract": "An enhanced homodyne coherent system for ultra-dense WDM-PON is demonstrated, using conventional DFB, coupler instead of 90° hybrid and digital signal processing, achieving improved sensitivity and phase noise tolerance.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2948896295",
+    "title": "ইসলমর আলক পরযটন: একট তততবক পরযলচন|Tourism in the light of Islam: A Theoretical Review",
+    "authors": [
+      "Wayej Kuruni",
+      "Mst. Marifa Akter"
+    ],
+    "year": 2017,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2950183267",
+    "title": "শরয় মকসদর তততবক বকশ: একট ঐতহসক বশলষণ|The Theorization of Maqasid al-Shari’ah : A Historical Analysis",
+    "authors": [
+      "Abu Talib Mohammad Monawer"
+    ],
+    "year": 2017,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2952039590",
+    "title": "A moral subject: the VO propaganda feature",
+    "authors": [
+      "Annette Kuhn"
+    ],
+    "year": 2013,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2972595104",
+    "title": "ইবন খলদনর আসবয়যহ তততব ও মসলম জতয়তবদর বকশধর|The Asabiyyah Theory of Ibn Khaldun and the Development of Muslim Nationalism",
+    "authors": [
+      "Farhana Afrin"
+    ],
+    "year": 2019,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2979535691",
+    "title": "ইসলম ফইনযনস মকসদ আশ শরআহ-এর পরয়গ: একট পরযলচন|Applications of Maqāsid al-Sharīʻah in Islamic Finance An Analysis",
+    "authors": [
+      "Md. Habibur Rahman"
+    ],
+    "year": 2019,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2999182494",
+    "title": "Measurement of the Absolute Value of Eta for Pu 241 by the Manganese Bath Method",
+    "authors": [
+      "J.R. Smith",
+      "S.D. Reeder"
+    ],
+    "year": 1968,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2999553894",
+    "title": "ইসলম সভযতয় গরনথগর : পরপরকষত সবরণযগ|Library in Islamic Civilization: Perspective of Golden Ages",
+    "authors": [
+      "Mohammad Arifur Rahman"
+    ],
+    "year": 2019,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2999861160",
+    "title": "Tulonamulok aalochonar dorpone Chaitonyo jibon bisohyok sanskrit o bangla rochonar mulyayon(তলনমলক আলচনর দরপন চতনয জবন বষয়ক সসকত ও বল রচনর মলযয়ন)",
+    "authors": [
+      "Rabindranath Sarkar"
+    ],
+    "year": 2017,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3000129643",
+    "title": "ইসলম লকত ব কড়য় পওয় শশর বধন : একট পরযলচন|Rules Regarding Picked Up Child in Islam A Critical Analysis",
+    "authors": [
+      "Mohammad Zahidul Islam"
+    ],
+    "year": 2019,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3007876734",
+    "title": "বনধক বসতর দবর উপকর লভ : একট ফকহ পরযলচন|Benefits Arising out of Mortgaged Property A Review of Juristic Opinions",
+    "authors": [
+      "Md. Miqdad Siddique",
+      "Md. Shofiqul Islam"
+    ],
+    "year": 2020,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3008283029",
+    "title": "Fellowshiper Lectures ফলসপর লকচরস",
+    "authors": [
+      "Gopal Basumallik"
+    ],
+    "year": 1904,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3008521453",
+    "title": "পরবরক মলযবধ বকশ ইসলম নতক শকষর গরতব : অভভবকর করণয়|Significance of Islamic Moral Teachings in Developing Family Values: Responsibilities of Parents",
+    "authors": [
+      "Md. Jomir Uddin"
+    ],
+    "year": 2020,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3009059041",
+    "title": "ইবন খলদনর দষটত শকষ ও পরশকষণ|Ibn Khaldun on Education and Knowledge",
+    "authors": [
+      "A. K. M. Abdul Quader"
+    ],
+    "year": 2019,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3009565086",
+    "title": "Ananda-Tufan আননদ তফন",
+    "authors": [
+      "Priyanath Chakrabarty"
+    ],
+    "year": 1917,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3009702546",
+    "title": "ইবন খলদনর অনতরদষটপরণ সমজতততবক ধরণ : একট বশলষণ |Insightful Sociological Ideas of Ibn Khaldūn : An Analysis",
+    "authors": [
+      "Jannatul Fardaos"
+    ],
+    "year": 2019,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3012186223",
+    "title": "তরপরয় আধনক বল সহতযচরচ ও রবনদরনথ (MODERN BENGALI LITERARY PURSUIT IN TRIPURA &amp; TAGORE)",
+    "authors": [
+      "Rintu Das"
+    ],
+    "year": 2020,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3012521295",
+    "title": "‘বঙগবণ’ পতরক ও বল সহতয (‘BANGABANI’ PATRIKA AND BENGALI LITERATURE)",
+    "authors": [
+      "R. L. Ray"
+    ],
+    "year": 2020,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3019529492",
+    "title": "ফকহ ও ফকহর মলনত|Fiqh and Principles of Fiqh",
+    "authors": [
+      "Sayed Mohammad Jahirul Haque"
+    ],
+    "year": 2019,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3019556350",
+    "title": "ইবন খলদন ও তর ইতহসচরচর ধর|Ibn Khaldun and his Method for Study of History",
+    "authors": [
+      "Wayej Kuruni"
+    ],
+    "year": 2019,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3023923508",
+    "title": "আল-মকদদময় ইবন খলদনর শকষ বষয়ক ধরণ|Ibn Khaldun’s Thought on Education as Reflected in Al-Muqaddima",
+    "authors": [
+      "Jannatul Ferdaus"
+    ],
+    "year": 2019,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3025829106",
+    "title": "Bouddha Dharma বদধ ধরমম",
+    "authors": [
+      "Satyendranath Thakur"
+    ],
+    "year": 1901,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3027015464",
+    "title": "AYURVEDA BIGYAN VOL. 3 আরয়ববদ বজঞন",
+    "authors": [
+      "Binod Lal Sengupta"
+    ],
+    "year": 1961,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3034386698",
+    "title": "Bhagabati Gita ভগবত গত",
+    "authors": [
+      "Das Dey",
+      "Mahesh Chandra"
+    ],
+    "year": 1855,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3035098222",
+    "title": "Bhakter Sadhan (Bhaktibad) Vol. 1, Ed. 1st ভকতর সধন",
+    "authors": [
+      "Madhusudan ed Das"
+    ],
+    "year": 1913,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3041979500",
+    "title": "ADHATMARAMAYANAM অধযতমরমযণম",
+    "authors": [
+      "Krishnadaypayan Bedbass"
+    ],
+    "year": 1883,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3042265429",
+    "title": "Homeopathick Bhaishajya-Bigyan - Vol. 3 হমওপযথক ভষজয বজঞন - খনড ৩",
+    "authors": [
+      "Jagachchandra Ray"
+    ],
+    "year": 1920,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3088915341",
+    "title": "Dharma Bakhya - Vol.1-5 ধরমম বযখয - খনড ১-৫",
+    "authors": [
+      "Shashadhar Tarkachuramani"
+    ],
+    "year": 1806,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3091887985",
+    "title": "Bangabhasha Byakaran বঙগভষ বযকরণ",
+    "authors": [
+      "Braja Kishor Gupta"
+    ],
+    "year": 1853,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3092172204",
+    "title": "ASAMI HAZIR VOL. 1 আসম হজর পরথম-খনড",
+    "authors": [
+      "Bimal Mitra"
+    ],
+    "year": 1961,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3093463743",
+    "title": "SWAMI VIVEKANANDAR PATRABALI PART.2,ED.5TH সবম ববকননদর পতরবল, দবতয ভগ, ৫ম সসকরণ",
+    "authors": [
+      "Swâmi Vivekananda"
+    ],
+    "year": 1924,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3094631959",
+    "title": "Adhatmaramayanam আধযতমরময়ণম",
+    "authors": [
+      "Krishnadaypayan Bedbass"
+    ],
+    "year": 1883,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3100684485",
+    "title": "GOUTAM BUDDHA গতম বদধ",
+    "authors": [
+      "Bimalacharan Laha"
+    ],
+    "year": 1938,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3108979409",
+    "title": "সবম ববকননদ ও বল Swami vivekananda o bangla",
+    "authors": [
+      "দাস Das",
+      "নির্মল Nirmal"
+    ],
+    "year": 2019,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3122447655",
+    "title": "Jatio Samasyay Swami Vivekananda জতয় সমসযয় সবম ববকননদ",
+    "authors": [
+      "Sundarananda Swami"
+    ],
+    "year": 1965,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3129568583",
+    "title": "Dharma Jiban - Vol.3 - 2nd ed. ধরম জবন - খনড ৩ - ২য় স",
+    "authors": [
+      "Shibnath Shastri"
+    ],
+    "year": 1915,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3131646680",
+    "title": "VIVEKANANDER JIBAN O BISWABANI ED.2ND ববকননদর জবন ও বশববণ দবতয় সসকরণ",
+    "authors": [
+      "Rishi Tr. Das"
+    ],
+    "year": 1956,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3133243406",
+    "title": "ISLAM-ITIBRITTA ইসলম-ইতবতত",
+    "authors": [
+      "Mohammad Chamirauddin Ahammad"
+    ],
+    "year": 1944,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3134092404",
+    "title": "Rig-Veda-Sanhita - Vol. 3 ঋগবদ সহত - খনড ৩",
+    "authors": [
+      "Max Müller"
+    ],
+    "year": 1856,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3134573024",
+    "title": "V.—CRITICAL NOTICE",
+    "authors": [
+      "W. R. Boyce Gibson"
+    ],
+    "year": 1901,
+    "language": "bn",
+    "abstract": "to MM Analysis of the Sensations was published in 1886, and consisted in a series of speoifio analyses of the various sensations, introduced and rounded off in the first and last chapters respectively by discussions of a more general kind. 1 The book in its earlier form had thus a certain symmetry of its own, despite the fact that it was largely, even at this its first appearance, a mere compilation of material published elsewhere. As a highly qualified reviewer-C. Stumpf-remarked at the time, Maoh had put together in the edition of 1886 a number of scattered studies, previously incorporated in his published works, and aided to these a series of new facts and points of view. In the early nineties, I believe, an English translation was made ot this work by Mr. C. M. Williams",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3138754765",
+    "title": "বশখদততর নটযরচনয় শশমনসতততবর পরতফলন- একট দষটকণ",
+    "authors": [
+      "Indrajit Pramanik"
+    ],
+    "year": 2021,
+    "language": "bn",
+    "abstract": "Vishkhadatta created a completely new genre in Sanskrit Literature by bringing mainstream politics into literature. In post -Kalidasa era, this type of subject in a play was very rare. After the destruction of Nanda dynasty, Chandra Gupta Maurya ascended the throne. The theme of the play is to bring Nanda’s trustworthy Amatya Rakshas in to the confidence of Chandra Gupta’s. While depicting the characters Vishkhadatta showed his exquisite mastery in representation of various characters by showing different shades of them. Like other side roles, equal importance was also given on the child character too. Every character, though being in a certain genre is also unique in their own ways. The amount of imagination engulfed in these child characters represents the reality on one hand and at the same time enlivens the motion of the play to another height. Mastery of Vishkhadatta while depicting the child character does not merely lie in the dialogue, acting or representation only but the inherent psychological traits analysed in a completely different manner uplifts the play on a different level. All the devices tried by Chanakya to convince Amatya Rakshas and the efforts of Rakshas’s wife to safe guard the family from Chanakya’s espionage system helps to depict the infancy of her son. Though her mother tries to confine her son in a safe house but an infant heart can’t be captured and ultimately breaks free. The natural curiosity of a child is universal and nothing can contain that. The spontaneous exuberance of an infant represented by Rakshas’s child bears the signature of natural reflex of a child. The unique signature of Vishkhadatta’s creation has come to full bloom through the depiction of this child character.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3152912839",
+    "title": "ATMA SMRITI আতম সমত",
+    "authors": [
+      "Sajani Kanta Das"
+    ],
+    "year": 1954,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3155167369",
+    "title": "RAJENDRA PRASAD ATMAKATHA রজনদর পরসদ আতমকথ",
+    "authors": [
+      "Priyaranjan Sen"
+    ],
+    "year": 1960,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3162219689",
+    "title": "সবধনতর তথযচতর 'সটপ জনসইড' (Stop Genocide: A Documentary for Liberation)",
+    "authors": [
+      "Saiyeed Shahjada Al Kareem"
+    ],
+    "year": 2019,
+    "language": "bn",
+    "abstract": "Bengali Abstract: বাংলাদেশের মকতিযদধকালীন সমযের অবসথা বিশববাসীর নিকট তলে ধরার জনয নিরমিত তথযচিতর সটপ জেনোসাইড এর নিরমাণশৈলী এবং অনতরনিহিত অরথ নিযে আলোচনা করা হযেছে এই লেখনীতে। চলচচিতরটিতে বযবহত বিভিনন চিহনের অরথ বঝার সবারথে চিহনতততবের সাহাযয নেযা হযেছে। \r\n\r\nEnglish Abstract: The article aims to understand the style and inner meaning of the documentary Stop Genocide (1971) directed by Zahir Raihan which documents the genocide of the people of Bangladesh by the Pakistan Army in the time of the war of independence of Bangladesh. The article does a semiotic analysis of the film text to explore the inherent meaning of the cinema.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3163364987",
+    "title": "Physical Property and Structure Analyses for High-Performance Plastics of Paramylon Esters",
+    "authors": [
+      "Hongyi Gan",
+      "Taizo Kabe",
+      "Tadahisa Iwata"
+    ],
+    "year": 2021,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3164773227",
+    "title": "বলদশ সরকরর সমজক নরপতত করমসচ : করআন ও হদসর আলক একট পরযলচন|The Government of Bangladesh’s Social Safety Program A Qurān-Sunnatic Analysis",
+    "authors": [
+      "Mohammad Harunar Rashid"
+    ],
+    "year": 2021,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3166870286",
+    "title": "ভষ আৰ সসকত বধ ভষবজঞনত সময (Language and Culture: Time in Cognitive Linguistics)",
+    "authors": [
+      "Khammoun Phukan"
+    ],
+    "year": 2020,
+    "language": "bn",
+    "abstract": "This article tries to understand the concept of time in Assamese language and culture. Assamese culture understands and views the abstract idea of time through different experiences. Here is a descriptive analysis of the theme in Assamese language.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3180495779",
+    "title": "ইসলম পরকয়র বধন ও বলদশ পরচলত আইন : একট তলনমলক বশলষণ|The Rulings of Extra-Marital Relationship in Islam and the Existing Law of Bangladesh: A Comparative Analysis",
+    "authors": [
+      "Mohammad Sydul Islam Majumdar"
+    ],
+    "year": 2021,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3184506013",
+    "title": "যগ সমসযর সমধন সমমলত ইজতহদর গরতব ও পরয়জনয়ত | Necessity and importance of Collective Ijtihad in solving problems of the current Age",
+    "authors": [
+      "Muhammad Sa'ad hasan"
+    ],
+    "year": 2016,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3191669849",
+    "title": "হদহদ-এর অপরধ ও সলইমন আ. করতক ঘষত শসত : পরচলত ও ইসলম আইনর দষটত একট পরযলচন|Offence of Hoopoe and the Punishment Pronounced by Solomon A. : A Critical Analysis from the Perspective of Conventional and Islamic Law",
+    "authors": [
+      "Mostofa Kamal"
+    ],
+    "year": 2019,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3192502106",
+    "title": "ইসলম বচরবযবসথর পরতষঠনক কঠম: একট পরযলচন|Institutional Structure of the Islamic Judiciary: An Analysis",
+    "authors": [
+      "Emdadul Haque"
+    ],
+    "year": 2021,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3192575802",
+    "title": "ছটকন : নর মনসতততবর চলচচতরক উপসথপন (Chitkini : Cinematic Representation of Women Psychology)",
+    "authors": [
+      "Saiyeed Shahjada Al Kareem"
+    ],
+    "year": 2018,
+    "language": "bn",
+    "abstract": "Chitkini (Rest is Silence) is a 2017 Bangla cinema Directed by Sajedul Awwal which attempts to portray women psychology in a different way than typical ones.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3198976860",
+    "title": "অধযপক ম ফখরল ইসলম (১৯৩৯-১৯৯১) Prof Md Fokhrul Islam (1939-1991)",
+    "authors": [
+      "K M Baharul Islam"
+    ],
+    "year": 2020,
+    "language": "bn",
+    "abstract": "Bengali abstract: সবাধীনোততর ভারতে আসাম রাজযের অবিভকত কাছাড জেলার শিকষাবিদ তথা সমাজসেবীদের মধযে অনযতম একজন ছিলেন অধযাপক মোঃ ফখরল ইসলাম অনযতম। তৎকালীন করিমগনজ মহকমার পাথারকানদি থানা এলাকার কাবাডিবনদ গরামে ১৯৩৯ ইংরেজিতে উনার জনম। ছোটবেলা থেকেই পডাশনার পরতি উনার ঝোক ছিল। কষিজীবী পরিবারের সনতান হিসাবে বাডির অনযানয সবার সঙগে দৈননদিন কষিকাজে হাত লাগিযেও উনি বাডি থেকে অনেক দরে পাথারকানদি মডেল হাইসকল পরতযেকদিন পাযে হেটে গিযে পডাশনা করতেন। ১৯৬২ ইংরেজিতে গৌহাটি বিশববিদযালযে অরথিনীতিতে এম এ করার পর উনি কাছাড কলেজে অরথনীতি বিভাগে যোগদান করেন। দই দশকেরও বেশি সময ধরে কাছাড কলেজে তিনি ভারতীয অরথনীতি ও পরিকলপনার একজন খবই জনপরিয অধযাপক ছিলেন। ১৯৭৮ ইংরেজিতে অধযাপক ইসলাম পাথারকানদি বিধানসভা কেনদরের বিধাযক হিসাবে নিরবাচিত হন ও পরে শিকষা বিভাগের সংসদীয সংসদ সচিব এবং তার কিছদিন পর উপ-শিকষামনতরী হিসাবে পদভার গরহণ করেন । তাছাডা টানা দই দই বার তিনি আসাম রাজয মাদরাসা শিকষা বোরডের চেযারমযানের দাযিতবও পালন করেছেন। তিনি দীরঘদিন গৌহাটি বিশববিদযালযের নিরবাহী পরিষদ এবং ইউনিভারসিটি কোরটেরও সদসয ছিলেন। সারা ভারত জমিযত উলামাযে হিনদের তিনি ছিলেন কারযকারী সদসয । এই সংকষিপত পরবনধে অধযাপক ইসলাম জীবন এবং সবলপায এই মানষটি তার করমজীবনে যে কযেকটি মহৎ কাজ করেছিলেন তা নিযে আলোচনা করা হযেছে । মাদরাসা থেকে পাশ করে যাতে ছাতর-ছাতরীরা ইচছে করলে সাধারণ কলেজ-বিশববিদযালযে পডতে পারেন সেজনয উনি মাদরাসা শিকষায সংসকারসাধন করেন । উনার এই কাজে কিছ লোক অসনতষট হলেও অসংখয মাদরাসা শিকষারথীরা এই সযোগে উচচশিকষা গরহণ করে পরবরতীতে সমাজের বিভিনন উচচপদে পরতিষটিত হন । শিকষক নিযকতিতে যাতে সমাজের শরেণীর লোকরা একচেটিযা সবিধা লাভ না করতে পারে তার জনয উনি নিযম করেছিলেন - এক চাকরী, পরিবার, গরাম-শহর বিচার ।\r\n\r\nEnglish abstract: Prof Md. Fokhrul Islam was a reputed teacher of Indian Economics and Planning at the Cachar College for more than two decades. Born in 1939, he was a student of Karimganj College, G C College and later studied at Gauhati University. He started his career as a humble teacher in Swarnalakhi High School, Narsighpur (Cachar) and later joined Silchar Govt. Boys HS School. He went on to pass MA in 1960 and joined Cachar College as a Lecturer in Economics under the legendary Principal Keshab Chakraborty. He went on with teaching Economics earning a huge following of ardent disciples for his down to earth style of teaching difficult economic theories in simple language. He took a sudden entry into politics in 1978 when he was elected to the Assam Legislative Assembly from Patherkandi Constituency as an independent candidate defeating a stalwart like Biswanath Upadhaya. He later became Parliamentary Secretary for Education in 1979 and ultimately became a Deputy Minister for Education. He has also served as the Chairman of the State Madrassa Education Board. He was also a member of the Gauhati University Executive council and the Court.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3200346845",
+    "title": "সমপদনর ভততত বরথলস (১৯৬০) চলচচতরর তলনমলক আলচন (Analysis of the Cinema ‘Breathless (1960)’ From the Perspective of Editing)",
+    "authors": [
+      "Saiyeed Shahjada Al Kareem"
+    ],
+    "year": 2017,
+    "language": "bn",
+    "abstract": "Bengali Abstract: ফরেঞচ নিউ ওযেভ বা ফরাসি নব তরঙগের অনযতম চলচচিতর নিরমাতা জয লক গদার এর বরেথলেস চলচচিতরের আলোচনা এই রচনার বিষয। চলচচিতরের পরথাগত সমপাদনা পদধতির বাইরে গিযে 'জামপ কাট' এর বযবহার এই সিনেমার অনতরনিহিত অরথকে পরকাশ করতে কীভাবে কাজ করেছে তা এই আলোচনায উদ‌ঘাটন করার চেষটা করা হযেছে। \r\n\r\nEnglish Abstract: The article provides a vivid analysis of the cinema Breathless (French title: A bout de souffle), directed by Jean-Luc Godard, a pioneer of the French New Wave film movement. With a discussion of the use of 'jump cut' a non-traditional film editing technique introduced in the cinema, the article aims to understand how this editing technique worked to emphasize the inner meaning of the cinema.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3201454486",
+    "title": "উপনষদর গলপ",
+    "authors": [
+      "Gaurī Dharmapāla"
+    ],
+    "year": 1995,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3203627204",
+    "title": "ছট গলপ রবনদরনথ",
+    "authors": [
+      "Subash Mondal",
+      "Gouri Bepari",
+      "Parbati Bepari"
+    ],
+    "year": 2021,
+    "language": "bn",
+    "abstract": "বাংলা সাহিত্যের বিভিন্ন শাখা যেমন - গান, কবিতা, নাটক, প্রবন্ধ ও উপন্যাসের মধ্যে ছোটো গল্পও একটি বিশেষ শাখা l ছোট গল্পে পরিবেশ বর্ণনা, প্লট, চরিত্র, সংলাপ ইত্যাদি যখন মানুষের জীবনের কাহিনীকে সুন্দর ভাবে ফুটিয়ে তুলে তার মধ্যে থেকে তার অর্থ বা ভাষ্য প্রকাশ করা হয় l জীবনের এই বাস্তবতা ছোটো গল্পের মাধ্যমে পাঠকের কাছে বাস্তব বলে প্রতীয়মান হয় l বাংলা সাহিত্যে ছোটগল্পের আবির্ভাব ঘটে 1874 সালে রবীন্দ্রনাথ ঠাকুরের হাত ধরে, তাঁর প্রথম ছোটো গল্প 'ভিখারিনী' 1874 সালে ভারতী পত্রিকায় প্রকাশিত হয় l তবে এটি কিন্তু সাহিত্যের আঙিনায় সার্থক ছোটো গল্পের মর্যাদা পাইনি, এর পর 1999 সালে 'হিতবাদী পত্রিকায় প্রকাশিত 'দেনা পাওনা' বাংলা সাহিত্যের প্রথম সার্থক ছোটো গল্পের মান্যতা দেওয়া হয় l অর্থাৎ বাংলা সাহিত্যের প্রথম সার্থক ছোটো গল্পকার হলেন রবীন্দ্রনাথ ঠাকুর",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3209471123",
+    "title": "ইয়রইঙগম: নগজতর অমর কথ",
+    "authors": [
+      "Sonali Mukherjee"
+    ],
+    "year": 2021,
+    "language": "bn",
+    "abstract": "পরতযেক আলোচনার একটি গৌরচনদরিকা থাকে। আমার বরতমান পরবনধটির একটি সংকষিপত ইতিহাস রয়েছে। বিগত ২৯ -শে ডিসেমবর, ২০২০, International Bilingual Journal of Culture, Anthropology and Linguistics, (IBJCAL) -র একটি আনতরজালিক আনতরজাতিক আলোচনাচকরে এই পরবনধটি পাঠ করেছিলাম, যার শিরোনাম- ‘ইয়ারইঙগম: নাগাজাতির অমর কথা’। সমপরতি পতরিকার তরণ সমপাদকেরা শরী পতিতপাবন পাল, শরী রাতল ঘোষ, ও শরী হরিচাদ দাস আলোচনাচকরের পরবনধগলি নিয়ে একটি বিশেষ সংসকরণ পরকাশে উদযোগী হয়েছেন। সেই পরয়োজনেই পরবনধটি মদরণোপযোগী করে তললাম। তরণ সমপাদকদের অসংখয ধনযবাদ। তাদের উৎসাহে মদরিত হতে চলেছে ‘ইয়ারইঙগম: নাগাজাতির অমর কথা’।",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W403082742",
+    "title": "আবল মনসর আহমদ রচনবল",
+    "authors": [
+      "Ābula Manasura Āhamada",
+      "Raphikula Isalāma",
+      "Bāṃlā Ekāḍemī"
+    ],
+    "year": 2001,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4210288965",
+    "title": "Book Reviews",
+    "authors": [
+      "Admin Admin"
+    ],
+    "year": 2020,
+    "language": "bn",
+    "abstract": "&#x0D; &#x0D; Approaching the Sunnah: Comprehension &amp; Controversy&#x0D; &#x0D; &#x0D; Bangladesh Studies&#x0D; &#x0D; &#x0D; Hajj: Journey of a Lifetime&#x0D; &#x0D; &#x0D; ইসলামী ব্যাংক ব্যবস্থ&#x0D; &#x0D;",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4210507466",
+    "title": "Book Reviews",
+    "authors": [
+      "Admin Admin"
+    ],
+    "year": 2020,
+    "language": "bn",
+    "abstract": "&#x0D; দি মেসেজ অব দি কুরআন&#x0D; ইসলামে সমাজবিজ্ঞান&#x0D; Islamic Civilization and the Modern World: Thematic Essays&#x0D;",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4214716235",
+    "title": "Book Reviews",
+    "authors": [
+      "Admin Admin"
+    ],
+    "year": 2020,
+    "language": "bn",
+    "abstract": "&#x0D; পাশ্চাত্যের মুসলিম ও ইসলামের ভবিষ্যৎ&#x0D; কন্যা সন্তানের উত্তরাধিকার: একটি সার্বিক পর্যালোচনা- ২&#x0D; Islam and Gender Bangladesh Perspective&#x0D; Inviting to Islam: Ethics of Engagement&#x0D; Five Pillars of Prosperity: Essential of Faith-Based Wealth Building&#x0D; Muhammad the Messenger of Allah&#x0D;",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4230820425",
+    "title": "時間の価値",
+    "authors": [
+      "鈴木 雅博"
+    ],
+    "year": 2006,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4234218771",
+    "title": "Lexicon Gregorianumὑποφήτης, ου, ὁ",
+    "authors": [],
+    "year": 2015,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4239223183",
+    "title": "H",
+    "authors": [],
+    "year": 2015,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4239411495",
+    "title": "I",
+    "authors": [],
+    "year": 2015,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4242836568",
+    "title": "W",
+    "authors": [],
+    "year": 2015,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4244619859",
+    "title": "J",
+    "authors": [],
+    "year": 2015,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4246593114",
+    "title": "The Significance of Existence of ‘&lt;i&gt;Faculty of Textile Science and Technology, Shinshu University&lt;/i&gt;'",
+    "authors": [
+      "HIDEAKI MORIKAWA"
+    ],
+    "year": 2021,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4253793108",
+    "title": "Cumulus",
+    "authors": [
+      "Tara Higgins",
+      "Colleen A Moretz"
+    ],
+    "year": 2015,
+    "language": "bn",
+    "abstract": "The inspiration for this ensemble incorporates the natural world and the Japanese word for rebirth, saisei, or to become new again. Through the designs, the intent was to create a visual metaphor of the metamorphosis in life as the garments adapt to the changes around them.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4288073513",
+    "title": "বঙলর সসকতক আতমপরচয়র সকট ও বউল চতন",
+    "authors": [
+      "Somen Paul"
+    ],
+    "year": 2021,
+    "language": "bn",
+    "abstract": "আত্মপরিচয়ের সংকট হলো ব্যক্তির এমন একটা অবস্থা, যেখানে ব্যক্তি নিজের সত্তা সম্পর্কে অনিশ্চয়তা অনুভব করে এবং সেই সঙ্গে নিজের সামাজিক চাহিদা ও প্রত্যাশা পূরণের জন্য সংগ্রাম করেও ব্যর্থ হয়। বাঙালির সাংস্কৃতিক আত্মপরিচয়ের মধ্যেও এই ধরনের সংকটবোধ লক্ষ্য করা যায়। নিজের ঐতিহ্য সম্পর্কে সুস্পষ্ট জ্ঞান ও চর্চার ঘাটতির ফলে তৈরি হয় আত্মপরিচয়ের সংকট। এই সংকট দূর করতে নিজস্ব ঐতিহ্য ও সংস্কৃতি সম্পর্কে জানা ও চর্চা করা চাই। কিন্তু বাঙালির ‘চিন্তাহীনতা’-ই বাঙালি-সংস্কৃতির আত্মপরিচয় গঠনের প্রধান অন্তরায় হয়ে দাঁড়িয়েছে। বাঙালির এই সাংস্কৃতিক আত্মপরিচয়ের সংকট থেকে মুক্তি পেতে বাউলের গভীর মানবতাবাদী জীবনদর্শন কীভাবে সাহায্য করতে পারে, সেটাই আমাদের আলোচ্য বিষয়। বাউলের দর্শন প্রকৃতপক্ষে আমাদের জীবনেরই দর্শন, যে দর্শন জাতি-ধর্ম- বর্ণ-গোত্র-সম্প্রদায়ের মধ্যে ভেদাভেদ না করে সবাইকে মনুষ্যত্বের আহ্বানে একত্রিত করে। বাউল মতে, প্রথমে আত্মাকে জানতে হয়; চিনতে হয়। আত্মার মধ্যেই পরমাত্মার সন্ধান পাওয়া যায়। নিজের আত্মাকে, মনকে শুদ্ধ করার মধ্য দিয়েই সকল প্রকার মঙ্গল নিহিত। বাউলরা তাই মনের মানুষের সন্ধান করেন। সেই মনের মানুষ কোনো রক্ত-মাংসের মানুষ নন, ‘ক্ষুদ্র আমি’র ভেতর লুকিয়ে থাকা ‘বড় আমি’, যে আমি ‘সর্ব আমি’র ভেতর বিস্তৃত। আমাদের মতো জাগতিক মানুষের কাছে জগৎ-সংসার দুর্বোধ্য বলে প্রতীয়মান হয়। এই দুর্বোধ্য রহস্যের কথাই বাউলরা সহজ ও সরল করে বুঝিয়ে দেন। জীবনের গভীরতা ও অর্থবহতা অনুসন্ধানে বাংলার প্রকৃত সন্তান এঁরাই। বাঙালির সাংস্কৃতিক আত্মপরিচয়ের সংকট থেকে উদ্ধার পেতে হলে এঁদের স্মরণ গ্রহণ করা আবশ্যকীয়।",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4293857387",
+    "title": "Reply on EC2",
+    "authors": [
+      "Éva Sebök"
+    ],
+    "year": 2022,
+    "language": "bn",
+    "abstract": "<strong class=\"journal-contentHeaderColor\">Abstract.</strong> Various methods are available for assessing uncertainties in climate impact studies. Among such methods, model weighting by expert elicitation is a practical way to provide a weighted ensemble of models for specific real-world impacts. The aim is to decrease the influence of improbable models in the results and easing the decision-making process. In this study both climate and hydrological models are analysed, and the result of a research experiment is presented using model weighting with the participation of six climate model experts and six hydrological model experts. For the experiment, seven climate models are a priori selected from a larger EURO-CORDEX (Coordinated Regional Downscaling Experiment â European Domain) ensemble of climate models, and three different hydrological models are chosen for each of the three European river basins. The model weighting is based on qualitative evaluation by the experts for each of the selected models based on a training material that describes the overall model structure and literature about climate models and the performance of hydrological models for the present period. The expert elicitation process follows a three-stage approach, with two individual rounds of elicitation of probabilities and a final group consensus, where the experts are separated into two different community groups: a climate and a hydrological modeller group. The dialogue reveals that under the conditions of the study, most climate modellers prefer the equal weighting of ensemble members, whereas hydrological-impact modellers in general are more open for assigning weights to different models in a multi-model ensemble, based on model performance and model structure. Climate experts are more open to exclude models, if obviously flawed, than to put weights on selected models in a relatively small ensemble. The study shows that expert elicitation can be an efficient way to assign weights to different hydrological models and thereby reduce the uncertainty in climate impact. However, for the climate model ensemble, comprising seven models, the elicitation in the format of this study could only re-establish a uniform weight between climate models.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4312275858",
+    "title": "‘SUKTARA’ PATRIKA O BANGLA SISHU-KISHORE SAHITYA",
+    "authors": [
+      "Shubhankar Ghorui",
+      "Shubhankar Ghorui"
+    ],
+    "year": 2021,
+    "language": "bn",
+    "abstract": "বাংলা শিশু-কিশোর সাহিত্যের জগতে পত্র-পত্রিকার একটি বিশেষ ভূমিকা আছে। একটা সময় বাংলা শিশু-কিশোর সাহিত্য নীতিকথা, হাস্যকৌতুক, জীবজন্তু ও রূপকথার মধ্যেই সীমাবদ্ধ ছিল। পরবর্তীকালে এই সবের বাইরে বেরিয়ে এসে শিশু-কিশোর সাহিত্যের মধ্যে অ্যাডভেঞ্চার, রহস্য, গোয়েন্দা, কল্পবিজ্ঞান ও কমিক্স খুব সহজেই জায়গা করে নেয়। বাংলা শিশু-কিশোর সাহিত্যের ক্ষেত্রে এই পরিবর্তনটা খুব সহজেই আমরা দেখতে পাই ‘শুকতারা’ পত্রিকার ওপর নজর রাখলে। কারণ স্বাধীনতার ঠিক পরেই ১৯৪৮ খ্রিস্টাব্দ থেকে আজ পর্যন্ত দীর্ঘ সময় ধরে প্রকাশিত হয়ে আসছে এই পত্রিকা। পত্রিকাটির যেহেতু ৭৪-টি বর্ষ অতিক্রান্ত তাই এই দীর্ঘ সময়ের ওপর নজর রাখলে বাংলা শিশু-কিশোর সাহিত্য ও তার ক্রমবিবর্তনের ধারাটি খুব সহজেই আমাদের নজরে আসে। এর পাশাপাশি ‘শুকতারা’র সাহিত্য সম্ভারকে ঐতিহাসিক পদ্ধতির ভিত্তিতে এবং অন্যান্য সমসাময়িক ছোটদের পত্র-পত্রিকার সঙ্গে তুলনামূলক আলোচনার মধ্য দিয়ে বাংলা শিশু-কিশোর সাহিত্যে এই পত্রিকার ভূমিকা কতটুকু তা আমরা মূল প্রবন্ধে খোঁজবার চেষ্টা করব।",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4313183326",
+    "title": "শকড জঠ পকন (Club root of Crucifers)",
+    "authors": [
+      "Supral Adhikari",
+      "S. Aryal",
+      "M. Pokhrel"
+    ],
+    "year": 2015,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4316254164",
+    "title": "ইসলম আইন ও বচর | Islami Ain O Bichar",
+    "authors": [],
+    "year": 2023,
+    "language": "bn",
+    "abstract": "' cw _vK Z n e| eeZ Z_m I M ' cw Bs",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4320830181",
+    "title": "Ebong Prantik",
+    "authors": [
+      "Ashis Roy"
+    ],
+    "year": 2023,
+    "language": "bn",
+    "abstract": "গন্তব্যই শেষ কথা। উপায় একাধিক। পছন্দ-অপছন্দের বেড়াজাল টপকাতে হয় অনেক সময়। একটা স্থির সিদ্ধান্ত নিতে হয়। আপনার সিদ্ধান্তই আপনার পথের বার্তাবহ। হাজার অলিগলি পেরিয়ে আপনি সিদ্ধান্তে উপনীত। আপনার চিন্তাভাবনার সঙ্গে অন্যরা তাদের মত মিলিয়ে নেওয়ার একটি সুযোগ খোঁজেন।সেই সুযোগের সন্ধান দেয় 'এবং প্রান্তিক'।",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W432159665",
+    "title": "ভনসহর পদবল",
+    "authors": [
+      "Rabindranath Tagore"
+    ],
+    "year": 1972,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4321845592",
+    "title": "Gupta, Nirmal Nārāẏaṇ: <i>Āntarjātik Baṙu Caṇḍīdās.</i> (Außentitel zusätzlich: Sṛṣṭi ▪ anubād ▪ samālocanā.) 〈Zusatztitel: (International Studies on Šri Krishna Kīrtan). On Text — Translation — Criticism.〉 Jagāchā, Hāoṙā: Prajñā Prakāśanī 2018. 7, 310 S. 4°. Hardbd. ₹ 500,00. 〈Titelei in Originalschrift: গপত, নরমল নরযণ: আনতরজতক বড চণডদস। (Außentitel zusätzlich: সষট ▪ অনবদ ▪ সমলচন।) জগছ, হওড: পরজঞ পরকশন ২০১৮।〉",
+    "authors": [
+      "Ratul Ghosh"
+    ],
+    "year": 2022,
+    "language": "bn",
+    "abstract": "Article Gupta, Nirmal Nārāẏaṇ: Āntarjātik Baṙu Caṇḍīdās. (Außentitel zusätzlich: Sṛṣṭi ▪ anubād ▪ samālocanā.) 〈Zusatztitel: (International Studies on Šri Krishna Kīrtan). On Text — Translation — Criticism.〉 Jagāchā, Hāoṙā: Prajñā Prakāśanī 2018. 7, 310 S. 4°. Hardbd. ₹ 500,00. 〈Titelei in Originalschrift: গুপ্ত, নির্মল নারায়ণ: আন্তর্জাতিক বড়ু চণ্ডীদাস। (Außentitel zusätzlich: সৃষ্টি ▪ অনুবাদ ▪ সমালোচনা।) জগাছা, হাওড়া: প্রজ্ঞা প্রকাশনী ২০১৮।〉 was published on December 1, 2022 in the journal Orientalistische Literaturzeitung (volume 117, issue 4-5).",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W43229266",
+    "title": "A “VISIBLE MOMENT” OF GRACE OR DISPLEASURE?",
+    "authors": [
+      "Rachèl Nadine Koopman"
+    ],
+    "year": 2013,
+    "language": "bn",
+    "abstract": "Despite the vast collection of studies on Edwards’ theological, epistemological and philosophical legacy, his regard for Judaism, Israel and the Jews of his time has escaped sustained historical attention. Only Gerald R. McDermott has devoted a brief chapter on Edwards and Judaism in his book Jonathan Edwards Confronts the Gods (2000), and Stephen J. Stein discussed Edwards’ study of the cultures of biblical violence in Jonathan Edwards at 300 (2005), but Edwards’ view on the Jewish identity is still very much unexplored terrain. Given that Edwards was well acquainted with the Hebrew Bible and the Hebrew language, as is noted by Shalom Goldman in God’s Sacred Tongue (2004), his undeniable interest in biblical Judaism and Jews in relation to contemporary Jews in Puritan New England is worth looking into.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W432509488",
+    "title": "Perso-Arabic elements in Bengali = বঙলয় ফরস-আরব উপদন",
+    "authors": [
+      "Golāma Makasūda Hilālī",
+      "Muhammad Enamul Haq"
+    ],
+    "year": 2002,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4361181947",
+    "title": "সলত (নময)-একমতর পবতর করআনর আলক Salat (Prayer) Only in the light of the Holy Qur'an",
+    "authors": [
+      "Kazi Abdul Mannan"
+    ],
+    "year": 2022,
+    "language": "bn",
+    "abstract": "<strong>পটভূমি</strong> <strong><em>আল্লাহ আকাশমন্ডলী ও পৃথিবীতে যারা আছে তারা এবং উড্ডীয়মান বিহংগকূল সকলের জন্যই সালাত</em></strong>[1] (নামায, ইবাদত, তাসবীহ) মহান আল্লাহ বাধ্যতামূলক করেছেন। <strong><em>ইবাদতের জন্য মানুষের জন্য একমাত্র সত্ত্বা মহান আল্লাহ এবং অনুসরণীয় বিধান হচ্ছে পবিত্র কোরআন</em></strong>[2]। কিন্তু দুঃখ ও পরিতাপের বিষয় হচ্ছে, মুসলিম পরিবারে জন্ম সূত্রে আমরা যেভাবে উত্তরাধিকার স্থাবর ও অস্থাবর সম্পত্তির মত ইসলামকে বাজারে বিদ্যমান নামায শিক্ষা ও তথাকথিত ধর্মগুরুর রীতিনীতি, প্রথা ও পদ্ধতিকেই মেনে নিয়ে সুবিধা ও অসুবিধা ভোগ করছি। সত্যিকার অর্থে তা কতটুকু যুক্তিসঙ্গত, ন্যায়গত, ইসলাম সম্মত এবং আল্লাহর বিধান পবিত্র কোরআন অনুযায়ী কিনা তার পর্যালোচনা। মহান আল্লাহতালা আমাদের কোরআন অধ্যয়ন, <strong>চিন্তা-ভাবনা ও গবেষণার</strong><strong><strong>[3]</strong></strong> এবং বাস্তব জীবনে প্রয়োগের কথা বলেছেন শতাধিক আয়াতে এবং আমরা যে <strong>সহজভাবে</strong>[4] বুঝতে পারি সে কথাও অনেকবার বলে দিয়েছেন। অথচ আমরা এই মহান লিখিত কিতাবের বিপক্ষে আজ ২০২২ সাল পর্যন্ত প্রায় ষাট হাজারের উপরে মানব রচিত গ্রন্থগুলিকে ইসলাম, ইবাদত, বেহেস্ত, দোজখ ভেবে এবং মেনে চলছি, যা প্রকৃত অর্থে এই একটি মাত্র মহান কিতাবের বিপক্ষে রচিত। আমরা যদি আমাদের মনের মধ্যে ইসলামের সবচেয়ে মৌলিক বিধান সালাত (নামায) যেভাবে গেথে আছে, তা এক মুহূর্তের জন্য মুছে দিয়ে, এই পবিত্র কোরআন কি বলেছেন?, কি বুঝিয়েছেন?, কি করতে বলেছেন? এবং কিভাবে করতে বলেছেন? একবার নিজের বিবেক, মেধা শক্তি দিয়ে বুঝতে চেষ্টা করি তা হলেই অনেক সমাধান হয়ে যাবে বলে আমার দৃঢ় বিশ্বাস। <strong>প্রচলিত কথা, বিশ্বাস</strong> <strong>ও</strong> <strong>অনুশীলন: </strong> <strong>কোরআনের কি ৮২ যায়গায় নামায?</strong> গত পঞ্চাশ বছরে কতবার শুনেছে তা গুনে বলতে পারব না যে, আল্লাহ কোরআনের ৮২ জায়গায় নামাযের কথা বলেছেন। আসলেই কি এই ৮২-র কোন অস্তিত আছে? আমি অন্তত পাই নাই, আমি যা পেয়েছি তা হচ্ছে সালাত (নামায) শব্দটি পবিত্র কোরআনে সরাসরি ৮৯ টি আয়াতে ৯৬ বার, আর আলাদা আয়াতে তাহাজ্জুদ ১ বার, রূকু-সেজদা ১ বার, দন্ডায়মান ১ বার এবং তাসবীহ ৩ বার অর্থাৎ মোট ১০২ বার এসেছে। ৮২-র তথ্যটি চিরস্থায়ী মুছে দিলাম আর ইনস্টল করব না। <strong>নামাযের উৎস </strong> জন্মগত ভাবে আমি সুন্নি হানাফী মাজহাবের মুসলিম ছিলাম, তাই নামাযের সকল বিধিবিধান এই মাজহাবেরই। সারা জীবন শুনলাম, পড়লাম, এবং নামায এসেছে একরাতে ঘোড়ায় চড়ে। কিন্তু পবিত্র কোরআনের ১১৪টি সূরার একটি আয়াতের একটি শব্দের সাথেও এই কথা শুনা, পড়া এবং লিখার সাথে মিল অন্তত আমি খুঁজে পাই নাই। আমি যা পেয়েছি এই মহান গ্রন্থে আমাদের <strong>মুসলিম</strong>[5] নাম এসেছে আদি পিতা ও সকল মুসলিমের ইমাম ইব্রাহিম (আঃ), হজ্জ্ব ও নামায তার মাধ্যমেই এসেছে এবং তার শিখানো নামাযকেই এই লিখিত শেষ কিতাবে অনুসরণ করতে বলা হয়েছে। পিতা ইব্রাহিম (আঃ) এর পরবর্তী সকলে মানুষ তার উম্মত তারই সত্যায়নকারী নবী ও রাসূল । কোন নবী ও রাসূলের মধ্যে পার্থক্য করা যাবে না, <strong><em>এবং আল্লাহর বিধানের কখনই কোন পরিবর্তন পাবে না</em></strong>[6] । তাই আমি নামাযের ক্ষেত্রে এই প্রচলিত তথ্যটি চিরস্থায়ী মুছে দিলাম আর ইনস্টল করব না। <strong>নামায শিক্ষা </strong> আমাকে নামায শিক্ষা দিয়েছে বিভিন্ন লেখকের বই, মাজহাব, মতবাদ, বিশ্বাস ও ব্যবহার থেকে। আমি যদি জীবনে এই পবিত্র কোরআন পড়ে না দেখি, তার দায় কেবল মাত্র আমার, সেখানে আমার পিতা-মাতা, দাদা-দাদি, নানা-নানী, আত্মীয়-স্বজন, পাড়া-প্রতিবেশী, সমাজ ও রাষ্ট্র কেউ দায়ী নয়। তাই তাদের দেখানো পথ অনুসরণ করে দায় চাপানো, একটি ভ্রান্ত মতবাদ ছাড়া আর কিছু নয়। এই পবিত্র কোরআন লিখিত ভাবে মানুষের নামাযকে যেভাবে ব্যাখ্যা ও বিশ্লেষণ করেছেন, তাতে উপরে উল্লেখিত আয়াতের মাধ্যমে আমি পেয়েছি সর্বমোট ৯5টি চলক (variable), যেহেতু কোরআন অপরিবর্তনশীল আর গবেষণার ফলাফল সর্বদা পরিবর্তনশীল, তাই আপনার গবেষণায় কিছু কম বেশি হতেই পারে। অর্থাৎ আমার গবেষণায় নামায হচ্ছে ৯5টি চলকের সমষ্টি যাকে আমরা ইচ্ছে করলে (১) আল্লাহ, রাসূল ও কিতাব সম্পর্কে, (২) মসজিদ ও নেতার ভূমিকা, (৩) শারীরিক নামায পড়ার বিধান, (৪) আর্থ-সামাজিক বিধান, (৫) বিশেষ বিধান ও (৬) জাহান্নামীর নামায এই ভাবে ভাগ করে নিতে পারি। এই চলক গুলিই হচ্ছে ইব্রাহিম (আঃ) এর নামায, যার সত্যায়নকারী আমাদের সকল নবী ও রাসূল । পবিত্র কোরআনের বাহির থেকে কেউ কোন চলক সংযুক্ত করার ক্ষমতা নেই। <strong>তারা কেন বলে শুধু কোরআন অনুসরণ করে নামায পড়া যাবে না?</strong> পিতা ও ইমাম ইব্রাহিম (আঃ) এর নামায সকল উম্মত, নবী ও রাসূল পড়ে গেলেন, আমাদের জন্য সত্যায়ন করে দিলেন নবী (সঃ)। আল্লাহর ইবাদতের ক্ষেত্রে একমাত্র পবিত্র কোরআনকে পরিপূর্ণ করেছেন এবং জীবন চলার ক্ষেত্রে চিন্তা-ভাবনা, গবেষণা ও অনুসন্ধান করতে বলেছেন। সেখানে নামাযের মত সবচেয়ে গুরুত্ত্বপূর্ণ বিধানের ক্ষেত্রে অন্যের সাহায্য নিতে হবে, এক কথা ৩৫ বছর পূর্বেই বিশ্বাস হয় নি বলেই এই গবেষণা। যারা বলে শুধু কোরআন অনুসরণ করে নামায পড়া যাবে না, তাদের কথা স্বয়ং আল্লাহ বলে দিয়েছেন <strong><em>'সুতরাং ধ্বংস তাদের জন্য যারা নিজ হাতে কিতাব লিখে। তারপর বলে, ‘এটি আল্লাহর পক্ষ থেকে’, যাতে তা তুচ্ছ মূল্যে বিক্রি করতে পারে। সুতরাং তাদের হাত যা লিখেছে তার পরিণামে তাদের জন্য ধ্বংস, আর তারা যা উপার্জন করেছে তার কারণেও তাদের জন্য ধ্বংস।‘</em></strong><strong><strong>[7]</strong></strong> যেহেতু তারা কোরআনে নতুন করে কিছু রচনা করার ক্ষমতা রাখে না, তাই নবী (সঃ) এর নামে মিথ্যা, বানোয়াট ও মনগড়া রচনা করে চলছে এবং চলবে, কারণ তারা মহান আল্লাহর রাজত্বে স্বাধীন এবং আল্লাহই এই স্বাধীনতা দিয়েছেন। প্রকৃত অর্থে কোন নবী ও রাসূল কখনও কোন ইবাদতের বিধান দেন নাই, দিতে পারেন না এবং ইবাদতের বিধান দাতা আর <strong><em>ইবাদত একমাত্র আল্লাহর জন্যই</em>।</strong><strong><strong>[8]</strong></strong> <strong>তারা বলে কোরআনে নামাযের রাকাত নেই !</strong> শারীরিক সালাতের ক্ষেত্রে মহান আল্লাহ যে সময়গুলির কথা উল্লেখ করেছেন, তার কোথাও প্রচলিত নামাজের রাকাত নির্ধারণ করে দেন নাই অর্থাৎ এই ধরণের কোন বাধাবাধকতামূলক রাকাত নেই। মহান আল্লাহ তা করতেই পারেন না, কারণ তিনি শারীরিক সালাত একটি সার্বজনীন ইবাদত করেছেন। শারীরিক এই ইবাদত একক ও যৌথ উভয় ভাবেই সম্পাদন করার নির্দেশ করা হয়েছে। আল্লাহ যেমন প্ৰত্যেকটি কাজে কর্মে মানুষের স্বাধীনতা দিয়েছেন, তেমনি শারীরিক সালাতের ক্ষেত্রেও এই স্বাধীনতা বহাল রেখেছেন। ব্যক্তি সালাতের মাধ্যমে আল্লাহর নিকট কি চাইবে, কি বলবে এটা তার একান্ত ব্যক্তিগত ব্যাপার। তেমনি একটি সমাজ বা গোষ্ঠীর চাহিদা যখন একরকম হয়ে যায়, তখন তারা নির্ধারণ করে নিবে, যে তারা আল্লাহর দেয়া নির্ধারিত সময়ের মধ্যে সুনিদৃষ্ট করে নিবে কখন, কিভাবে, এমনকি কি চাইবে মহান আল্লাহর কাছে। আল্লাহ ভাল ভাবেই অবগত আছেন এই প্রযুক্তিগত আধুনিকতার যুগেও একক এক ব্যক্তি তার জীবিকার প্রয়োজনে দূর মরুভুমিতে একাই বসবাস করবে, অথবা গভীর জঙ্গলে মধু আহরণ করবে অথবা ডিঙ্গি নৌকায় মাছ ধরবে উত্তাল মাঝ নদীতে। এখানে উল্লেখিত তিন ব্যক্তি, তিন ধরণের পরিবেশে রয়েছে এবং প্রত্যেকের জন্য আল্লাহর দেয়া সময়ে সালাত করতে হবে। তারা নিজ নিজ সুবিধামত পন্থায় সালাত করবে এটাই হচ্ছে সালাতের মূলনীতি। সালাতে বসা, দাঁড়ানো, রাকাত, রুকু, সেজদা, দোয়া-দুরূদ ইত্যাদি ভিন্নতর হবে এটাই স্বাভাবিক। নিশ্চিত মহান আল্লাহ জানতেন জীবিকার প্রয়োজনেই মানুষকে সাগর মহাসাগরের পানিতে ভাসমান, পানির নিচে, এমনকি আকাশেও উল্লেখিত সালাতের সময়ের মধ্যে-ই অবস্থান করতে হবে এবং সালাত পালনের নির্দেশ দিয়েছেন। সূর্য উদয়ের পূর্বে যখন এই এলাকায় হঠাৎ কোন মহাপ্রলয় দেখা দিবে ঠিক তখনও সালাত মাফ নেই, তাদের সালাত করতে হবে। সেই সময় তারা সম্মিলিত সালাত করবে নিজ নিজ অবস্থানে থেকে-ই। মহান আল্লাহ তাই-ই চান এবং তার নির্ধারিত পন্থায়, যা প্রচলিত পদ্ধতিতে কখনও সম্ভব নয়। তাই সালাতকে সঠিকভাবে বুঝতে হলে আল্লাহর বিধান থেকেই অনুধাবন করতে হবে, আমি কেন সৌদি প্রেস, মিশর প্রেস, রাশিয়ান প্রেস, ইরাক-ইরান প্রেস, উজবেকিস্তান প্রেস, আফগানিস্তান প্রেস, পাকিস্তান প্রেস, বাংলাদেশ প্রেস এর পৃষ্ঠা খুঁজব, সালাতের রাকাত কত তা জানার জন্য? <strong>নামাযের সময় </strong><strong>!</strong> মহান আল্লাহ নামাযের জন্য মাকামে (পদাঙ্ক) ইব্রাহিমকে অনুসরণ করতে বলে দিলেও আমার নামাযের সময়গুলি বলে দিয়েছেন স্পষ্টভাবেই। যেহেতু মহান আল্লাহ জানেন, তার রাজত্বে মানুষের জীবন-জীবিকা নির্বাহের জন্য নানা পেশায় এবং নানা ভৌগলিক অবস্থানে থাকতে হবে, তাই নিজ নিজ অবস্থানে আল্লাহর নির্ধারিত সময়ের মধ্যেই নামাযের জন্য সূনির্দিষ্ট করে নিতে বলেছেন। এমনকি বিশেষ ক্ষেত্রে <strong><em>চলতে চলতে, যানবাহনে বসে বসে, প্রয়োজনে শুয়ে শুয়ে</em></strong>[9]ও করে নিতে বলেছেন। সেই ক্ষেত্রে নামাযের সাথে উল্লেখিত ৯5টি চলকের মধ্যে বাকি ৯৪টি চলকের ক্ষেত্রে সঠিক থাকলে সময়ের ক্ষেত্রে কিছু ভুলত্রুটি থাকলে, মহান আল্লাহর কাছেই রেখে দেই, তার মহানুভবতা ও ক্ষমার জন্য। তার জন্য আবার সৌদি প্রেস, মিশর প্রেস, রাশিয়ান প্রেস, ইরাক-ইরান প্রেস, আফগানিস্তান প্রেস, পাকিস্তান প্রেস, বাংলাদেশ প্রেস এর পৃষ্ঠা খুঁজতে যেতে হবে কেন? আমি মনে করি এমন দৃষ্টতা সরাসরি পবিত্র কোরআনকে চ্যালেঞ্জ করে নবী (সঃ) নামে অপপ্রচার। <strong>নামাযের আহবান !</strong> নামায এবং তার আহবান সেই আদি পিতা ও ইমাম ইব্রাহিম (আঃ) থেকেই প্রচলিত রয়েছে এবং সকল উম্মত, নবী ও রাসূলগণ পালন করে আসছেন। এতদসত্ত্বেও স্বয়ং আল্লাহপাক আমাদের বলে দিলেন<strong> <em>\"আর যখন তোমরা সালাতের (আযান দ্বারা) আহবান কর তখন তারা ওর সাথে উপহাস করে; এর কারণ এই যে, তারা এরূপ লোক যারা মোটেই জ্ঞান রাখেনা।\"</em></strong>[10] কেউ যদি কোন উপহাস করে, তাতে আমার কিছু বলার নেই, কারণ এমন হবে, নিষেধাজ্ঞাও থাকবে আল্লাহর রাজত্বের কোথাও না কোথাও। সম্পূর্ণ কোরআন অধ্যায়ন করলেই আমরা বুঝতে পারব। কোন সমস্যা নেই, আল্লাহ আমাদের নামাযের সময় বলে দিয়েছেন, প্রয়োজনে <strong>নিজ ঘরে</strong>-ই[11] নামায কায়েম করে নিতে বলেছেন, দরকার হলে নিজ <strong>ঈমান গোপন</strong>[12] করে। তাই প্রকৃত নামাযীর জন্য নামাযের আহবান নিয়ে ইব্রাহিম (আঃ) এর মুসলিম মিল্লাতের নামের বিভক্তি সৃষ্টির কোন অবকাশ নাই। <strong>নামাযের দন্ডায়মান ও রুকূ-সিজদা!</strong> পবিত্র কোরআন নামাজে দন্ডায়মান ও রুকূ-সিজদা তথা সমগ্র নামাযের মধ্যে <strong>বিনয়াবনত</strong><strong><strong>[13]</strong></strong>, যত্নবান এই সকল শব্দগুলি ব্যবহার করেছেন। মহান আল্লাহ মানুষের নানা ভাষা ও বর্ণ সৃষ্টি করেছেন এবং তিনি বলেছেন তার সৃষ্টির মধ্যে ভাষা ও বর্ণের মধ্যে রয়েছে আমাদের জন্য অনেক গবেষণা ও অনুসন্ধান যেন আমরা প্রকৃত জ্ঞান লাভ করতে পারি। বিনয়াবনত, ভদ্রতা, নম্রতা, ইত্যাদি বিষয়গুলির স্থান কাল পাত্র ভেদে ভিন্নতা থাকতেই পারে। যেহেতু আল্লাহ কোন একটি রীতি-রেয়াজকে সূনির্দিষ্ট করে দেন নাই, শুধুমাত্র বিনয়াবনত, ভদ্রতা, নম্রতার মধ্যেই সীমাবদ্ধ রেখেছেন। তাই, আমাদের সেখানেই থাকা-ই উত্তম, যদি আমরা নামাযীর ৯৫টি চলকের কথা জানি এবং মেনে চলি। বিতর্ক, মারামারি, হাতাহাতি, বিবেদ ছেড়ে, কার হাত তার কোথায় আছে, যদি না তার হাত আমাকে বিনম্রভাবে দন্ডায়মান ও রুকূ-সিজদাতে বাঁধা প্রদান না। আর যদি বাঁধা আসে, শুধুমাত্র পবিত্র কোরআনের নির্দেশিত বিধান মেনে চলি। যদিও নামাযের <strong>দন্ডায়মান ও রুকূ-সিজদা কেবলা মুখী</strong><strong><strong>[14]</strong></strong>, যা নিয়ে কোন বিতর্ক দেখা যায় না, আর বিতর্ক করার কিছুই নেই। <strong>মানসিক অবস্থা, শারীরিক পবিত্রতা ও সাজসজ্জা !</strong> নামাজে দন্ডায়মান হওয়ার পূর্বে মাত্র তিনটি বিষয়ের কথা আল্লাহ আমাদের জানিয়ে দিয়েছেন। প্রথম",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4362599334",
+    "title": "পরবরতন উপলবধ করই অগরগত সমভব",
+    "authors": [
+      "সূর্য্য মিশ্র"
+    ],
+    "year": 2021,
+    "language": "bn",
+    "abstract": "পরিবর্তন উপলব্ধি করেই অগ্রগতি সম্ভব",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4365793112",
+    "title": "ঘরনবরত বলদশর সথনয় সরকর",
+    "authors": [
+      "আনোয়ার পাশা"
+    ],
+    "year": 2002,
+    "language": "bn",
+    "abstract": "নাই",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4366973401",
+    "title": "মনষর গপন ও পরকশয দশমন: পবতর করআনর আলক (Human's Hidden and Open Enemies: In the Light of the Holy Qur'an).",
+    "authors": [
+      "Kazi Abdul Mannan"
+    ],
+    "year": 2022,
+    "language": "bn",
+    "abstract": "<strong>পটভূমি</strong> সৌদি আরবের জাতীয় পতাকায় লেখা রয়েছে, لا اله إلا الله محمد رسول الله (লা ইলাহা ইল্লাল্লাহু মুহাম্মাদুর রাসূলুল্লাহ) এর অর্থ (আল্লাহ ছাড়া ইবাদতের উপযুক্ত কেউ নেই, মুহাম্মদ সা. তাঁর রাসুল) এবং সাথে রয়েছে তরবারির প্রতীক। একটি দেশ তার জাতীয় পতাকা নিজের মত করে রচিত করবে, সেখানে আমার কোন আলোচনা, সমালোচনা ও মন্তব্য নেই। কিন্ত যখন আমাকে শিখানো হলো, এটা হলো কালিমায়ে তাইয়েবা (মহা পবিত্র বাক্য)। ইসলামে প্রবেশের একমাত্র দরজা। প্রশ্ন আমার তখন-ই, আমি কোরআনের কোথাও لا اله إلا الله محمد رسول الله সম্পূর্ণ বাক্য পাই নাই, অর্থাৎ নেই। যদিও لا اله إلا الله মোট ৩৭ বার উল্লেখ রয়েছে। তরবারি (السيف) শব্দটিও পবিত্র কোরআনের কোথাও ব্যবহার করা হয় নাই। আমি নবী (সঃ) আল্লাহর প্রেরিত এবং নবীদের সিলমোহর হিসাবে কোরআন যে ভাবে বলেছেন, সে ভাবেই মনে-প্রাণে বিশ্বাস ও স্বীকার করি। কারো ভিত্তিহীন ও আবেগ তাড়িত হয়ে গল্প, কল্পকাহিনী ও আল-কোরআনে প্রণীত সাক্ষ্য আইনের নীতিমালা ছাড়া প্রমাণিত কোন কথা ছাড়া, আর কারো কথা বিশ্বাস করি না। আমাকে তা বিশ্বাস করতে হবে, তার কোন যুক্তি, বিবেক, ও গবেষণা নেই। সৌদি আরব তার জাতীয় পতাকায় محمد رسول الله একত্রিত করে তাদের শ্লোগান হলে কোন কথা ছিল না। পবিত্র কোরআন বহির্ভুত এই বাক্যটির পিছনে রয়েছে যে ভিত্তি, তা শুধু নিতান্ত দুর্বল-ই নয় বরং পবিত্র কোরআনের সাথে সম্পূর্ণ বিরোধী। কারণ যে দুটি ভিত্তিহীন তথ্য উপস্থাপন করা হয়েছে, তা সম্পূর্ণ কোরআন বিরোধী। প্রথমত আদম (আঃ) যে দোয়া পড়েছেন তা মহান আল্লাহ আমাদের জন্য কোড করে দিয়েছেন <strong>[‘হে আমাদের রব, আমরা নিজদের উপর যুলম করেছি। আর যদি আপনি আমাদেরকে ক্ষমা না করেন এবং আমাদেরকে দয়া না করেন তবে অবশ্যই আমরা ক্ষতিগ্রস্তদের অন্তর্ভুক্ত হব’।</strong>]<strong><strong>[1]</strong></strong> অর্থাৎ যে গল্প আদম(আঃ) নিয়ে তৈরি করা হয়েছে, তা সম্পূর্ণ ভিত্তিহীন। দ্বিতীয়ত: মেরাজ সম্পর্কিত <strong>\"পবিত্র ও মহীয়ান তিনি যিনি তাঁর বান্দাহকে রাতের বেলা ভ্রমণ করিয়েছেন মাসজিদুল হারাম থেকে মাসজিদুল আকসা পর্যন্ত, যার চারপাশকে আমি কল্যাণময় করেছি। তাকে আমার নিদর্শনাবলী দেখানোর জন্য, তিনি সর্বশ্রোতা, সর্বদ্রষ্টা।\"</strong><strong><strong>[2]</strong></strong> সীমানা আল্লাহ আমাদের পরিষ্কারভাবে জানিয়ে দেয়ার পরও, যারা সীমানা কমবেশি করবে, তার দায়ভার তাদের। অথচ সূরা নাজমের ১১-১৮ আয়াতের ব্যাখ্যা পিছনের ১-১০ প্রেক্ষাপট বাদ দিয়ে যা রচনা করেছেন, তা ইসলামের মূলভিত্তি সালাত (নামাজ) থেকেই পরিষ্কার বুঝা যায়, তা কতটুকু বানোয়াট। মহান আল্লাহ পতাকায় উল্লেখিত বাক্যটি আমাদের ঈমান ও ইসলাম গ্রহণের জন্য তৈরি করে দেন নাই। বরং তিনি বলে দিলেন <strong>\"তোমরা বল, ‘আমরা ঈমান এনেছি আল্লাহর উপর এবং যা নাযিল করা হয়েছে আমাদের উপর ও যা নাযিল করা হয়েছে ইবরাহীম, ইসমাঈল, ইসহাক, ইয়াকূব ও তাদের সন্তানদের উপর আর যা প্রদান করা হয়েছে মূসা ও ঈসাকে এবং যা প্রদান করা হয়েছে তাদের রবের পক্ষ হতে নবীগণকে। </strong><strong>আমরা তাদের কারো মধ্যে তারতম্য করি না। </strong><strong>আর আমরা তাঁরই অনুগত’।</strong><strong><strong>[3]</strong></strong> পুনরায় “<strong>বল, ‘আমরা ঈমান এনেছি আল্লাহর প্রতি এবং যা নাযিল করা হয়েছে আমাদের উপর, আর যা নাযিল হয়েছে ইবরাহীম, ইসমাঈল, ইসহাক, ইয়াকূব ও তাদের সন্তানদের উপর। আর যা দেয়া হয়েছে মূসা, ঈসা ও অন্যান্য নবীকে তাদের রবের পক্ষ থেকে, </strong><strong>আমরা তাদের কারো মধ্যে পার্থক্য করি না</strong><strong> এবং আমরা তারই প্রতি আত্মসমর্পণকারী’।</strong><strong><strong>[4]</strong></strong> অর্থাৎ আমাদের কোন ক্ষমতা নেই নবীগনদের মধ্যে তারতম্য/পার্থক্য করার। কোন ধরণের বিভ্রান্তি নেই নবী (সঃ) এর কথা আল্লাহ বলেছেন এভাবে, <strong>\"আর যারা ঈমান আনে তাতে, যা তোমার প্রতি নাযিল করা হয়েছে এবং যা তোমার পূর্বে নাযিল করা হয়েছে। আর আখিরাতের প্রতি তারা ইয়াকীন রাখে।\"</strong><strong><strong>[5]</strong></strong> অর্থাৎ পতাকার বাক্যটি আমাদের ঈমানের বাক্য হতে পারে না। তা অবশ্যই আল্লাহ আমাদের পবিত্র কোরআনে যেভাবে বলতে এবং রাখতে বলেছেন, সেই অনুসারেই হবে। কারো <strong>মনোমুগ্ধকর কথা</strong><strong><strong>[6]</strong></strong>, তা যত ভাল ও সুন্দর আমাদের মনে হয়, তা হতে পারে না ঈমানের পথ। আল্লাহ মানুষ সৃষ্টির সাথে সাথেই তৈরি হয়ে গেল তার <strong>প্রকাশ্য শত্রু</strong><strong><strong>[7]</strong></strong> শয়তান। এই শয়তান সৃষ্টি হয়েছে বলেই কিয়ামত সংগঠিত হবে। তাই মানুষ ও শয়তান সৃষ্টি থেকে কিয়ামতের দিন পর্যন্ত মহান আল্লাহ আমাদের তার সম্পর্কে যাবতীয় বিষয়গুলি খুব খোলামেলা ও পরিষ্কার ভাবে তুলে ধরেছেন, যেন আমরা সতর্কতা লাভ করতে পারি। যদিও বর্তমান সমাজ ব্যবস্থায় পবিত্র কোরআনে বর্ণিত শয়তান অনেকটাই হাস্যকর একটি বিষয় হিসাবে বিশেষ করে আধুনিক শিক্ষায় শিক্ষিত জনগোষ্ঠী মনে করেন। এর অন্যতম কারণ হচ্ছে, শয়তান সম্পর্কে আমাদের মধ্যে যে অনুভূতি জন্মেছে, তা হচ্ছে অন্ধকার যেমন মানসিক বিভ্রান্তি সৃষ্টি করে এবং বিভিন্ন রূপকথার গল্প, এমনকি বিনোদনের মাধ্যমও এই ক্ষেত্রে অনেক প্রভাব বিস্তার করে দিয়েছে। তাই প্রকৃত শয়তান সম্পর্কে আমাদের অজ্ঞতা দিন দিন বেড়েই চলছে। এই সেই ইবলীস আমাদের আদি পিতা আদম (আঃ) এর সাথে অহংকার করে, আল্লাহ থেকে বিশেষ ক্ষমতা নিয়ে মানুষকে আল্লাহর সরল পথ থেকে সরিয়ে জাহান্নামের অধিবাসীর করার প্রতিজ্ঞা নিয়ে আমাদের প্রকাশ্য শত্রু হিসাবে সহ অবস্থান করছে। তার সম্পর্কে যথাযথ জ্ঞান অর্জন ও সাবধান হতে না পারলে, আমাদের চূড়ান্ত ফলাফল জাহান্নামই নির্ধারিত হয়ে যাবে। কোথায় পাব সেই জ্ঞান? একমাত্র পবিত্র কোরআন ছাড়া অন্য কাছ থেকে নিতে গিয়ে আমরা হব চূড়ান্ত বিভ্রান্ত। এই বইটির আমি লেখক নই, আমি শুধুমাত্র পবিত্র কোরআনের আয়াতগুলি তুলে ধরেছি, তিনটি বাংলা ও একটি ইংলিশ অনুবাদ নিয়ে যেন আমরা ভালভাবে শয়তান সম্পর্কে চিন্তা-ভাবনা করে, তাকে সঠিক ভাবে চিহ্নিত করতে পারি। পবিত্র কোরআনকে গভীরভাবে চিন্তা-ভাবনা ও গবেষণার তাগিদ মহান আল্লাহ এই মহান গ্রন্থের একশত (১০০) আয়াতেরও বেশি যায়গায় বলেছেন। তাই আমাদের এই প্রকাশ্য শত্রু সম্পর্কে জানতে হলে অবশ্যই মনোযোগ ও সতর্কতার সাথে জীবনের প্রতিটি ক্ষেত্রে ভেবে দেখতে হবে। আমি নিজে মানুষ শয়তান হয়ে গেলাম কি না? অথবা শয়তানের ইবাদত করছি কি না? শয়তানকে অভিভাবক, বন্ধু, সাথী, সহযোগী ইত্যাদি বিশেষণে সম্পৃক্ত হয়ে গেলাম কি না? পবিত্র কোরআনের মোট নব্বই (৯০)-টি আয়াতে সরাসরি এই জাত সম্পর্কে বুঝাতে আমাদের সামনে ১৬১ বার উল্লেখ করেছেন। যার মধ্যে <strong>ইবলীস</strong> (প্রথম শয়তান, যে জিন জাতি) হিসাবে তিন (৩) বার, <strong>খান্নাস</strong> (আত্মগোপনকারী) এক (১) বার, এক বচনে <strong>শয়তান</strong> বাষট্টি (৬২) বার, এক বচনে শয়তানকে সর্বনামে (আমি, তোমার, সে, তার, তাকে ইত্যাদি) পঞ্চাশ (৫০) বার, বহুবচনে স্বনামে <strong>শয়তানরা</strong> (শয়তানদের) এগারো (১১) বার, বহুবচনে সর্বনামে (এদের, তার বংশকে, তারা, তার দল বল, তার বন্ধুদের, তার সহচরবৃন্দ ইত্যাদি) রয়েছে ত্রিশ (৩০) বার, অন্যান্য নামে যেমন <strong>তাগূত</strong> হিসাবে তিন (৩) বার এবং <strong>জিবত</strong> এক (১) বার রয়েছে। এখানে উল্লেখ যে ইবলীস, খান্নাস, শয়তান, শয়তানরা, তাগূত এবং জিবত এর সংখ্যার বিভ্রান্তি না থাকলেও সর্বনামের ক্ষেত্রে সংখ্যাগুলি পরিবর্তন হতে পারে, বিশেষ করে ভাষাগত অনুবাদের কারণে। যদিও এই নব্বইটি আয়াতের ১৬১টি বারের শয়তানই একমাত্র শয়তান নয়। পবিত্র কোরআনের অন্যান্য আয়াতের মধ্যে রয়েছে অজশ্র শয়তান। শুধুমাত্র এই আয়াতগুলি বিশ্লেষণ করে যে ৯৪টি চলক সমূহ (variables) তুলে ধরেছি, তা আমাদের আগামী দিনের চিন্তা ও গবেষণার সহযোগিতা করবে বলে বিশ্বাস করি। এর এক একটি চলকের সাথে সম্পৃক্ত রয়েছে আরো অনেক আয়াত, যেখানে সরাসরি শয়তান হিসাবে উল্লেখ না থাকলেও, আমাকে এই চলকের মাধ্যমেই বুঝিয়ে ও চিনিয়ে দিচ্ছে আসল শয়তানের রূপ। যেমন <strong>শয়তান কুফরি করার নির্দেশ দেয়</strong><strong><strong>[8]</strong></strong>, তাই যারা কুফরী কাজ করে তারা শয়তানেরই অনুসারী। এই নিয়ে আমার মত সাধারণ মানুষেরও কোন সন্দেহ থাকতে পারে না। এখন প্রশ্ন হচ্ছে কুফরী কাজ কি? অজশ্র আয়াত রয়েছে কুফরী কাজ সম্পর্কে, যেমন ধরুন <strong>‘আল্লাহ যা নাযিল করেছেন, সে অনুযায়ী যারা বিচার ফায়সালা করে না তারাই কাফির।</strong><strong><strong>[9]</strong></strong>। এই আয়াতের পরেই ৪৫ আয়াতে রয়েছে ‘তারা যালেম’ (فَأُوْلَئِكَ هُمُ الظَّالِمُوْنَ) এবং ৪৭ আয়াতে রয়েছে, ‘তারা ফাসেক’ (فَأُوْلَئِكَ هُمُ الْفَاسِقُوْنَ)। একই অপরাধের তিন রকম পরিণতি : কাফের, যালেম ও ফাসেক। অর্থাৎ তারা আল্লাহর বিধানকে অমান্য করে এবং শয়তানের নির্দেশ মানে। তাই আমাদের অবশ্যই জানতে হবে ছোটখাট থেকে বড় ধরণের বিচার ফায়সালায় আল্লাহর বিধান কি? এই ক্ষেত্রে আমরা কোন ভাবেই শুধুমাত্র পেশাগত ব্যক্তিগণের উপর দোষ চাপিয়ে নিজের দায়িত্ত্ব থেকে সরে যেতে পারবো না। আবার ধরুন <strong>শয়তানের আহার</strong><strong><strong>[10]</strong></strong> এই চলকটির এখানে শয়তানসহ উল্লেখ করলেও, এ ছাড়া বাকি সকল আহার আমাদের জন্য হালাল হয়ে যাবে না। আল্লাহ এই সকল আয়াতে আমাদের শয়তান সম্পর্কে একটি পরিষ্কার জ্ঞান দিয়েছেন, যেন আমারা তার যাবতীয় কৌশল ও অভিসন্ধি বুঝতে পারি। <strong>হারাম ভক্ষণে ছুটোছুটি</strong><strong><strong>[11]</strong></strong> বুঝতে হলে খুব সহজেই বুঝতে পারি যে, আল্লাহ নিষিদ্ধ কোন খাবার আমরা খেতে পারবো না। যদি একে খাবারের ক্ষেত্রে আল্লাহর আইন বলি, তাহলে সূরা আল-মায়েদার তিন (৩) আয়াতে যে লিষ্ট এবং আরো যে সকল যায়গায় হারাম বলে উল্লেখ করা হয়েছে, তা ভক্ষণ করার নির্দেশ ও পরিবেশ সৃষ্টি করার জন্য উভয় শয়তানতো তার সমস্ত কৌশল অবলম্বন অবশ্যই করবে। অর্থাৎ এই হারাম খাবার গুলি খাওয়ার জন্য শয়তানের একাধিক চলক মুমিনদের ক্ষেত্রে ব্যবহার করতে পারে যেমন <strong>কুমন্ত্রণা</strong><strong><strong>[12]</strong></strong>, <strong>প্রতারণা</strong><strong><strong>[13]</strong></strong>, <strong>মনোমুগ্ধকর কথা</strong><strong><strong>[14]</strong></strong>, <strong>ধোকাপূর্ণ কথা</strong><strong><strong>[15]</strong></strong>, <strong>ঈমানদার পরিচয়</strong><strong><strong>[16]</strong></strong> ইত্যাদির সংমিশ্রনে। আমরা জানি যে, পবিত্র আল-কোরআন হচ্ছে আরবী ভাষায় রচিত। যার কতিপয় আয়াত (মুহকাম) মৌলিক-সুস্পষ্ট অর্থবোধক, এগুলো হল কিতাবের মূল আর অন্যগুলো (মুতাশাবিহ) পুরোপুরি স্পষ্ট নয়, <strong>\"অথচ আল্লাহ ছাড়া কেউ এর ব্যাখ্যা জানে না\"</strong><strong><strong>[17]</strong></strong>। কিন্তু সেই সকল আয়াতের ব্যাখ্যা মানুষের দিতেই হবে। এই ব্যাখ্যা দিতে গিয়ে আমাদের সামনে <strong>সত্যিকার ঈমানদার পরিচয়</strong><strong><strong>[18]</strong></strong>, <strong>সত্যিকারের হিতাকাঙ্ক্ষী রূপে</strong><strong><strong>[19]</strong></strong>, <strong>শয়তানের ইবাদাত</strong><strong><strong>[20]</strong></strong> হিসাবে অর্থাৎ <strong>কোরআনকে আংশিক অনুসরণের পথ দেখায়</strong><strong><strong>[21]</strong></strong>, যা একমাত্র শয়তানের পদাংঙ্ক। এই ২০২২ সাল পর্যন্ত ইসলামের নামেই প্রায় ষাট (৬০,০০০) হাজারের অধিক প্রন্থ রচনা রয়েছে এবং চলছে মাল্টিন্যাশনাল প্রেসে নতুন নতুন প্রকাশনা ও দিন রাত প্রচার প্রচারণা। এমনকি কি শয়তান ভুয়া নবী ও রাসূল হিসাবেও ইতিমধ্যে আমাদের সামনে অনেক ব্যক্তিকে, অনেক গোষ্ঠীর সামনে প্রতিষ্ঠিত করেও দিয়েছেন। তারা কিন্তু ইসলামের নামেই বলে যাচ্ছেন এবং পালন করছেন। কিছু কিছু ব্যক্তির মর্যাদা আল্লাহ প্রেরিত নবী ও রাসূলগণের চেয়েও বেশি বানিয়ে নিয়েছেন । <strong>\"আর জীবিত ও মৃতও সমান নয়। আল্লাহ যাকে ইচ্ছে করেন শোনান; যারা",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4366973433",
+    "title": "জহদ, যদধ ও কতল: একমতর পবতর করআনর আলক (Jihad, War and Kital: In the Light of the Holy Qur'an)",
+    "authors": [
+      "Kazi Abdul Mannan"
+    ],
+    "year": 2022,
+    "language": "bn",
+    "abstract": "<strong>পটভূমি</strong> জিহাদ (الجهاد), যুদ্ধ (حرب) ও কিতাল (قتل) এই তিনটি শব্দ পবিত্র কোরআনে অনেক বার এসেছে। এই তিনটি শব্দের মধ্যে জিহাদ (الجهاد) ও কিতাল (قتل) দুটি শব্দ সালাতের সাথে গুরুত্ত্বপূর্ণ চলক হিসাবে রয়েছে বলেই এই গবেষণা। সালাতের সাথে জিহাদ শব্দটি একটি <strong><em>আয়াত \"আর তোমরা আল্লাহর পথে জিহাদ কর যেভাবে জিহাদ করা উচিৎ।......\"</em></strong>[1] সালাতের সাথে সরাসরি তিনটি আয়াতে দেখা যায় যে, কিতালকে ফরজ হিসাবে দেখা যায়[2], রয়েছে মুশরিকদের সাথে কিতাল কৌশলও[3] এবং কেউ কেউ আল্লাহর পথে লড়াই করবে[4] এই ভাবে। এই তিনটি শব্দের অনুবাদ ও গবেষণা পর্যালোচনা করে যতটুকু বুঝা গেল তা হচ্ছে যে, পবিত্র কোরআন একটি স্বতন্ত্র এবং উন্নত মানের ভাষায় রচিত, যা প্রচলিত আরবি ভাষা ও ব্যাকরণ দিয়ে বুঝতে অনেক ক্ষেত্রেই রয়েছে অপরিপক্কতা। তাই যেমনটি দেখা যায় সর্বনামের ক্ষেত্রে তেমনটি এই তিনটি শব্দের ক্ষেত্রে জিহাদ (الجهاد), যুদ্ধ (حرب) ও কিতাল (قتل) অনেকটাই এখনও একদিকে যেমন অস্পষ্ট অন্যদিকে নিজ নিজ মাজহাব ঠিক রাখতে গিয়ে রয়েছে অনেক অপব্যাখ্যা। এমনকি অনুবাদকগণ কিতাল এবং যুদ্ধকে অনেক যায়গায় জিহাদ হিসাবেও অনুবাদ করেছেন। তাই বর্তমান বিশ্বে জিহাদকে মানুষকে হত্যা ও ধ্বংসের পরিভাষায় মনে করা হয়। যা প্রকৃত পক্ষে পবিত্র কোরআনে যে সকল আয়াত গুলিতে জিহাদ (الجهاد) শব্দটি ব্যবহার করা হয়েছে। এমনকি জিহাদ (الجهاد), যুদ্ধ (حرب) ও কিতাল (قتل) কোন একটি আয়াতে একসাথেও ব্যবহার করা হয় নি। তাই পবিত্র কোরআন সঠিক ভাবে বুঝতে হলে আমাদের একমাত্র পবিত্র কোরআন দিয়েই সকল কিছু বুঝতে হবে কারণ আল্লাহ বলে দিয়েছেন <strong><em>\"অতঃপর এর বিশদ ব্যাখ্যার দায়িত্ব আমারই।\"</em></strong><strong><em><strong>[5]</strong></em></strong> আমরা এই নীতি থেকে অনেক দূরে যেতে যেতে আজ মনে হচ্ছে পবিত্র কোরআন আমাদের জীবনের কোথাও নেই। আমাদের জীবনের সকল স্তরকে ঘিরে ফেলেছে আহলে কিতাবীদের গ্রন্থের ইবাদত এবং জীবন বিধান। পবিত্র কোরানে জিহাদ (الجهاد) যে সকল আয়াতে ব্যবহার করা হয়েছে আল্লাহ ও পরকালের প্রতি দৃঢ় ঈমান রেখে নিজের জান-মাল দিয়ে আল্লাহর রাস্তায় জিহাদ করতে বলা হয়েছে। এর অর্থ কি কাউকে হত্যা বা খুন করতে বলেছেন, অবশ্যই না। বলেছেন আর তোমরা আল্লাহর পথে জিহাদ কর যেভাবে জিহাদ করা উচিৎ।[6] কিভাবে? <strong><em>\"সুতরাং তুমি কাফিরদের আনুগত্য করো না এবং তুমি কুরআনের সাহায্যে তাদের বিরুদ্ধে কঠোর জিহাদ কর।\"</em></strong><strong><em><strong>[7]</strong></em></strong> পরিষ্কার ভাবেই বলেছেন কোন কাফেরের সাথে এখানে পবিত্র কোরআন ব্যবহার করতে বলা হয়েছে। তা ব্যবহার করতে হলে অবশ্যই আমাদের পবিত্র কোরআন সম্পর্কে যথাযথ জ্ঞান দরকার। যদি তা থাকে আল্লাহ বলেই দিয়েছেন অবশ্যই তারা পিঠ দেখিয়ে পালাবে[8] কার বিরুদ্ধে? প্রথমত নিজের পিতা-মাতার বিরুদ্ধেই[9] অর্থাৎ শুধুমাত্র তাদের এই ধরণের আদেশ অমান্য করতে হবে। তাদের হত্যা বা খুনতো দূরের কথা খারাপ ব্যবহারও করা যাবে না। দ্বিতীয়ত কাফির ও মুনাফিকদের বিরুদ্ধে, অস্ত্র কি? জিহাদ স্তরে অর্থাৎ জিহাদ শব্দ ব্যবহৃত আয়াতে কোথাও পবিত্র কোরআন ছাড়া কোন দ্বিতীয় অস্ত্র ব্যবহারের কথা নেই। বর্তমান সমাজ ও রাষ্ট্রে এই একটি মাত্র অস্ত্র প্রয়োগ করলেই জান-মাল সহ বাকি যে সকল উপকরণের মায়ার কথা আল্লাহ বলেছেন তা সবই চলে যাওয়ার সম্ভাবনাই বেশি। পবিত্র কোরানে জিহাদের আয়াত সমূহে আমাদের পরিষ্কার করে দিয়েছেন যে জিহাদ স্তর হচ্ছে হচ্ছে নিজের কুরিপু ও সমাজের সাথে কঠোর সংগ্রাম করা, যার একমাত্র অস্ত্র ও নির্দেশিকা হচ্ছে পবিত্র কোরআন এবং আল্লাহ আমাদের বেহেস্তে প্রবেশের জন্য ইহাকে পরীক্ষা হিসাবে উল্লেখ করেছেন। এই পরীক্ষায় উত্তীর্ন হতে হলে আমাদের অন্তর এবং কর্মকে একমাত্র আল্লাহর যাবতীয় বিধিবিধান অনুসরণ করতে হবে। কেবলমাত্র এই স্তরে উন্নীত মুসলিমদের জন্য কিতাল (قتل) ফরজ করা হয়েছে। তাই জিহাদকে কিতাল ও যুদ্ধ হিসাবে যারা উল্লেখ করে নানা ধরণের বিশৃঙ্খলা করে যাচ্ছেন, তাদের পবিত্র কোরআন আরো গভীরভাবে অধ্যায়ন করা উচিৎ। যুদ্ধ (حرب) ও কিতাল (قتل) আদিমকাল থেকে আধুনিক বিশ্বের একটি গুরুত্ত্বপূর্ন বিষয়। আদিমকালে মানুষকে বেঁচে থাকতে হলে নানা ধরণের হিংস্র জন্তু-জানোয়ারের সাথে প্রতিনিয়ত যুদ্ধ করেই বেঁচে থাকতে হত। সভ্যতা বিকাশের সাথে সাথে ঐ সকল হিংস্র জন্তু-জানোয়ারের জন্য নিরাপদ বিচরণের যায়গা চিহ্নিতকরণের পাশাপাশি মানুষ তার নিজের জন্য নিরাপদ আবাসস্থল তৈরি করে নিয়েছে সত্যি। কিন্ত দেখা গেল যে মানুষের হিংস্রতা অনেক ক্ষেত্রেই পশুকেই ছাড়িয়ে গেল এবং যাচ্ছে। তাই প্রত্যেকটি পরিবার, সমাজ ও রাষ্ট্র এই সকল মানুষ রূপী হিংস্র প্রাণী থেকে বেঁচে থাকতে ব্যক্তি, সমাজ ও রাষ্ট্রের ক্ষেত্রে একদিকে যেমন নিরাপত্তার ব্যবস্থা করে রাখেন অন্য দিকে আক্রমণ হলে যুদ্ধে জয়লাভের যাবতীয় ব্যবস্থা করে রাখেন। সর্বোপরি লড়াই ও যুদ্ধ বেঁধে গেলে কিভাবে করতে হবে এবং এর পরবর্তী বিধিবিধান কি হবে তাও আধুনিক বিশ্বে সকল ছোট বড় রাষ্ট্রেই রয়েছে। আর মহান আল্লাহ এই সকল ক্ষেত্রে তার কৌশল, সহযোগিতা এবং মানুষের ক্ষেত্রে সকল প্রকার বিধিবিধান লিপিবদ্ধ করে দিয়েছেন এবং আমাদের জন্য ফরজ করে দিয়েছেন। আধুনিক বিশ্বে কিছু দেশ তার সকল জনগণকে বাধ্যতামূলক সামরিক ট্রেনিং দিয়েও থাকেন, যেন রাষ্ট্রের প্রয়োজনে সকলেই অংশগ্রহণ করতে পারেন। তাই যুদ্ধ নতুন কিছু নয়, পবিত্র কোরআন অনুসারীদের জন্য এ ধরণের যুদ্ধের কারণ, প্রক্রিয়া, বিধিবিধান, নিয়মনীতি, সন্ধি ও যুদ্ধ পরবর্তী অবস্থা বর্ণনা করেছেন তা সভ্য জগতে আমাদের চোখের সামনে যা ঘটছে তার চেয়ে অনেক বেশি মানবিক দৃষ্টিকোণ থেকেই সাঝিয়ে দিয়েছেন বলে-ই মনে হয়। পবিত্র কোরআন কখনও কাউকে জোরপূর্বক ইসলামের দিকে আহবান করে না বরং অন্যের ধর্মকে মর্যাদা দিয়ে পরকালে আল্লাহর বিচারের অপেক্ষায় থাকে। কিন্তু কোন কর্তৃপক্ষ যদি মুসলিম হওয়ার কারণে নির্যাতন করে, তাহলে পবিত্র কোরআনের বিধিবিধান মেনে যুদ্ধ করবে এটাই আল্লাহর বিধান। এই বিধান নতুন নয়। আল্লাহ মানুষের জন্য এই বিধান সৃষ্টির শুরু থেকেই বহাল রেখেছেন। এই সংকলনে শুধুমাত্র পবিত্র কোরআনে জিহাদ (الجهاد), যুদ্ধ (حرب) ও কিতাল (قتل) সম্পর্কে যে সকল আয়াতগুলি রয়েছে তা ব্যস্ত পাঠকের জন্য সাঝিয়ে দেয়া হয়েছে, যেন এই সম্পর্কে সহজেই জ্ঞান লাভ করতে পারেন। দুটি অধ্যায়ে ভাগ করা হয়েছে, প্রথম অধ্যায়ে রয়েছে জিহাদ (الجهاد) এবং দ্বিতীয় অধ্যায়ে রয়েছে যুদ্ধ (حرب) ও কিতাল (قتل) সম্পর্কিত আয়াত সমূহ। এখানে তিনটি বাংলা অনুবাদ দেয়া হয়েছে, যদিও এর চেয়ে কাছাকাছি অনুবাদ এই মুহূর্তে হাতের কাছে নেই এবং একটি ইংরেজি অনুবাদ। তিনটি অনুবাদের যুক্তি হচ্ছে পাঠক যেন একটু নিজের বিবেক-বুদ্ধি দিয়ে বুঝতে পারেন যে, এখনও পবিত্র কোরআনের সঠিক অনুবাদে যথেষ্ট ত্রুটি রয়েছে। অনুবাদের উপরে আরবি লেখায় তিনটি শব্দের অনুবাদগুলি বিভিন্ন যায়গায় একটু গভীর ভাবে পর্যবেক্ষণ করলে সহজেই বুঝা যাবে যে, অনুবাদকের নিজস্ব অনুভূতি কোনভাবেই নিরপেক্ষতা নেই। যেখানে পবিত্র কোরআনের অনুবাদের ক্ষেত্রে এই ধরণের গরমিল সেখানে জিহাদকে যুদ্ধ ও কিতাল হিসাবে মানুষের কাছে উপস্থাপন করে যারা বই রচনা করেছেন বিভিন্ন আহলে কিতাবের রেফারেন্স দিয়ে তা কতটুকু কোরআন সমর্থন করে, তা আয়াতগুলি গভীর মনোযোগ দিয়ে অধ্যায়ন করলেই বুঝা যাবে। এখানে উল্লেখ যে, এই সংকলনে কেবলমাত্র জিহাদ (الجهاد), যুদ্ধ (حرب) ও কিতাল (قتل) সংশ্লিষ্ট আয়াতগুলি তুলে ধরা হয়েছে, যদিও কিছু ক্ষেত্রে আয়াতগুলির সামনে ও পিছনের কিছু আয়াত দেয়া হয়েছে, যেন পাঠক বিষয়বস্তু সহজেই অনুধাবন করতে পারেন। তবে বিস্তারিত বুঝতে হলে সংশ্লিষ্ট সূরা এবং বিশেষ ক্ষেত্রে বর্ণনা শুরু থেকে পড়লে গভীর ভাবে বুঝতে পারবেন। তাছাড়া এখানে বিষয়বস্তু সাঁজাতে গিয়ে কিছু ক্ষেত্রে একই বিষয়ে অন্য আয়াতেও দেখা যাবে কারণ কোন একটি আয়াতের অংশবিশেষ এখানে তুলে ধরা হয় নি। প্রতিটি ক্ষেত্রেই রয়েছে সম্পূর্ণ আয়াতটি। গভীর অধ্যায়নের জন্য অবশ্যই পবিত্র কোরআনে ধারাবাহিক ভাবে পড়ার অনুরোধ রইল। <strong>ড. কাজী আব্দুল মান্নান</strong> [1] (২২:৭৮) সূরাঃ আল-হজ্জ, আয়াত:৭৮ [2] (৪:৭৭) সূরাঃআন-নিসা, আয়াত:৭৭ [3] (৯:৫) সূরাঃআত-তাওবা, আয়াত:৫ [4] (৭৩:২০) সূরাঃ আল-মুযযাম্মিল, আয়াত:২০ [5] (৭৫:১৯) সূরাঃআল-ক্বিয়ামাহ, আয়াত:১৯ [6] (২২:৭৮) সূরাঃ আল-হজ্জ, আয়াত:৭৮ [7] (২৫:৫২) সূরাঃআল-ফুরকান, আয়াত:৫২ [8] (৪৮:২২) সূরাঃআল-ফাতহ , আয়াত:২২ [9] (২৯:৮)সূরাঃআল-আনকাবূত, আয়াত:৮",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4366973468",
+    "title": "পবতর করনর আলক বরষপঞজ ও পরচলত পদধত (Calendar: The conventional methods and in the light of the Holy Quran)",
+    "authors": [
+      "Kazi Abdul Mannan"
+    ],
+    "year": 2023,
+    "language": "bn",
+    "abstract": "<strong>মুখবন্ধ</strong> মহান আল্লাহ পবিত্র কোরআনে বলেন, <em>\"নিশ্চয় কোন মাসকে পিছিয়ে দেয়া কুফরী বৃদ্ধি করে, এর দ্বারা কাফিররা পথভ্রষ্ট হয়, তারা এটি এক বছর হালাল করে এবং আরেক বছর হারাম করে, যাতে তারা আল্লাহ যা হারাম করেছেন তার সংখ্যা ঠিক রাখে। ফলে আল্লাহ যা হারাম করেছেন, তা তারা হালাল করে। তাদের মন্দ আমলসমূহ তাদের জন্য সুশোভিত করা হয়েছে। আর আল্লাহ কাফির কওমকে হিদায়াত দেন না।\" (৯:৩৭) </em> এই আয়াত আমাদের বলে দেয় শুধুমাত্র খাবার আর পোষাকের মধ্যেই হালাল-হারাম সীমাবদ্ধ নয়। বরং সময়, দিন, রাত, সপ্তাহ, মাস ও বছর গণনার ক্ষেত্রে রয়েছে সর্বোচ্চ হালাল-হারামের বিধিবদ্ধ বিধান। আমার ক্ষুদ্র জ্ঞান সর্বোচ্চ হালাল-হারাম বলছে এই কারণে যে, এর সাথেই সম্পৃক্ত রয়েছে ইসলামের মৌলিক বিধিবিধান যথা নামাজ, রোজা, হজ্জ্ব, যাকাত ও জিহাদ। আমাদেরকে আল্লাহ একটি মাত্র মাসের নাম অর্থাৎ রমাদান হিসাবে উল্লেখ করে দিয়েছেন এবং বলে দিয়েছেন এই মাসেই লাইলাতুল কদরে পবিত্র কোরআন নাজিল হয়। রাতটির কিছু সংক্ষিপ্ত বর্ণনাও দিয়েছেন যেমন <em>\"শান্তিময় সেই রাত, ফজরের সূচনা পর্যন্ত। \" (৯৭:৫) </em> সেই রাতটি কি কখনো ঘন অন্ধকার হতে পারে? কারণ <em>\"আর অন্ধকার রাতের অনিষ্ট হতে যখন তা আচ্ছন্ন হয়ে যায়।\" (১১৩:৩) </em> যদিও দেখা যায় কিছু কিছু বিশেষজ্ঞদের মতামত তেমন একটি বা একধিক রাতের সম্ভাবনার কথা বলেন। কোন গভীর অন্ধকার রাত এই মহান গ্রন্থ নাজিলের রাত হতেই পারে না। তাই মনে হচ্ছে সহস্র বছরে মুসলিম সমাজ সেই মহিমান্বিত রাতটি চিরতরে হারিয়ে ফেলেছে। আমাদেরকে সেই একটি মাস বলে দিয়েছে এবং ১২ মাসে বছরের কথাও বলে দিলেন এবং তারমধ্যে চারটি মাসকে হারাম করে দিলেন বিশ্ব পরিবেশের ভারসাম্য রক্ষা কবজ হিসাবে। আল্লাহ এই দায়িত্ত্ব দিয়ে দিলেন জ্ঞানী শ্রেণীর কাছে। পবিত্র কোরআন অনুযায়ী নামাজ, রোজা, হজ্জ্ব, যাকাত ও জিহাদের ইব্রাহিম (আঃ) থেকেই দেখা যায়। তাই সেই সময় থেকেই সময় গণনার বর্ষপঞ্জি থাকার-ই কথা। তাছাড়া মহান আল্লাহ আমাদের বলে দিয়েছেন সৃষ্টির প্রথম দিন থেকে-ই ১২টি মাস নির্ধারিত (৯:৩৬), তাই প্রচলিত বর্ষপঞ্জিটির সাথে ইব্রাহিম (আঃ) বর্ষপঞ্জির সাথে অবশ্যই সম্পৃক্ততা থাকার কথা। ধরে নিলাম নাইবা থাকল, বিকৃত অথবা হারিয়ে গেছে। মুসা (আঃ) ও হারুন (আঃ) কে মহান আল্লাহ বলে দিলেন \"আর আমি মূসা ও তার ভাইয়ের কাছে ওহী পাঠালাম যে, ‘তোমরা তোমাদের কওমের জন্য মিসরে গৃহ তৈরী কর এবং তোমাদের গৃহগুলোকে কিবলা বানাও আর সালাত কায়েম কর এবং মুমিনদের সুসংবাদ দাও।\" (১০ : ৮৭) অর্থাৎ ইমরান (আঃ) পুত্রগণ মুসা (আঃ), হারুন (আঃ), কন্যা মারইয়াম (আঃ) এবং তার পুত্র ঈসা (আঃ), তাছাড়াও যাকারিয়া (আঃ) এর পুত্র ইয়াহিয়া (আঃ) সমসামিয়ক নবী রাসূলগণ ইব্রাহিম (আঃ) এর নামাজ, রোজা, হজ্জ্ব, যাকাত ও জিহাদ পালন করেছেন। তাদেরকেও একটি বর্ষপঞ্জি অনুসরণ অথবা অনুমোদন/প্রবর্তন করতে হয়েছে। কারণ আল্লাহ বলেন <em>\"পৃথিবীতে ঔদ্ধত্য প্রকাশ এবং কূট ষড়যন্ত্রের কারণে। কূট ষড়যন্ত্র ওর উদ্যোক্তাদেরকেই পরিবেষ্টন করে। তাহলে কি তারা প্রতীক্ষা করছে পূর্ববর্তীদের প্রতি প্রযুক্ত বিধানের? কিন্তু তুমি আল্লাহর বিধানের কখনও কোন পরিবর্তন পাবেনা এবং আল্লাহর বিধানের কোন ব্যতিক্রমও দেখবেনা।\" (৩৫:৪৩)</em> বিভিন্ন ধরনের সীরাত ও ইসলামের ইতিহাস থেকে দেখা যায় মোহাম্মদ (সঃ) বর্তমান সৌদি আরবে অবস্থিত মক্কা নগরীর কুরাইশ বংশের বনু হাশিম গোত্রে জন্মগ্রহণ করেন। প্রচলিত ধারণা মতে, তিনি ৫৭০ খ্রিষ্টাব্দের ২৯ আগস্ট বা আরবি রবিউল আউয়াল মাসের ১২ তারিখ জন্মগ্রহণ করেন। প্রখ্যাত ইতিহাসবেত্তা মন্টগোমারি ওয়াট তার পুস্তকে ৫৭০ সাল উল্লেখ করেছেন; তবে প্রকৃত তারিখ উদ্‌ঘাটন সম্ভব হয়নি। তাছাড়া মুহাম্মাদ (সঃ) নিজে কোনো মন্তব্য করেছেন বলে নির্ভরযোগ্য কোনো প্রমাণ পাওয়া যায়নি; এজন্যই এটি নিয়ে ব্যাপক মতবিরোধ রয়েছে। এমনকি মাস নিয়েও ব্যাপক মতবিরোধ পাওয়া যায়। যেমন, একটি বর্ণনায় এটি ৫৭১ সালের ২৬ এপ্রিল বা রবিউল আউয়াল মাসের ৯ তারিখ হবে; সাইয়েদ সুলাইমান নদভী, সালমান মনসুরপুরী এবং মোহাম্মদ পাশা ফালাকির গবেষণায় এই তথ্য বেরিয়ে এসেছে। এখন প্রশ্ন হচ্ছে ৪০ বছর বয়সে নবুয়ত প্রাপ্তির পরবর্তী ২২ বছর নিশ্চয়-ই একটি বর্ষপঞ্জি প্রণয়ন/অনুমোদন/অনুসরণ করেছেন। সেই বর্ষপঞ্জি কেন-ই বা পরিবর্তন করতে হল ইসলামের দ্বিতীয় খলিফা উমর ইবনুল খাত্তাব (রাঃ) এর শাসন আমলে? সীরাত ও ইসলামের ইতিহাস থেকে দেখা যায় যে, ১৭ হিজরি সনে (৬৩৮ খ্রিস্টাব্দ), বসরায় নিযুক্ত খলিফা উমরের একজন কর্মকতা আবু মুসা আশয়ারী উমরের কাছ থেকে প্রাপ্ত চিঠিপত্রে বছরের অনুপস্থিতির অভিযোগ করেছিলেন ও কোন নির্দেশাবলী বর্তমান বছরের তা নির্ধারণ করা তার পক্ষে কঠিন হয়ে পড়েছিল। এই প্রতিবেদনটি উমরকে মুসলিমদের জন্য একটি পঞ্জিকা সাল প্রবর্তনের প্রয়োজনীয়তা সম্পর্কে নিশ্চিত করেছিল। পরামর্শদাতাদের সাথে বিষয়টি নিয়ে বিতর্ক করার পর তিনি সিদ্ধান্ত নেন যে প্রথম বছরটি হতে হবে মুহাম্মদ (সঃ) এর মদিনায় আগমনের বছর (যা আগে ইয়াসরিব নামে পরিচিত ছিল)। এরপর উসমান ইবন আফফান প্রাক-ইসলামি যুগের আরব্য রীতি মেনে বছরের প্রথম মাস মুহররমে শুরু করার পরামর্শ দেন। ইসলামি বর্ষপঞ্জির বছরগুলি এভাবে মুহররম মাস থেকে মুহাম্মদ (সঃ) এর মদিনা শহরে আগমনের বছর থেকে শুরু হয়, যদিও প্রকৃত হিজরত হয়েছিল আন্তঃকালিত বর্ষপঞ্জির সফর ও রবিউল আউয়াল মাসে তথা নতুন স্থির বর্ষপঞ্জির মুহররম শুরু হওয়ার দুই মাস আগে। হিজরতের কারণে এই বর্ষপঞ্জির নামকরণ করা হয় হিজরি বর্ষপঞ্জি। তবে পবিত্র কোরআনে উল্লেখিত বিধিবিধানগুলিকে আলোচনা, পর্যালোচনা ও গবেষণা করে বিবেচনা করা হয় নাই। মহান আল্লাহ পাক আমাদের বলেছেন <em>\"তিনিই সূর্যকে করেছেন দীপ্তিময় এবং চাঁদকে আলোময় আর তার জন্য নির্ধারণ করেছেন বিভিন্ন মনযিল, যাতে তোমরা জানতে পার বছরের গণনা এবং (সময়ের) হিসাব। আল্লাহ এগুলো অবশ্যই যথার্থভাবে সৃষ্টি করেছেন। জ্ঞানী সম্প্রদায়ের জন্য তিনি আয়াতসমূহ বিস্তারিতভাবে বর্ণনা করেন।\" (১০:৫) </em> তিনি আরো স্পষ্ট করে বলে দিয়েছেন <em>\"সেটা এমন এক উম্মত যা বিগত হয়েছে। তারা যা অর্জন করেছে তা তাদের জন্যই, আর তোমরা যা অর্জন করেছ তা তোমাদের জন্যই। আর তারা যা করত সে সম্পর্কে তোমাদেরকে জিজ্ঞাসা করা হবে না। (২:১৩৪) </em> আল্লাহর কিতাব পবিত্র কোরআন ছাড়া বাকি সব আহলে কিতাব বা মানব রচিত কাহিনী। আল্লাহ আমাদের মধ্যে যাদের জ্ঞান দিয়েছেন তাদের অনেক দায়িত্ব ও কর্তব্য দিয়েছেন। বার বার চিন্তা ও গবেষণার কথা বলেছেন। তাই আমাদের উচিত প্রচলিত বর্ষপঞ্জিটি উপসংহারে বর্ণিত অনুকল্প (Hypothesis) গুলি পরীক্ষা করা। <strong>ড. কাজী আব্দুল মান্নান</strong>",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4372347020",
+    "title": "জবনননদর উপনযস বশলষণতমক মন:সমকষণবদ (JIBANANANDER UPONYASE BISHLESHONATMOK MANOSAMIKSHANBAD)",
+    "authors": [
+      "Anuradha Mukherjee -"
+    ],
+    "year": 2023,
+    "language": "bn",
+    "abstract": "সিগমুন্ড ফ্রয়েড (১৮৫৫-১৯৩৯) প্রদত্ত মনঃসমীক্ষণবাদ (Psychoanalysis) প্রথম বিশ্বযুদ্ধোত্তর দুনিয়ায় এক কালব্যাপী আলোড়ন তুলেছিল। সাহিত্যের বিষয় ও গঠনের ধীরে ধীরে বদল ঘটেছিল। এমতাবস্থায় প্রথম জীবনে ফ্রয়েড অনুগামী ও পরবর্তী জীবনে ফ্রয়েড বিরোধী মনঃসমীক্ষণবাদী কার্ল গুস্তাভ ইয়ুং (১৮৭৫-১৯৬১) ফ্রয়েডের মনঃসমীক্ষণবাদ (Psychoanalysis) ভাবনার ওপর ভিত্তি করে তার বিশ্লেষণাত্মক মনঃসমীক্ষণবাদ (Analytical Psychoanalysis) ভাবপ্রতিমা নির্মাণ করেন। তাঁর দৃষ্টিভঙ্গিগুলির মধ্যে জনপ্রিয় একটি ভাবনা হল, যৌথ অচেতন ( Collective Unconscious), যার মধ্যে অ্যানিমা-অ্যানিমাস (Anima-Animas), পার্সোনা (Persona), ছায়া (Shadow), স্ব (Self) অন্যতম। অপরটি হল ব্যক্তিত্ব (Individuation)। এছাড়া ব্যক্তিত্বের প্রকারভেদ ও কমপ্লেক্স ইয়ুং প্রদত্ত ভাবনাগুলির মধ্যে অন্যতম। ঔপন্যাসিক জীবনানন্দ তাঁর উপন্যাসগুলির বিষয় বা চরিত্র চিত্রণের ক্ষেত্রে বেশ কিছু স্থানে স্বকীয়তা প্রদর্শন করেছেন। তিনি নিজে মনঃসমীক্ষণবাদের জনক সিগমুন্ড ফ্রয়েড দ্বারা প্রভাবিত। এই গবেষণাপত্রে মনঃসমীক্ষণবাদী কার্ল গুস্তাভ ইয়ুং এর ভাবনা দ্বারা তাঁর রচনাশৈলী কতটা প্রভাবিত তা আলোচ্য। আলোচনার সুবিধার্থে জীবনানন্দের তিনটি উপন্যাস, যথাক্রমে, ‘মাল্যবান’ (১৯৪৮), ‘জলপাইহাটি’ (১৯৪৮), ‘কারুবাসনা’ (১৯৩৩) কে নির্বাচন করা হল। আলোচনার মাধ্যমে উপন্যাসের বিভিন্ন চরিত্রের মধ্যে ইয়ুং প্রবর্তিত ভাবনাগুলির প্রতিফলন নিয়ে বিস্তারিত আলোচনা করা হল।",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4376489716",
+    "title": "Index of Arabic Names",
+    "authors": [
+      "Jonathan E. Brockopp"
+    ],
+    "year": 2000,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4385890596",
+    "title": "Akhtaruzzaman Elias's short story : context class conflict (আখতরজজমন ইলযসর ছটগলপ : পরসঙগ শরণদবনদব)",
+    "authors": [
+      "Zobayer Abdullah"
+    ],
+    "year": 2023,
+    "language": "bn",
+    "abstract": "Akhtaruzzaman Elias's short story about socio-economic and political changes in the last four decades of the last century. In the stories of the author, the picture of the complex life reality of the people of this country has been revealed. The history of Bangladesh's social hierarchies, class exploitation and the rise of marginalized people is the subject of several stories of Elias. As a class-conscious writer, Elias in his stories identified the conflicts between different classes of the class-divided society and also gave unwavering support to the struggling unity of the working people in the struggle for liberation. In the present article, an attempt has been made to reveal the form of class conflict in the short stories of Akhtaruzzaman Elias. গত শতাব্দীর শেষ চার দশকের বাংলাদেশের আর্থ-সামাজিক ও রাজনৈতিক পটপরিবর্তনের কথকতা আখতারুজ্জামান ইলিয়াসের গল্পশিল্পের বিষয়বস্তু। স্বল্পপ্রসূ এই লেখকের গল্পসমূহে উন্মোচিত হয়েছে এদেশের কেন্দ্র থেকে প্রান্তস্পর্শী মানুষের দ্বন্দ্বজটিল জীবনবাস্তবতার স্বরূপ। বাংলাদেশের সমাজসংগঠনে সামাজিক শ্রেণিবিন্যাস, শ্রেণিশোষণ ও প্রান্তিক মানুষের শ্রেণিচেতনায় উজ্জীবনের ইতিহাস ইলিয়াসের বেশ কিছু গল্পের উপজীব্য বিষয়। শ্রেণিসচেতন লেখক হিসেবে ইলিয়াস তাঁর গল্পে শ্রেণিবিভাজিত সমাজের বিভিন্ন শ্রেণির মধ্যকার দ্বন্দ্বসমূহ যেমন চিহ্নিত করেছেন তেমনি শোষণমুক্তির প্রচেষ্টায় শ্রমজীবী মানুষের সংগ্রামী ঐক্যের প্রতিও জানিয়েছেন অকুণ্ঠ সমর্থন। বর্তমান প্রবন্ধে আখতারুজ্জামান ইলিয়াসের ছোটগল্পে শ্রেণিদ্বন্দ্বের স্বরূপ উদ্ঘাটনের প্রয়াস গৃহীত হয়েছে।",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4386333244",
+    "title": "হলদয় মহকমর ভষর অনবয়তততব",
+    "authors": [
+      "Rabindranath Barui -"
+    ],
+    "year": 2023,
+    "language": "bn",
+    "abstract": "A study of syntactic structure on local language or one important dialect of Haldia Subdivision of West Bengal.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4386659275",
+    "title": "ইসলমর পচট সতমভ: পবতর করআনর আলক পরযবকষণ (The Five Pillars of Islam: Observations in the Light of the Holy Quran)",
+    "authors": [
+      "Kazi Abdul Mannan"
+    ],
+    "year": 2023,
+    "language": "bn",
+    "abstract": "<strong>পটভূমি</strong> আমার নানা একজন সম্মানিত মাওলানা ছিলেন এবং অসুস্থ মা-কে কোনদিন দেখি নাই কোন সালাত কাযা করতে, তাই আমি পারিবারিক ভাবে সুন্নি মাজহাবের মানুষ। এই মাজহাবের কেউ আমার শত্রু নয়। তবে মহান আল্লাহ আমাকে যতটুকু জ্ঞান দিয়েছেন তা অপব্যবহার না করে, একজন একাডেমিক স্বীকৃত গবেষক হিসাবে নিরপেক্ষ দৃষ্টিভঙ্গি নিয়ে পবিত্র কুরআন নিয়ে চিন্তা ও গবেষণা করার চেষ্টা করি। সেই ক্ষেত্রে আমার চিন্তা, গবেষণা ও লেখায় ভুল থাকতে পারে, যা নিতান্ত-ই স্বাভাবিক। আশাকরি মহান আল্লাহ সেই ভুলের জন্য ক্ষমা করবেন এবং কারো দৃষ্টিতে কোন ভুল দেখা গেলে আমাকে অবহিত করা হলে (ইমেইল এর মাধ্যমে) আমি নিজেকে সংশোধন করে নিব এবং এই লেখাকে পুনঃসংস্করণ করব, ইনশাআল্লাহ (যদি বেঁচে থাকি) । জন্মের পর থেকেই শুনেছি ইসলামের পাঁচ স্তম্ভ অর্থাৎ কলেমা, নামাজ, রোজা, হজ্জ্ব ও যাকাত। জীবিকার জন্য যে শিক্ষা আমরা অর্জন করি তার ক্ষেত্রে আমরা যেভাবে পড়াশুনা করি, তেমন করে কোনদিন পবিত্র কুরআন পড়াশুনা করি নাই, তাই এই পাঁচ স্তম্ভ সহ সামগ্রিক পবিত্র কুরআন সম্পর্কে রয়েছে জ্ঞানের বিশাল শূন্যতা। ফলে এই শূন্যস্থান পূরণ করে দিচ্ছে আমাদের চিরশত্রু শয়তান এবং তার দলবল। ইসলামের এই পাঁচ স্তম্ভকে নিয়ে অধ্যায়ন করতে করতে তেমনিটি-ই অনুধাবন করছি, তাই এই প্রকাশনার উদ্দেশ্য হচ্ছে নিজেকে সংশোধন করার এবং খুব সহজে একজন মানুষ বুঝতে পারেন সেই ব্যবস্থা। প্রথমেই এই পাঁচ স্তম্ভের ধারণার সাথে কঠিন আপত্তি করছি অর্থাৎ ইসলামের স্তম্ভ পাঁচিটি নয়, তা কেবলমাত্র একটি তা হচ্ছে মহান আল্লাহর পবিত্র কুরআন। এই কিতাবের একটি শব্দ-কে অমান্যতো দূরের সন্দেহও করা যাবে না। তাই ইসলামের একমাত্র স্তম্ভ হচ্ছে পবিত্র কুরআন। যাই হউক বহুল প্রচলিত এই পাঁচ স্তম্ভের মধ্যে প্রথমেই আসে ঈমান। ঈমান আনার জন্য মুখে কলেমা পড়তে হয় এবং অন্তরে তা বিশ্বাস করতে এটা-ই প্রচলিত রীতিনীতি। এই নীতিতে পাঁচটি বর্তমানে আরো ২টি বেড়ে মোট সাতটি কলেমা এবং ২টি ঈমানের বাক্য রয়েছে, যা বিশ্বের বিখ্যাত ও অখ্যাত সকল ধর্ম প্রচারকগণ প্রচার করছেন এবং সেই অনুযায়ী-ই ভিন্ন ধর্মের মানুষকে মুসলিম হিসাবে স্বীকৃতি দিচ্ছে। এখানে প্রথম অধ্যায়: ঈমান, কলেমা ও ঈমানদার: পবিত্র কুরআনের আলোকে বিস্তারিত তুলে ধরা হয়েছে। মূল কথা হচ্ছে ৭টি বাক্য পবিত্র কুরআনের কোথাও তার যেমন কোন অস্তিত্ত্বতো নেই তেমনি তা পবিত্র কুরআনের নীতি বিরুদ্ধ, সাংঘর্ষিক এবং পবিত্র কুরআনের সাথে যুদ্ধ ঘোষণার সামিল। তাই আমি নিজে এই (৭+২) অর্থাৎ ৯টি বাক্যকে ইসলামের কলেমা ও ঈমান হিসাবে প্রত্যাখ্যান করলাম এবং ইসলামের বিশ্বজনীন কলেমা (২:১৩৬) ও (৩:৮৪) কে পাঠ করে পবিত্র কুরআনে উল্লেখিত সকল কলেমাকে-ই ঈমান ও জীবন হিসাবে মেনে নিলাম, মহান আল্লাহ যেন কবুল করেন। তাছাড়া আমি সেখানে যে ৫৩২টি আয়াতের কথা উল্লেখ করেছি, তাই শেষ কথা নয় অন্যের গবেষণায় তা তারতম্য হতে-ই পারে। প্রচলিত দ্বিতীয় স্তম্ভের যে নামাজ রয়েছে তা কখনও পবিত্র কুরআনে বর্ণিত সালাতের সাথে কোন সম্পর্ক নেই। মহান আল্লাহ পবিত্র কুরআনে কোথাও প্রত্যক্ষ বা পরোক্ষভাবে এভাবে পাঁচ বার ১৭ রাকাত বাধ্যতামূলক সালাতের বিধান দেন নাই। সালাত (নামায) শব্দটি পবিত্র কোরআনে সরাসরি ৮৯ টি আয়াতে ৯৬ বার, আর আলাদা আয়াতে তাহাজ্জুদ ১ বার, রূকু-সেজদা ১ বার, দন্ডায়মান ১ বার এবং তাসবীহ ৩ বার অর্থাৎ মোট ১০২ বার এসেছে। সেখানে ৯৫টির অধিক চলক রয়েছে এবং এই চলকের সমষ্টি-ই হচ্ছে সালাত আর সালাত কায়েম হচ্ছে ঐ সকল চলকগুলিকে বাস্তব জীবনে প্রয়োগ। তবে শারীরিক সালাতের যে বিবরণ উল্লেখ করেছেন তাতে সর্বনিম্ন রাকাত হচ্ছে একটি (১) যারা সালাত পড়বেন এবং যিনি পড়াবেন তার জন্য ২ রাকাত সুনির্দিষ্ট সালাতের সময়ে, তবে সর্বোচ্চ রাকাতের কোন সীমাবদ্ধতা মহান আল্লাহ নির্ধারণ করে দেন নাই। তাই প্রচলিত সালাতের বিধিবদ্ধ রীতিনীতি বর্জন করতে বাধ্য হয়েছি। আশা করি দ্বিতীয় অধ্যায়: \"পবিত্র কুরআন অনুযায়ী সালাত (নামাজ) পদ্ধতি\" গবেষণা প্রবন্ধটি নিরপেক্ষতা বজায় রেখে এবং মনযোগের সহিত পাঠ করলে সহজে-ই বুঝতে সক্ষম হবেন। তৃতীয় অধ্যায়: \"যাকাতের প্রচলিত পদ্ধতি বনাম পবিত্র কোরআন: দাতা ও গ্রহীতার একটি আর্থ-সামাজিক মডেল\" এই গবেষণা প্রবন্ধটি ৪০টি মুসলিম প্রধান দেশের সমসাময়িক তথ্য ও উপাত্ত সংগ্রহ করে বিশ্লেষণ করা হয়েছে। ফলাফলে দেখা গেল যে সকল দেশ-ই পবিত্র কুরআনের মূলনীতি বহির্ভুত পন্থায় যাকাতের বিধি-বিধান ও প্রথায় বিশ্বাসী। প্রচলিত পদ্ধতিতে যাকাতের ক্ষেত্রে রয়েছে সর্বনিম্ন পরিমান (নিসাব) ও হার ২.৫%। এই দুটি মৌলিক উপাদান, যার অস্তিত্ব পবিত্র কুরআনের কোথাও উল্লেখ নেই। তাছাড়া দেখা যাচ্ছে যে, যাকাতকে কেবলমাত্র অর্থনৈতিক বিবেচনায় সকল প্রকার ব্যবস্থাপনা তৈরি হয়েছে, অর্থাৎ সামাজিক দিকটি সম্পূর্ণভাবেই প্রত্যাখ্যান করা হয়েছে। আরো দেখা যায় যে, কিছু কিছু দেশ সরকারি ভাবে এই যাকাত আদায় করে এবং ব্যয় করা হয় পবিত্র কুরআনের অন-অনুমোদিত উপায়। উপরন্ত, বর্তমান মুসলিম বিশ্বে মাযহাবের দ্বন্ধে যুদ্ধের মত ধ্বংসাত্মক পথে জড়িত হয়ে গেলেও, যাকাতের ব্যাপারে এক মাযহাবের অনুসারী। এখানে উল্লেখ যে পবিত্র কুরআনের ফসল কাটার নীতি ও খুমুস (যা হচ্ছে লভ্যাংশের ১/৫) নীতি যাকাত গ্রহণকারী শ্রেণী চিহ্নিত করা হলেও, বাস্তবে যাকাত বা ভিন্ন কোন উপায়ে ঐ শ্রেণীর মধ্যে এই ধরণের কোন বন্টনের ব্যবস্থাও নেই। মূলত একাদশ শতাব্দী মতান্তরে অষ্টাদশ শতাব্দীর সংকলিত বিভিন্ন লাহওয়াল হাদিস থেকে যাকাতের বিধিবিধান প্রণয়ন করা হয়েছে। প্ৰচলিত চতুর্থ ও পঞ্চম স্তম্ভকে একই সাথে চতুর্থ অধ্যায়: হজ্জ্ব ও সিয়াম (রোজা): পবিত্র কুরআনের আলোকে এই শিরোনামে আলোচনা করা হয়েছে। পবিত্র কুরআন অনুযায়ী উভয় ক্ষেত্রে নির্ভরশীল চাঁদের উপর অর্থাৎ আল্লাহর নির্দেশিত দিন, মাস, ও বছর গণনা পদ্ধতির উপর কিন্তু বাস্তবে তার কোন অস্তিত্ত্ব নেই। ইসলামী বর্ষপঞ্চিটি সম্পূর্ণ আবেগতাড়িত যার সাথে পবিত্র কুরআনের কোন ধরণের সম্পৃক্ততা নেই। পবিত্র কুরআনে স্পষ্ট হজ্জের মাস সমূহের কথা উল্লেখ থাকলেও তা বাস্তবে নেই। হজ্জের সাথে সম্পৃক্ত সকল বিষয়গুলিকে বিভ্রান্তিকর অনুবাদ ও ব্যাখ্যা করা হয়েছে। ফলে হজ্জের মূলনীতি এবং উদ্দেশ্যকে অংকুরে-ই বিনষ্ট করেছে। পবিত্র কুরআন হজ্জ্বকে কোথাও কেবলমাত্র মুসলিমদের জন্য সীমাবদ্ধ রাখেন নাই বরং পৃথিবীর সকল মানুষকে আহ্ববানে করা হয়েছে। তাই হজ্জ্বকে মুসলিমদের জন্য ফরজ ইবাদত বলে একটি স্তম্ভ হিসাবে দাঁড় করিয়ে দেয়া পবিত্র কুরআন সম্পর্কে অজ্ঞতা ছাড়া আর কিছু নয়। সিয়াম (রোজা) যে হিসাবে মাসকে গণনা করা হয় তা বিভ্রান্তিকর এবং ইফতার ও সেহরির সময় সম্পর্কে লাহওয়াল হাদিস থেকে যে মতবাদ নেয়া হয়েছে তা সম্পূর্ণ পবিত্র কুরআন পরিপন্থী। পরিশেষে যে কথাটি দিয়ে শেষ করব তা হচ্ছে ইসলাম কোন পঞ্চ স্তম্ভের উপর নির্ভরশীল নয়। ইসলামের কেবলমাত্র একটি স্তম্ভ তা হচ্ছে পবিত্র কুরআন। মহান আল্লাহ পবিত্র কুরআনকে বিশ্বের সকল মানুষের জন্য পাঠ্য বই হিসাবে রচনা করে দিয়েছেন। অনেকবার আল্লাহ বলেছেন যারা জানে আর যারা জানে না তারা সমান নয়। অনেক আয়াতে বলেছেন যেখানে জ্ঞানীদের জন্য রয়েছে চিন্তার বিষয়। অর্থাৎ মহান আল্লাহ সকল মানুষকে একরকম মেধা শক্তি দেন নাই। তাই একজন কম মেধার মানুষকে প্রথমেই বলে দিলেন ঈমান আনার জন্য। এখন ঈমান অধ্যায় দেখলাম ঈমান রাখতে হলে ৫১টি চলক মেনে চলতে হবে। আর এই ৫১টি চলকের রয়েছে নিজস্ব চলক সমূহ, যেমন ঈমানদারকে সালাত কায়েম করতে হবে আর সালাতের পেয়েছি ৯৫টি চলক। বাকি ৫০টির সাথে এভাবেই চক্রটি গড়ে উঠে। আর এভাবেই একজন ঈমানদার পবিত্র কুরআনের একটি শব্দের বাইরে যেতে পারবেন না। তাই সম্পূর্ণ পবিত্র কুরআন হচ্ছে একটি মাত্র স্তম্ভ।",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4389560445",
+    "title": "বলদশর পরবরক সহসত আইন বসতবয়ন নতবচক পরতকরয় (বযকলযশ) পরতরধ",
+    "authors": [
+      "Maheen Sultan",
+      "Pragyna Mahpara"
+    ],
+    "year": 2023,
+    "language": "bn",
+    "abstract": "নারী ও শিশু নির্যাতন দমন আইন এবং পারিবারিক সহিংসতা (প্রতিরোধ ও সুরক্ষা) আইন ২০১০- এর মতো আইন থাকা সত্ত্বেও বাংলাদেশে পারিবারিক সহিংসতার হার অনেক বেশি। বাংলাদেশ পরিসংখ্যান ব্যুরোর তথ্য অনুযায়ী, প্রতি পাঁচজন নারীর মধ্যে প্রায় তিনজন (৫৭.৭%) তাদের জীবদ্দশায় কোনো না কোনো ধরনের শারীরিক, যৌন বা মানসিক সহিংসতার শিকার হয়েছেন। মহিলা ও শিশু বিষয়ক মন্ত্রনালয়ের প্রস্তাবনায় এবং সিটিজেনস ইনিশিয়েটিভ এগেইনস্ট ডোমেস্টিক ভায়োলেন্স (CIDV) নামে পরিচিত পারিবারিক সহিংসতা রোধে তৈরি জোটের সমর্থনে ২০১০ সালে উক্ত আইন প্রণয়ন এবং কার্যকর করা সরকারের জন্য একটি বিশেষ অর্জন ছিল। কিন্তু পরবর্তীকালে আইনটি বাস্তবায়নের ক্ষেত্রে অর্জন কম ছিল। সুইডিশ সরকারের সহায়তায় ও সুইডিশ ইন্টারন্যাশনাল ডেভেলপমেন্ট কো-অপারেশন এজেন্সি (SIDA) প্রোগ্রাম এর অর্থায়নে এবং ইনস্টিটিউট অফ ডেভেলপমেন্ট স্টাডিজের (IDS) আয়োজনে “Countering Backlash: Reclaiming Gender Justice” প্রোগ্রামের অংশ হিসেবে ২০২২ সালে ব্র্যাক ইনস্টিটিউট অফ গভর্নেন্স এন্ড ডেভেলপমেন্ট (BIGD) ব্র্যাক ইউনিভার্সিটি দ্বারা পরিচালিত গবেষণার উপর ভিত্তি করে লিখিত এই পলিসি ব্রিফিং এ গবেষণা পদ্ধতি, ফলাফল, মূল বার্তা এবং সুপারিশমালা তুলে ধরা হয়েছে।",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4390479296",
+    "title": "বশ শতকর নরবচত কবর কবতয় নরর নজসব ভষর বহমতরকত",
+    "authors": [
+      "সহেলী সামন্ত"
+    ],
+    "year": 2022,
+    "language": "bn",
+    "abstract": "সমাজে নারীর অবস্থান, তার নিজস্ব জগৎ তৈরি করে, তৈরি করে তার নিজস্ব ভাষা (Women's Dialect)। পুরুষের চোখে নারীর কল্পনা নয়, নিজের ভাষায় নারীর নিজের বক্তব্য তুলে ধরার পর্ব শুরু হয়েছে। সেই ভাষা একটি নতুন পথ নির্মাণ করেছে। এই ভাষায় যেমন নারীর নিজস্ব অভিজ্ঞতা, বঞ্চনার কথা ব্যক্ত হয় তেমন বিচিত্র অভিমুখও চিত্রিত হয়। Laura Mulvey 1975 সালে 'Male Gaze Theory'র কথা বলেন। বাংলা কবিতায় এই Theory ভাঙার পর্ব শুরু হয়ে গিয়েছিল বহু আগেই। এই প্রবন্ধে বিশ শতকের নির্বাচিত চারজন কবি কবিতা সিংহ, নবনীতা দেবসেন, কেতকী কুশারী ডাইসন ও গীতা চট্টোপাধ্যায়ের কবিতার ভাব ও ভাষা দ্বারা, নারীর নিজস্ব ভাষার বিচিত্র স্বরূপ তুলে ধরা হয়েছে। কবিতা সিংহের কবিতার ভাষা তীক্ষè ক্ষুরধার, নবনীতা দেবসেনের কবিতাভাষা সংহত, কেতকী কুশারীর কবিতাভাষা আপাত সরল কিন্তু তীব্র অনুভূতিতে ঋদ্ধ, গীতা চট্টোপাধ্যায়ের কবিতাভাষা সংস্কৃতঘেঁষা প্রজ্ঞা ও মননের দীপ্তিতে উজ্জ্বল। নারীর নিজের ভাষা সমৃদ্ধ ও শক্তিশালী। বর্তমান প্রবন্ধে নির্বাচিত কবির কবিতাভাষা ও ভাবনার মধ্য দিয়ে নারীভাষার বহুমাত্রিক স্বরূপকে তুলে ধরা হয়েছে।",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4391383658",
+    "title": "শতবরষ নজরলর অগন-বণ: কবতয সগতকত [Nazrul’s Agni-Veena in Centenary: Musicality in Poetry]",
+    "authors": [
+      "সাইম রানা"
+    ],
+    "year": 2024,
+    "language": "bn",
+    "abstract": "সারসংক্ষেপ: কাজী নজরুল ইসলামের প্রথম প্রকাশিত গ্রন্থ অগ্নি-বীণা (১৯২২) একটি কাব্যগ্রন্থ হলেও এতে সংগীতসহ নানা নিদর্শনের বৈশিষ্ট্য রয়েছে। সেসূত্রে সাংগীতিক পদ্ধতিতে বিশ্লেষণ করার মাধ্যমে এই গ্রন্থ সম্পর্কে নতুন কিছু দিক উন্মোচনের চেষ্টা করা হয়েছে। সাংগীতিক পদ্ধতির নমুনায়ন হলো আধুনিক সংগীততত্ত্বের ভাষা ও তার উপাদান এবং তা নিয়ে অন্য শিল্পের সাথে অভিযোজন প্রক্রিয়া। সাহিত্যের অলংকারতত্ত্বের কিছু উপাদানও এই প্রক্রিয়ার সহগামী, যেমন ধ্বন্যাত্মক শব্দ, নাট্য ও সংলাপময়তা, আকর ও উদ্দীপিত সংগীত ও তার বাদ্যানুষঙ্গ, এমনকি মিথ। কবিতার সাথে আবৃত্তি ও সুরের দ্বান্দ্বিক দিক আলোচনা এবং ছন্দ-অলংকারের বিষয়ের নতুন কিছু প্রশ্নের অবতারণা করা হয়েছে। অগ্নি-বীণা একটি লিখিত শিল্প হলেও আধুনিক পরিবেশনা শিল্পেরও এক উজ্জ্বল দৃষ্টান্ত সেই দিকটির বিশ্লেষণও এই প্রবন্ধে উপস্থাপিত হয়েছে।",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4398282147",
+    "title": "tfidf.RData",
+    "authors": [
+      "Roman Senninger"
+    ],
+    "year": 2020,
+    "language": "bn",
+    "abstract": ":unav",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4398364610",
+    "title": "515863261 ioArNAdbG 11517478_0_VarLen_Wave500Hz_Pleth.txt",
+    "authors": [
+      "Yu-Ting Lin"
+    ],
+    "year": 2018,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4398555485",
+    "title": "CATS_59_.tab",
+    "authors": [
+      "Connor Jerzak",
+      "Anton Strezhnev",
+      "Gary King"
+    ],
+    "year": 2019,
+    "language": "bn",
+    "abstract": ":unav",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4398888370",
+    "title": "wic.tab",
+    "authors": [
+      "Nathaniel Hendren"
+    ],
+    "year": 2019,
+    "language": "bn",
+    "abstract": ":unav",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4398930069",
+    "title": "wic.tab",
+    "authors": [
+      "Nathaniel Hendren",
+      "Ben Sprung-Keyser"
+    ],
+    "year": 2020,
+    "language": "bn",
+    "abstract": ":unav",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4398961721",
+    "title": "cfa_sec2017__2fac.inp",
+    "authors": [
+      "Geoffrey C. Layman"
+    ],
+    "year": 2020,
+    "language": "bn",
+    "abstract": ":unav",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4399515362",
+    "title": "সমপদকয়|Editorial",
+    "authors": [
+      "Muhammad Abdul Mabud"
+    ],
+    "year": 2024,
+    "language": "bn",
+    "abstract": "[সম্পাদকীয়] আলহামদুলিল্লাহ। মহান আল্লাহর অশেষ মেহেরবাণীতে ইসলামী আইন ও বিচার জার্নালের ৭৭ তম সংখ্যা প্রকাশিত হলো। এবারের সংখ্যায় সমসাময়িক ফিকহী বিষয়ের উপর পাঁচটি প্রবন্ধ প্রকাশিত হয়েছে। শুরুতেই রয়েছে “অমুসলিম দেশে মুসলিমদের জাতীয়তা ও নাগরিকত্ব গ্রহণ: একটি ফিকহী পর্যালোচনা” শীর্ষক প্রবন্ধ। উক্ত প্রবন্ধে মুসলিম কর্তৃক অমুসলিম রাষ্ট্রে জাতীয়তা ও নাগরিকত্ব গ্রহণের বিভিন্ন কারণ ও বাস্তবতা উপস্থাপন করা হয়েছে। আধুনিক সময়ে বিশ্বায়নের প্রভাব ও জাতিরাষ্ট্রের বাস্তবতায় এ বিষয়টি খুবই সাধারণ ঘটনায় পরিণত হয়েছে। সাধারণত বিভিন্ন পার্থিব সুযোগ-সুবিধা লাভ ও রাজনৈতিক কারণ এ ক্ষেত্রে গুরুত্বপূর্ণ প্রভাবক হিসেবে কাজ করে। প্রবন্ধ পাঠের মাধ্যমে পাঠক অমুসলিম দেশে নাগরিকত্ব গ্রহণ ও স্থায়ীভাবে বসবাসের ক্ষেত্রে শরয়ী নির্দেশনা, এবং ক্লাসিক ও আধুনিক বিশেষজ্ঞ ফকীহগণের অভিমত এবং তাঁদের সিদ্ধান্ত গ্রহণ প্রক্রিয়ার বিভিন্ন দিক সম্পর্কে অবহিত হবেন। একবিংশ শতাব্দীতে প্রযুক্তির অগ্রগতির সাথে সাথে মানুষের লেনদেনে বিভিন্ন পরিবর্তন সংঘটিত হয়েছে। “আধুনিক আর্থিক লেনদেনে ক্রিপ্টোকারেন্সির আইনসিদ্ধতা: ইসলামী আইনে এর প্রাসঙ্গিকতা ও প্রযোজ্যতা নিরূপণ” শীর্ষক প্রবন্ধে অনলাইন প্রযুক্তির বদৌলতে প্রচলিত মুদ্রাব্যবস্থার উপর ক্রিপ্টোকারেন্সির ক্রমশঃবিস্তৃত প্রভাব সম্পর্কে আলোকপাত করা হয়েছে। বিগত দশকগুলোতে ক্রিপ্টোকারেন্সির বিষয়টি বিশেষজ্ঞ ফকীহদের দৃষ্টি আকর্ষণে সমর্থ হয়েছে, ফলে তাঁরা বিভিন্ন আঙ্গিকে ক্রিপ্টোকারেন্সির শরয়ী হুকুম নির্ণয়ে প্রয়াস পেয়েছেন। প্রবন্ধ পাঠের মাধ্যমে ক্রিপ্টোকারেন্সি সম্পর্কে আধুনিক ফকীহদের চিন্তাবৈচিত্র্য সম্পর্কে জানা যাবে। “ইসলাম ও প্রচলিত আইনে খনিজ সম্পদের ব্যবহার নীতি: একটি তুলনামূলক পর্যালোচনা” শীর্ষক প্রবন্ধে প্রাকৃতিক সম্পদ হিসেবে খনিজ সম্পদের তাৎপর্যপূর্ণ ভূমিকা ও অবদান সম্পর্কে আলোচনা উপস্থাপন করা হয়েছে। মানুষ আর্থ-সামাজিক প্রয়োজনেই খনিজ সম্পদ ব্যবহারে সচেষ্ট হয়। আল্লাহ প্রদত্ত এই নিয়ামতকে আমানত হিসেবে সংরক্ষণ ও যথাযথ ব্যবহার করার মাধ্যমেই অর্থনৈতিক সমৃদ্ধি অর্জন করা সম্ভব। প্রবন্ধের মাধ্যমে পাঠক দেশের সার্বিক উন্নয়নে ইসলামী দিকনির্দেশনা অনুযায়ী খনিজ সম্পদের ইনসাফপূর্ণ বণ্টন, আহরণ ও ব্যবহারের গুরুত্ব সম্পর্কে জানতে পারবেন। অন্যের প্রতি সম্মান ও সহমর্মিতা ওপর ভিত্তি করে একটি সুন্দর ও শান্তিপূর্ণ সমাজ গড়ে ওঠে। “শান্তিপূর্ণ সমাজ গঠনে ইহসান-এর চর্চাঃ ইসলামের আলোকে একটি পর্যালোচনা” শীর্ষক প্রবন্ধে কুরআন-হাদীসের নির্দেশনা উল্লেখের মাধ্যমে সমাজের প্রতিটি স্তরে ইহসানের প্রয়োজন ও গুরুত্বের বিষয়টি উপস্থাপন করা হয়েছে। প্রবন্ধ পাঠের মাধ্যমে পাঠক নিজ থেকে শুরু করে সমাজের অন্যান্য সদস্যদের প্রতি ইহসান করতে উদ্বুদ্ধ হবেন বলে আশা করা যায়। আমরা বর্তমানে একটি বৈশ্বিক ক্রান্তিকাল অতিক্রম করছি। মানুষ হিসেবে প্রাপ্য শারীরিক, মানসিক, সামাজিক ও অর্থনৈতিক অধিকারসমূহ আমাদের চোখের সামনেই প্রতিনিয়ত লুন্ঠিত হচ্ছে। এই যুগ-সন্ধিক্ষণে প্রচলিত মানবাধিকারের বিভিন্ন বিষয় নিয়ে নতুন করে চিন্তা ভাবনা করা দরকার। “মানবাধিকারের সর্বজনীন নীতি ও ইসলামের মানবাধিকার নীতি : একটি বিশ্লেষণ” শীর্ষক প্রবন্ধে মানবাধিকারের ইসলামী দৃষ্টিভঙ্গীর পাশাপাশি জাতিসংঘ ঘোষিত সর্বজনীন মানবাধিকার নীতিমালার বিভিন্ন বিষয়ের পর্যালোচনা উপস্থাপন করা হয়েছে। প্রবন্ধের মাধ্যমে পাঠক অবগত হবেন যে, ইসলামী মূল্যবোধের ওপর ভিত্তি করে যে মানবাধিকার প্রতিষ্ঠিত, তার মাধ্যমেই মানুষের জীবন, স¤পদ, সম্মান, সামাজিক ও অর্থনৈতিক নিরাপত্তা নিশ্চিত হতে পারে এবং সত্যিকার অর্থেই বৈশ্বিক শান্তি ও নিরাপত্তা প্রতিষ্ঠা হতে পারে। ইসলামী আইন ও বিচার জার্নালের ৭৭ তম সংখ্যায় প্রকাশিত প্রবন্ধগুলো অত্যন্ত সময়োপযোগী ও গুরুত্বপূর্ণ। আশা করি প্রবন্ধগুলো থেকে সর্বস্তরের পাঠকগণ সমৃদ্ধ হবেন এবং বরাবরের ন্যায় এবারের সংখ্যাটিও সকলের কাছে আদৃত হবে। মহান আল্লাহ এ প্রচেষ্টাকে কবুল করুন।",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4400521977",
+    "title": "&lt;i&gt;পযর আওযজ পওয যয&lt;/i&gt; : পরনতজনর মকতযদধ-দরশন",
+    "authors": [
+      "খন্দকার ফারহানা রহমান খন্দকার ফারহানা রহমান"
+    ],
+    "year": 2019,
+    "language": "bn",
+    "abstract": "বাংলাদেশের নাট্যসাহিত্যে সৈয়দ শামসুল হক নিরীক্ষাসফল নাট্যকার। তাঁর পায়ের আওয়াজ পাওয়া যায় নাটকটি বাংলার গ্রামীণ প্রান্তিক জনগোষ্ঠীর মুক্তিযুদ্ধভাবনার শিল্পরূপ। মুক্তিবাহিনী বা পাকিস্তানি বাহিনীর শরীরী উপস্থিতি না থাকলেও মুক্তিযুদ্ধের চেতনাকে সর্বাংশে ধারণ করে এই নাটক চিরায়ত শোষণমুক্তির আকাঙ্ক্ষায় পরিব্যাপ্ত। বাঙালির জাতীয় জীবনের মহত্তম ঘটনা মুক্তিযুদ্ধ এদেশের প্রান্তিক জনমানুষের মধ্যে কীভাবে সঞ্চারিত হয়েছিল, এই নাটক তার একটি শিল্পভাষ্য। আলোচ্য প্রবন্ধে কেন্দ্রীয় রাজনীতি থেকে বহুদূরে থাকা প্রান্তবর্তী মানুষের জীবনে মুক্তিযুদ্ধের অভিঘাতের স্বরূপ উদ্ঘাটনের চেষ্টা করা হয়েছে।",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4400541942",
+    "title": "বল যগক শবদর রপনরমণ কশল",
+    "authors": [
+      "সাইফিন রুবাইয়াত সাইফিন রুবাইয়াত"
+    ],
+    "year": 2018,
+    "language": "bn",
+    "abstract": "ভাষার শব্দ গঠনের একটি প্রক্রিয়া যৌগিকীকরণ (Compounding )। সাধারণত দুটি শব্দ কিংবা শব্দরূপ (Word Form) একত্রে মিলে নতুন একটি শব্দগঠনের প্রক্রিয়াকেই বলা হয় যৌগিকীকরণ আর যৌগিকীকরণ প্রক্রিয়ায় গঠিত শব্দটি হলো যৌগিক শব্দ। তবে দুয়ের অধিক শব্দ মিলেও যৌগিক শব্দ গঠিত হতে পারে এবং যৌগিক শব্দ সীমিত অর্থে কেবল 'শব্দ' নয়, কখনো বাক্যে একটি বর্গের ন্যায় ভূমিকা পালন করে। বাংলা ভাষার প্রথাগত ব্যাকরণ গ্রন্থসমূহে বর্ণিত 'সমাস'ই হলো যৌগিকীকরণ। প্রথাগত ব্যাকরণগ্রন্থে উপস্থাপিত সমাসের বর্ণনা সংস্কৃত ব্যাকরণের 'সমাস' দ্বারা অনুপ্রাণিত এবং তৎসম শ্রেণিনামের বাহুল্যে ভারাক্রান্ত। বস্তুত যৌগিকীকরণ শব্দগঠনের একটি অত্যন্ত গুরুত্বপূর্ণ প্রক্রিয়া। কারণ শব্দগঠনের অন্যান্য প্রক্রিয়াসমূহের মধ্যে যৌগিকীকরণ সবচেয়ে সৃজনশীল একটি ক্ষেত্র। আর তাই 'যৌগিকীকরণ\" আধুনিক ভাষাবৈজ্ঞানিক তত্ত্বের দ্বারা বিশ্লেষণের দাবিদার। এ দৃষ্টিকোণ থেকে রূপতত্ত্বের অন্যতম প্রধান ধারা অখণ্ড রূপতত্ত্বের (Whole Word Morphology ) মডেলের সাহায্যে বাংলা যৌগিক শব্দের সংগঠন বিশ্লেষণই বর্তমান প্রবন্ধের উপজীব্য।",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4401263464",
+    "title": "ভপতনগরর ধরময় ভবন সথপতয ও সসকতক বনরমণর আনতসমপরক&amp;nbsp; (&lt;span&gt;Religious Thought in Bhapati Nagar: Interrelationships in Architectural and Cultural Architecture)&lt;/span&gt;",
+    "authors": [
+      "Sanjib Patra"
+    ],
+    "year": 2024,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4401517538",
+    "title": "বল বযকরণ পরসঙগ রবনদরনথ : তৎপরয ও পরসঙগকত",
+    "authors": [
+      "মোহাম্মদ আজম"
+    ],
+    "year": 2014,
+    "language": "bn",
+    "abstract": "বাংলা ব্যাকরণের যে ছাঁচটি গত প্রায় দুশো বছর ধরে চর্চিত হচ্ছে, তার সূচনা হয়েছিল ঔপনিবেশিক শাসনের প্রত্যক্ষ তত্ত্বাবধানে। ফারসি ও ইংরেজির মাঝে রাষ্ট্রভাষা হিসাবে বাংলা চালুর একটা চিন্তাভাবনা শাসকপক্ষ করেছিল। কিন্তু বিদেশিদের জন্য সুবিধাজনক ‘প্রমিত' রূপ বাংলার ছিল না। বাংলার ঔপভাষিক বৈচিত্র্য স্বভাবতই তাঁদের কাছে বিব্রতকর ছিল। এমতাবস্থায় সংস্কৃতের ছাঁচে বাংলা ভাষার একটা মান্যরূপ তৈরির প্রকল্প বিদেশি শাসকদের জন্য প্রয়োজনীয় হয়ে উঠেছিল। হ্যালহেডের বাংলা ব্যাকরণ সেই প্রয়োজনীয়তারই বাস্তবায়ন । হ্যালহেডই তাঁর ক্লাসিক-নির্ভরতা আর ভাষাতাত্ত্বিক দক্ষতায় এই পথের দিশা দিয়েছিলেন। মোহাম্মদ আবদুল কাইউম (Qayyum 1982 : 71) বহু সাক্ষ্যপ্রমাণযোগে দেখিয়েছেন, বাংলা ভাষায় হ্যালহেডের দখল ছিল অতি সীমিত। তাঁর পক্ষে বাংলা ব্যাকরণ লিখে ফেলা সম্ভব ছিল কেবল ধ্রুপদী সংস্কৃতের ছাঁচে ফেলে।' তিনি চেয়েছিলেন, বাংলাকে ‘সরল' ও 'বিশুদ্ধ' করতে। একজন বিভাষীর জন্য এই সারল্য দরকার। কিছু সরল ধাতু শিখে তাদের বিচিত্র ব্যবহার দ্বারা মনের ভাব প্রকাশের উপযোগী করে একটি বিদেশি ভাষা আয়ত্ত করার চিন্তায় হ্যালহেডের সায় থাকাই স্বাভাবিক। কিন্তু কথ্য বাংলায় কোনো দখল না থাকায় এবং ব্রাহ্মণ পণ্ডিতের উপর পুরোপুরি নির্ভরশীল থাকায় বাংলার বৈশিষ্ট্য ব্যাখ্যার ক্ষেত্রে তিনি এমনসব ভুল করেছেন, যা বাংলার সঙ্গে পরিচিত কোনো বিশ্লেষক করবেন না ( Qayyum 1982 99-102 )। তাঁর পুস্তকে প্রচলিত ভাষা থেকে সংগৃহীত কোনো উদাহরণ ব্যবহৃত হয়নি। তিনি উদাহরণ সংগ্রহ করেছেন পুরোনো কবিতা থেকে। ফলে তিনি কর্ম-ক্রিয়া-কর্তা এই ক্রমে বাংলা বাক্য গঠিত হয়, এমন ভুল সিদ্ধান্তে পৌঁছেছেন। এ ব্যাকরণে 'নিঃশ্বাস' শব্দের উচ্চারণ লেখা হয়েছে 'niswas', যা বাংলা উচ্চারণ ও ধ্বনির সঙ্গে সংগতিপূর্ণ নয়। ই/ঈ, উ/ঊ, স/ষ/শ, জ/য ইত্যাদি যত ক্ষেত্রে বাংলার ধ্বনিতাত্ত্বিক পরিবর্তন সংস্কৃত থেকে বাংলাকে আলাদা করেছে, তার সবক্ষেত্রেই এই ব্যাকরণ সংস্কৃত উচ্চারণকেই বাংলা উচ্চারণ বলে উল্লেখ করেছে। শুধু তাই নয় । শব্দগত যেসব উপাদানের সঙ্গে সংস্কৃতের যোগ পাওয়া যায়নি সেগুলোকে বাংলা থেকে বাতিলও করে দিয়েছেন তিনি। নিজের ব্যবহারের জন্য বানানো ফারসি-বাংলা শব্দকোষে হ্যালহেড ১৫০টি ক্রিয়াপদ সংগ্রহ করেছিলেন। এর মধ্যে মাত্র ৩২টি স্থান পেয়েছে তাঁর ব্যাকরণে। সন্দেহ নেই, সংস্কৃতের সঙ্গে সম্পর্ক না থাকায় এই বিপুলসংখ্যক ক্রিয়াপদ পরিত্যক্ত হয়েছে ।",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4401661671",
+    "title": "On Existence",
+    "authors": [],
+    "year": 2010,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4401687607",
+    "title": "Reply on EC2",
+    "authors": [
+      "M. Belén Muñoz-Medina"
+    ],
+    "year": 2024,
+    "language": "bn",
+    "abstract": "<strong class=\"journal-contentHeaderColor\">Abstract.</strong> The founder of Soil Mechanics, Karl Terzaghi, took the initiative in 1954 to contact the Danish Engineer Laurits Bjerrum to meet him. Terzaghi wanted to meet the engineer who had written a paper on the stability of the unusual Norwegian quick clays at the European Slope Congress in Stockholm. Bjerrum was 36 years old at the time, had a PhD and was already director of the NGI (Norges Geotekniske Institutt &ndash; Norwegian Geotechnical Institute). From his position as director of the NGI, he was actively involved in many varied consultancies, placing great value on the continuous interaction between practice and research. Bjerrum's strategy for establishing the NGI came from the experience of other research centres such as the BRS (Building Research Station) in Great Britain and Imperial College London. In addition, having lived through the Nazi occupation of Denmark, he was predisposed against the misuse of authority and established an open structure for the Institute from its inception. Bjerrum was in close contact with the Norwegian Institution of Technology, and in 1952, he succeeded in getting Soil Mechanics incorporated as a compulsory subject in the civil engineering degree. Subsequently, in 1960, the Chair of Soil Mechanics and Foundation Engineering were established. The first laboratory of this chair was equipped with material donated by the NGI. Bjerrum died young (54 years old) but he had built an excellent reputation through his work at the NGI and his contributions to the International Congresses, where he maintained a close relationship with the significant figures in geotechnics: Terzaghi, Skempton, Peck and Casagrande. He made regular trips to the USA, where he was a visiting professor at M.I.T. (Massachusetts Institute of Technology) and received the highest international decorations.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4401767823",
+    "title": "সনধ সবরপ : পরসঙগ বল ভষ",
+    "authors": [
+      "সাইফিন রুবাইয়াত"
+    ],
+    "year": 2013,
+    "language": "bn",
+    "abstract": "বাংলা ভাষার স্কুলপাঠ্য ব্যাকরণের আবশ্যিক বিষয় সন্ধি; এবং এই সন্ধির আলোচনা কখনো ধ্বনিতত্ত্ব, আবার কখনো শব্দ প্রকরণ অংশে উপস্থাপিত হয়ে থাকে। বাংলা ভাষার আদি ব্যাকরণ নাথানিয়েল ব্রাসি হ্যালহেড প্রণীত A Grammar of the Bengal Language-এ সন্ধির প্রসঙ্গ না থাকলেও তাঁর পরবর্তী সকল ব্যাকরণ গ্রন্থেই সন্ধির প্রসঙ্গ এসেছে। বাংলা ভাষার ব্যাকরণ পর্যালোচনায় সন্ধির প্রথম বিশদ বর্ণনা দেখতে পাই উইলিয়াম কেরি রচিত বাংলা ভাষার ব্যাকরণ গ্রন্থে। ঊনবিংশ শতাব্দীতে রচিত তাঁর A Grammar of the Bengalee Language এবং ভাষাকথাক্রম উভয় গ্রন্থেই সন্ধি গুরুত্বের সঙ্গে আলোচিত হয়েছে। ইংরেজি ভাষায় রচিত কেরির ব্যাকরণের প্রথম সংস্করণের ‘Letters' অধ্যায়ে তিনি সন্ধির আলোচনা করেছেন। লক্ষণীয়, কেরি তাঁর ব্যাকরণের তৃতীয় সংস্করণে সন্ধি বিষয়ে একটি স্বতন্ত্র অধ্যায় প্রণয়ন করেছেন। কারণ দ্বিতীয় সংস্করণের সময় থেকেই তিনি ক্রমশ সংস্কৃত ভাষার বিধি এবং রীতির পক্ষপাতী হয়ে পড়েছিলেন। বাংলা ভাষার ব্যাকরণে সন্ধির প্রাসঙ্গিকতা মূল্যায়নের প্রথম প্রয়াস দেখা যায় জি. সি. হটনের রচনায়। তাঁর মতে সন্ধির মতো 'unnecessary difficulties' বাংলা ভাষার প্রথম শিক্ষার্থীর জন্য অতটা প্রাসঙ্গিক নয় আর সে কারণেই তাঁর ব্যাকরণ গ্রন্থে সন্ধি সবশেষে উত্থাপিত হয়েছে। সন্ধি প্রসঙ্গে রাজা রামমোহন রায়ের মূল্যায়ন বিশেষভাবে প্রণিধানযোগ্য। তাঁর কালে এবং তাঁর পরবর্তী প্রায় দুইশত বছরের প্রচলন অনুযায়ী ব্যাকরণের আবশ্যিক বিষয় সন্ধি। তিনিই প্রথম ঘোষণা করলেন, সন্ধি 'সংস্কৃত ব্যাকরণের বিষয়-বস্তু এবং বাংলার ‘প্রকৃতিবিরুদ্ধ'। তাঁর মতে, বাংলা ভাষায় যেসকল সন্ধিবদ্ধ শব্দ আছে সেগুলি সন্ধিবদ্ধ অবস্থাতেই সংস্কৃত থেকে গৃহীত। সে কারণেই রাজা রামমোহন রায় সন্ধি সম্পর্কে আগ্রহী পাঠককে সংস্কৃত ব্যাকরণ পাঠ করবার পরামর্শ দিয়েছেন। কিন্তু রাজা রামমোহন রায়ের এ ঘোষণার দুই শতাব্দী পরেও ব্যাকরণিক ক্যাটেগরি হিসেবে বাংলা ব্যাকরণে সন্ধির অবস্থান মূল্যায়ন অপ্রাসঙ্গিক নয়। কারণ এ দুই শতাব্দী ধরে সন্ধি স্কুলপাঠ্য প্রথাগত ব্যাকরণের আবশ্যিক হিসেবে উপস্থাপিত হয়ে এসেছে; কিন্তু সন্ধি বিষয়ে প্রথাগত ব্যাকরণের দৃষ্টিভঙ্গি রয়েছে অপরিবর্তিত। এর কারণ হিসেবে দুটি বিষয় উল্লেখ করা যায়; প্রথমত, সন্ধি মূলত সংস্কৃত ভাষার ব্যাকরণিক প্রকরণ। এক্ষেত্রে মনে রাখতে হবে, বাংলা ব্যাকরণের আদি পুরুষেরা বাংলা ভাষার ব্যাকরণ রচনা করতে গিয়ে লাতিন, ইংরেজি কিংবা সংস্কৃত ব্যাকরণের প্রকরণ বা ক্যাটেগরি আবিষ্কারের চেষ্টা করেছেন, এবং সে সকল প্রকরণ প্রয়োগ করেছেন বাংলা ভাষার সংগঠন পর্যালোচনায়। দ্বিতীয়ত, ভাষায় সন্ধির ভূমিকা ধ্বনিতাত্ত্বিক নাকি রূপতাত্ত্বিক ব্যাকরণে এ নিয়ে রয়েছে দ্বিধা। সুতরাং বাংলা ভাষাতত্ত্বে সন্ধির অবস্থান বিষয়ক প্রশ্নের সমাধানের জন্য সন্ধি ভাষায় কী ভূমিকা পালন করে তা জানা প্রয়োজন।",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4401877349",
+    "title": "Reply on EC2",
+    "authors": [
+      "Andrew L. Gorin"
+    ],
+    "year": 2024,
+    "language": "bn",
+    "abstract": "<strong class=\"journal-contentHeaderColor\">Abstract.</strong> The Multiple-Diffusion Domain (MDD) model empirically describes the diffusive behavior of noble gases in some terrestrial materials and has been commonly used to interpret <sup>40</sup>Ar/<sup>39</sup>Ar stepwise degassing observations in K-feldspar. When applied in this manner, the MDD model can be used to test crustal exhumation scenarios by identifying the permissible thermal paths a rock sample could have undergone over geological time, assuming the diffusive properties of Ar within the mineral are accurately understood. More generally, the MDD model provides a framework for quantifying the temperature-dependent diffusivity of noble gasses in minerals. However, constraining MDD parameters that successfully predict the results of step-heating diffusion experiments is a complex task and the assumptions made by existing numerical methods used to quantify model parameters can bias the absolute temperatures permitted by thermal modeling. For example, the most commonly used method (Lovera et al., 1997) assumes that no domains lose more than 60 % of their gas during early heating steps. This assumption is unverifiable, and we show that Lovera et al.&rsquo;s (1997) procedure may bias predicted temperatures towards lower values when it is violated. To address this potential bias and to provide greater accessibility to the MDD model, we present a new, open-source method for constraining MDD parameters from stepwise degassing experimental results, called the &ldquo;MDD Tool Kit.&rdquo; This software optimizes all MDD parameters simultaneously and removes any need for user-defined <em>E<sub>a</sub></em> or regression-fitting choices used by other tools. In doing so, this new method eliminates assumptions about the domain size distribution. To test the validity of our thermal predictions, we then use the MDD Tool Kit to interpret the <sup>40</sup>Ar/<sup>39</sup>Ar results of Wong et al. (2023) from the Grayback Fault, AZ, USA. Although the resulting thermal histories are consistently ~ 60&ndash;75 &deg;C higher than those found by Wong et al. 2023), they agree with independent observations from apatite fission track, zircon fission track, and (U-Th)/He (Howard and Foster, 1996).",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4401900494",
+    "title": "বল পরবদ : দযততর ভষ-দরশন",
+    "authors": [
+      "সৈয়দ শাহরিয়ার রহমান"
+    ],
+    "year": 2011,
+    "language": "bn",
+    "abstract": "একটি ভাষা সম্প্রদায়ের জীবন-ঘনিষ্ঠ ক্লাসিক উপলব্ধিপুঞ্জকে ঠাস বুনোটে ধারণ করে রাখে প্রবাদ। সাধারণ মানুষের অমিত জীবনার্থের নির্যাস একটি প্রবাদের হয়ে ওঠার মূল প্রাণশক্তি। এ কারণে প্রবাদে যা বলা হয় বা বলতে চাওয়া হয় তার সঙ্গে নিবিড়ভাবে জড়িত হয়ে যায় বাগর্থের ( linguistic meaning) গভীরতর দর্শন। প্রবাদকে যদি একটি নৃগোষ্ঠীর জীবনজাত ভূয়োদর্শনের দ্যোতনা হিসেবে বিবেচনা করা হয়, তবে এর দ্যোতিতরূপী বাগর্থকেও এক বিশেষায়িত দার্শনিক অভিঘাতের মুখোমুখি হতে হয়। ফলে, ওই প্রবাদের অন্তস্তলে লুকিয়ে থাকা ব্যঞ্জনা বহন করে চলে অনিঃশেষ দার্শনিকতা; যাকে বর্তমান প্রবন্ধে সংজ্ঞায়িত করা হবে দ্যোতিতের ভাষা-দর্শনরূপে। ভাষার প্রায়োগিক স্তরে একটি প্রবাদ যে দ্যোতনা সঞ্চার করে তার দ্যোতিত হিসেবে সক্রিয় থাকে প্রবাদটির বাগর্থ। অর্থাৎ, ওই নির্দিষ্ট প্রবাদটির জুৎসই প্রয়োগের মধ্য দিয়ে একজন ভাষা ব্যবহারকারী যা বোঝাতে চায় তা আসলে প্রবাদটির দ্যোতিত রূপ। লক্ষ করলে দেখা যাবে যে, একটি প্রবাদের পদ-কাঠামো কখনো আলংকারিক ভাষায়, কখনো রূপক কিংবা প্রতীকের বর্ণিলতায়, কখনোবা মিথিক সূত্রসন্ধানে যা উপস্থাপন করে তার প্রথম এবং প্রধান অভীষ্ট হলো, বিশেষ কোনো দ্যোতিত-তাৎপর্য প্রদান করা।",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4401900495",
+    "title": "ভষ ও সহতযবষয়ক বল পরভষ: গঠন ও পরয়গ-কঠম",
+    "authors": [
+      "মিথুন ব্যানার্জী"
+    ],
+    "year": 2011,
+    "language": "bn",
+    "abstract": "বৈশ্বিক জ্ঞানচর্চার বিভিন্ন প্রপঞ্চ (phenomenon) ও ধারণাকে (concept) কোনো একটি নির্দিষ্ট ভাষায় সংজ্ঞাপিত করবার সুপ্রচলিত উপায় হলো সংশ্লিষ্ট শব্দসমূহের উপযুক্ততম পরিভাষা প্রণয়ন। কোনো বিষয়ের পরিভাষা বলতে বোঝায় এমন কতগুলো শব্দ যা সংশ্লিষ্ট বিষয়ের সঙ্গে সম্পর্কিত ধারণাসমূহকে সংহত অবয়বে যথার্থ, নির্ভুল ও দ্ব্যর্থহীনভাবে প্রকাশ করে থাকে। বিভিন্ন জ্ঞানশৃঙ্খলায় ব্যবহৃত হয় কিছু 'অভিধা' জাতীয় শব্দ যা ওই শৃঙ্খলা-সংশ্লিষ্ট ধারণাসমূহকে সুস্পষ্ট করে। এরকম চাবিশব্দই (keyword) পরিভাষা হিসেবে পরিচিত। পরিভাষা প্রণয়নের মধ্য দিয়ে নতুন জ্ঞান আয়ত্ত করবার সুযোগ যেমন সৃষ্টি হয় তেমনি এর সূত্র ধরে ভাষারও 'শক্তিবর্ধন' ঘটে থাকে (রাজশেখর বসু; ১৩৪০)। অন্য কথায়, একটি ভাষায় দীর্ঘদিনের জ্ঞানচর্চার ফলে পরিভাষা গড়ে ওঠে। বাংলা ভাষার প্রেক্ষাপটে বলা যায় যে, উনিশ শতক থেকে বাংলা ভাষায় আন্তর্দেশীয় জ্ঞান-বিজ্ঞান চর্চা যত বেশি প্রসার লাভ করেছে তার সঙ্গে সঙ্গে প্রয়োজনীয় পরিভাষা প্রণয়নের বিষয়টিও তত বেশি গুরুত্বপূর্ণ হয়ে উঠেছে। কেননা, স্বতন্ত্র জ্ঞানশাখার জন্য প্রয়োজন হয় স্বতন্ত্র পারিভাষিক শব্দ। আর এ কারণেই উল্লিখিত সময় থেকেই বাংলা পরিভাষা প্রণয়নের জন্য বিভিন্ন উদ্যোগ গৃহীত হয়ে আসছে। বর্তমানেও এই প্রচেষ্টা অব্যাহত রয়েছে। সাধারণভাবে পারিভাষিক শব্দের বৈশিষ্ট্য নির্দেশ করে বলা যায় যে, সংশ্লিষ্ট শব্দটি 'একটি সুনির্দিষ্ট ও অদ্ব্যর্থ তাৎপর্য জ্ঞাপন করে, একাধিক তাৎপর্য কখনোই জ্ঞাপন করে না, এবং কোন বিশেষ তাৎপর্য নির্দেশের জন্য কখনোই ব্যবহৃত হয় না একাধিক শব্দ' (হুমায়ুন আজাদ; ১৯৮৫ ৪৪৭)। কিন্তু বাংলা পরিভাষার ক্ষেত্রে প্রায়শই দেখা যায় যে, একই তাৎপর্য নির্দেশের জন্য রয়েছে একাধিক শব্দ। আবার একই শব্দ দিয়ে নির্দেশিত হয় একাধিক তাৎপর্য। এই বাস্তবতাকে এড়িয়ে যাওয়া সম্ভব নয়। হুমায়ুন আজাদ প্রদত্ত সংজ্ঞার্থের নিরিখে বলা যায় যে, যতক্ষণ পর্যন্ত একটি পারিভাষিক শব্দ 'সুনির্দিষ্ট ও অদ্ব্যর্থ' এবং একক তাৎপর্যে সংজ্ঞাপিত হওয়ার সামর্থ্য অর্জন না করে, সেই সঙ্গে ওই জ্ঞানশৃঙ্খলা-সংশ্লিষ্ট ব্যাপক মানুষের কাছে গ্রহণযোগ্যতা না পায় ততক্ষণ পর্যন্ত ওই শব্দটির একাধিক বিকল্প রূপ তৈরি হতে থাকাই স্বাভাবিক। এই দিকগুলোকে বিবেচনা করে বর্তমান প্রবন্ধে বাংলা ভাষা ও সহিত্যবিষয়ক পরিভাষার গঠন-কৌশল ও এদের প্রয়োগ-কাঠামো নিরূপণ করবার চেষ্টা করা হবে। বিষয়টি আলোচনার জন্য বাংলা পরিভাষার সংক্ষিপ্ত ইতিহাস প্রদান করে ভাষা-পরিকল্পনার (language planning) তত্ত্বীয় নির্দেশনার আলোকে পারিভাষিক শব্দের ব্যবহারিক বহুমাত্রিকতা, এর প্রয়োগতাত্ত্বিক (pragmatic) বিভিন্ন দিকসমূহ তুলে ধরা হবে এবং ভাষা ও সাহিত্যবিষয়ক বাংলা পরিভাষার বিভিন্ন প্রচলিত উদাহরণ বিশ্লেষণ করে দেখানোর পাশাপাশি সিদ্ধান্তে উপনীত হওয়ার চেষ্টা করা হবে।",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4402251073",
+    "title": "ভষ আনদলন এব বশব বলভষ সবধন-সরবভম রষটরর আবরভব The Language Movement and the Emergence of a Bangla-Speaking State in the World",
+    "authors": [],
+    "year": 2024,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4404519162",
+    "title": "Women's activism in science practice in ancient civilization (পরচন সভযতয় বজঞনচরচয় নরর সকরয়ত: একট পরযলচন)",
+    "authors": [
+      "নাজনীন সুলতানা নীতি"
+    ],
+    "year": 2024,
+    "language": "bn",
+    "abstract": "সভ্যতার বিবর্তনে নারী ও পুরুষের অনবদ্য অবদান একই সরলরেখা অনুসরণ করে চলছে, একথা বহুল প্রচলিত ও সর্বজনবিদিত হলেও পুরুষশাসিত বিশ্বে জ্ঞান-বিজ্ঞানের বিভিন্ন শাখায় নারীর সৃষ্টিশীল চিন্তাধারার প্রসঙ্গ অনেকটা যেন আরোপিতভাবেই অবতারণা করতে হয়। অথচ সভ্যতার সূত্রপাত যে কৃষি অর্থনীতির মধ্য দিয়ে হয়েছিল সে অর্থনীতির মূল বুনিয়াদ তৈরি করেছিল এই নারীই। যুগে যুগে বিভিন্ন সভ্যতায় নারী শুধুমাত্র গৃহে পারিবারিক জীবনেই নিজের অপরিহার্য অবস্থান নিয়ে সন্তুষ্ট হয়ে বসে থাকেনি, পিতৃতান্ত্রিক সমাজব্যবস্থায় পুরুষের সকল নিয়ম-শৃঙ্খলা, আধিপত্য ভেঙে সমাজ ও রাজনীতির শীর্ষে যেমনি এসেছে নারী, সৃজনশীল মৌলিক চিন্তাধারার বিকাশেও তার মেধার স¡াক্ষর তেমনি দেদীপ্যমান। দুঃখজনক বিষয় হলো, ইতিহাসের আলোচনায় দীর্ঘদিন ধরে জ্ঞানচর্চায় নারীর মৌলিকত্ব জনসমাজে আলোর মুখ দেখেনি। ফলে সভ্যতার উৎকর্ষ অর্জনের পেছনে মানব সংগ্রামের অর্ধেকটা এখনো অনেকটা অজানাই থেকে গেছে। তবে প্রচেষ্টা থেমে নেই। সময়ের সাথে সাথে মানসিকতা পরিবর্তনের সঙ্গে সঙ্গে নিরপেক্ষ অনেক ঐতিহাসিক সত্যই এখন উদ্ঘাটিত হয়েছে। জ্ঞানবিজ্ঞানের বিভিন্ন শাখায় নারীর সক্রিয় অংশগ্রহণের মৌলিক তথ্য উন্মোচিত হচ্ছে। প্রাচীন বিভিন্ন সভ্যতায় সাহিত্য, দর্শন ও বিজ্ঞানে নারীদের বিশেষ ভ‚মিকা লক্ষ্যণীয় যার প্রভাব আধুনিক বিশ্বেও স্পষ্ট। বর্তমান প্রবন্ধে কিছু সত্যানুসন্ধানের তাগিদ থেকে প্রাচীন সভ্যতায় জ্ঞানের অন্যতম প্রধান শাখা বিজ্ঞানচর্চায় নারীর স্বকীয়তা প্রসঙ্গে আলোচনা করা হবে।",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4404519185",
+    "title": "Enthusiasm is the Supreme power in connection with Sanskrit literature (উৎসহ পরম বলম: পরসঙগ সসকতসহতযম)",
+    "authors": [
+      "Chandana Rani Biswas"
+    ],
+    "year": 2024,
+    "language": "bn",
+    "abstract": "উৎসাহো জীবনস্য পরমম্ অবলম্বনম্। উৎসাহ এব নরাণাম্ অভ্যন্তরচারিণী সঞ্জীবনী শক্তিঃ। অনেন বলেন বলবান্ জনো জীবনসমরে সম্মুখযোদ্ধা সন্ জয়ম্ আনয়তি। শত্রæভিঃ নির্জিতো ’পি পৌরুষেণ উৎসাহেন স ন সীদতি। অতঃ উৎসাহঃ মানবানাং পরমং বলম্। যদা মানবজীবৃৃনে পুনঃ পুনঃ প্রতিবন্ধকতা আগচ্ছতি, অন্ধকারেণ আবৃতং ভবতি জীবনম্ তদা উৎসাহিজনানাং মনসি অস্তি আশায়া উজ্জ্বল আলোকঃ। প্রাচীনসাহিত্যে ঋষয়ঃ কবয়ঃ বা উৎসাহস্য বন্দনাং কৃতবন্তঃ। বৈদিকসাহিত্যে, রামায়ণে, মহাভারতে তথা সংস্কৃতসাহিত্যেষু উৎসাহস্য গুরুত্বং প্রদর্শিতম্। প্রাচীনসাহিত্যে বর্ণিতস্য পৌরুষস্য উৎসাহস্য বা গুরুত্ববিশ্লেষণং বর্তমানপ্রবন্ধস্য উদ্দেশ্যম্।",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4404519217",
+    "title": "BANALATA SEN: THE FOUNDATION OF JIBANANANDA DASH’S LITERARY VISION (‘বনলত সন’ জবনননদর কবযচনতর করক)",
+    "authors": [
+      "Nurunnaher Fayzer Nessa"
+    ],
+    "year": 2024,
+    "language": "bn",
+    "abstract": "সকল শ্রেষ্ঠ ও মহৎ সৃষ্টিই যুগে যুগে পঠিত হয়, চর্চিত হয়, পাঠককে ভাবায়, আনন্দ দান করে। জীবনানন্দের ‘বনলতা সেন’ তেমনই একটি সৃষ্টি, যা বহুকাল ধরে পাঠক-সমালোচককে বর্ণনাতীত আনন্দ দান করে চলছে, তাদের কল্পনা ও সৌন্দর্যবোধকে তৃপ্ত করছে এবং নিশ্চিতভাবেই বলা যায় তা আরও বহুকাল অব্যাহত থাকবে। বনলতা সেন কাব্যগ্রন্থটি প্রকাশিত হয় ১৯৪২ সনে। ১৩৪৫ বঙ্গাব্দ থেকে ১৩৬০ বঙ্গাব্দ পর্যন্ত প্রকাশিত কবিতা – বিষয়ক পনেরোটি প্রবন্ধ নিয়ে ১৩৬২ সনে প্রকাশিত হয় কবিতার কথা শীর্ষক জীবনানন্দের মহামূল্যবান গ্রন্থটি। কবির অন্যান্য অনেক কবিতার মতোই বনলতা সেন গ্রন্থের প্রথম কবিতা ‘বনলতা সেন’ গভীর বিশ্লেষণে জীবনানন্দের কাব্যচিন্তার স্ফটিকস্বরূপ বলা যায়। বিশেষ করে ‘কবিতার কথা’, ‘কবিতা প্রসঙ্গে’, ‘কবিতার আত্মা ও শরীর’ প্রভৃতি প্রবন্ধে প্রকাশিত তাঁর কবিতা-বিষয়ক চিন্তাগুলো অপূর্ব দীপ্তি ছড়িয়ে আছে এই কবিতায়। বর্তমান আলোচনায় ‘বনলতা সেন’ কবিতাটিকে এই সিদ্ধান্তের আলোকেই আস্বাদনের চেষ্টা করা হবে।",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4404519298",
+    "title": "Tansen, the Court Singer: A Political Perspective (রজদরবরর সভগয়ক তনসন: একট রজনতক বকষণ)",
+    "authors": [
+      "Aklima Islam Kuheli"
+    ],
+    "year": 2024,
+    "language": "bn",
+    "abstract": "হিন্দুস্তানি সংগীতের শ্রেষ্ঠ গুণী সংগীতজ্ঞ মিয়া তানসেনের নাম ভারতবর্ষ তথা বঙ্গদেশের সংগীতজ্ঞদের কাছে প্রবাদবাক্যের মত প্রচলিত। যদিও তাঁর সুদীর্ঘ সংগীত জীবনের ইতিবৃত্ত ‘আইনি আকবরী’ অথবা ‘পাদশানামা’ প্রভৃতি বিখ্যাত গ্রন্থ দুর্গের অভ্যন্তরে পাওয়া যায় তবে তা সাধারণ সংগীত বোদ্ধার কাছে দুর্ভেদ্য। আলোচ্য প্রবন্ধে মুঘল সম্রাট আকবরের রাজত্বকালে, তাঁর দরবারে তানসেনের অবস্থান ও তাঁর বর্ণাঢ্য সংগীত জীবন সম্বন্ধে আলোকপাত করার প্রয়াস থাকবে।",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4404519339",
+    "title": "Great Poet Kalidasa and Bengali Literature (মহকব কলদস এব বল সহতয)",
+    "authors": [
+      "Chinmoy Howlader"
+    ],
+    "year": 2024,
+    "language": "bn",
+    "abstract": "বাংলা ও সংস্কৃত ভাষার মধ্যে ঐতিহাসিকভাবে গভীর সম্পর্ক রয়েছে। এ কারণে বাংলা সাহিত্যের উপর অনিবার্যভাবে তার প্রভাব পড়েছে। আধুনিক ইউরোপীয় সাহিত্য কিংবা ফার্সি-হিন্দি সাহিত্যের চেয়ে সংস্কৃত সাহিত্যের প্রভাব যে কত সুদূরপ্রসারী তা প্রাচ্য-পাশ্চাত্যের মনীষীগণের গবেষণার দ্বারা এখন সুপ্রতিষ্ঠিত হয়েছে। সংস্কৃত মহাকাব্য, কাব্য, খÐকাব্য, নাটক, গল্পসাহিত্য, অলংকারশাস্ত্র, ব্যাকরণশাস্ত্র, ধর্ম, দর্শন, অর্থশাস্ত্র ইত্যাদি বিষয় বাংলার সাহিত্য, সংস্কৃতি, সমাজ, ধর্ম, রাজনীতিসহ অনেক কিছুকেই আজও প্রভাবিত করে চলেছে। ধ্রæপদী সংস্কৃত সাহিত্যের কবিদের মধ্যে কবি নাট্যকার কালিদাসের উপস্থিতি বিশ^ময় ছড়িয়ে আছে। বাংলা সাহিত্যও তার ব্যাতিক্রম নয়। বৈষ্ণব পদাবলি থেকে আধুনিক বাংলা সাহিত্যের শক্তিশালী কবি-লেখকগণ কিভাবে কালিদাসের দ্বারা প্রভাবিত হয়েছেন তা আলোচ্য প্রবন্ধে তুলে ধরার চেষ্টা করা হয়েছে।",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4404519846",
+    "title": "Enthusiasm is the Supreme power in connection with Sanskrit literature (উৎসহ পরম বলম: পরসঙগ সসকতসহতযম)",
+    "authors": [
+      "Chandana Rani Biswas"
+    ],
+    "year": 2024,
+    "language": "bn",
+    "abstract": "উৎসাহো জীবনস্য পরমম্ অবলম্বনম্। উৎসাহ এব নরাণাম্ অভ্যন্তরচারিণী সঞ্জীবনী শক্তিঃ। অনেন বলেন বলবান্ জনো জীবনসমরে সম্মুখযোদ্ধা সন্ জয়ম্ আনয়তি। শত্রæভিঃ নির্জিতো ’পি পৌরুষেণ উৎসাহেন স ন সীদতি। অতঃ উৎসাহঃ মানবানাং পরমং বলম্। যদা মানবজীবৃৃনে পুনঃ পুনঃ প্রতিবন্ধকতা আগচ্ছতি, অন্ধকারেণ আবৃতং ভবতি জীবনম্ তদা উৎসাহিজনানাং মনসি অস্তি আশায়া উজ্জ্বল আলোকঃ। প্রাচীনসাহিত্যে ঋষয়ঃ কবয়ঃ বা উৎসাহস্য বন্দনাং কৃতবন্তঃ। বৈদিকসাহিত্যে, রামায়ণে, মহাভারতে তথা সংস্কৃতসাহিত্যেষু উৎসাহস্য গুরুত্বং প্রদর্শিতম্। প্রাচীনসাহিত্যে বর্ণিতস্য পৌরুষস্য উৎসাহস্য বা গুরুত্ববিশ্লেষণং বর্তমানপ্রবন্ধস্য উদ্দেশ্যম্।",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4405414175",
+    "title": "কজ নজরল ইসলমর ‘বতয়ন-পশ গবক তরর সর’ : পরম ও পরকত চতনর সমনবয়",
+    "authors": [
+      "Tapas Mandal"
+    ],
+    "year": 2024,
+    "language": "bn",
+    "abstract": "In the world of modern Bengali poetry, Kazi Nazrul Islam is a name that remains unforgettable.Without him, the discussion of Bengali poetry would be incomplete.Though not educated in the traditional academic system, his poetry has introduced a new dimension to Bengali literature, earning eternal glory for all Bengalis.The world poet Rabindranath Tagore was also deeply impressed by Kazi Nazrul Islam's poetic talent.However, Nazrul did not adhere to conventional poetic styles.Instead, he used his talent to voice rebellious words for the common people, earning him the title of the 'Rebel Poet.'But this was not his only identity.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4406313368",
+    "title": "Report on Visit to the Important Cultural Property Tokidakan Silk Mill",
+    "authors": [
+      "Y. Kotera"
+    ],
+    "year": 2025,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4407723640",
+    "title": "বশ শতক বঙল মধযবতত শরণ: পরসঙগ মনক বনদযপধযযর নরবচত গলপ",
+    "authors": [
+      "Rakesh Chandra Sarkar"
+    ],
+    "year": 2025,
+    "language": "bn",
+    "abstract": "After the World War-I, the morale value of people was discouraging in the world and in the midst of crisis; a number of writings were developed by the Bengali writers.The Bengali",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4407723791",
+    "title": "বল ভষর আলক কডমল ভষর রপতততবক বশষটয: এক ভষবজঞনক অধযযন",
+    "authors": [
+      "Mousumi Mahata"
+    ],
+    "year": 2025,
+    "language": "bn",
+    "abstract": "One of the mediums of human communication is language.Indo-European is the world's largest language family.According to the evolution of time, many rich languages of the world have been born from this language family.My discussion is a linguistic study of the morphological features of the Kurmali language as a distinctive and rich language of the Chotanagpur region.In this discussion, I have tried to review the main points of morphological features -noun, pronoun, adjective, verb, tense, case ending, compound, gender, person, prefix, suffix etc. Naturally, there has been a revival of comparative thought with respectable Bengali language.In many cases, the use of Kurmali words and their translation into Bengali clarify the subject.This, on the one hand, paves the way for comparative language review in the field of linguistics.On the other hand, to a large extent Kurmali facilitates the course of linguistic discussion.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4407723841",
+    "title": "মহশবত দবর নরবচত গলপ ভতর অভব একট বশলষণ পঠ",
+    "authors": [
+      "Raju Layek"
+    ],
+    "year": 2025,
+    "language": "bn",
+    "abstract": "Mahasweta Devi's work is not only a treasure trove of Bengali literature, but has also earned her the status of one of the greatest Indian authors.She was involved in various movements and initiatives during the second half of the 20th century.Based on this experience, she undertook numerous projects aimed at supporting the lower classes and tribal communities across several states in India, including West Bengal, Bihar, Jharkhand, Odisha, and Chhattisgarh.She connected with their lives, feeling their happiness, sorrow, hopes, aspirations, livelihoods, exploitation, and deprivation.This empathy is also reflected in her literary work and the characters she created.Therefore, it is said that Mahasweta's pen acted as their representative.In her various novels and stories, such as \"Bhat,\" \"Sanjh-Sakaler Maa,\" and \"Jatudhan,\" the issue of food shortages, along with other pressing problems, is particularly evident.The analysis of these three stories illustrates how people's mindsets have changed regarding the scarcity of food and highlights the helplessness experienced by individuals facing these shortages.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4407723849",
+    "title": "‘এক এব কয়কজন’: তরণ কবর নজসব কণঠসবর",
+    "authors": [
+      "Sk Nazrul Islam"
+    ],
+    "year": 2025,
+    "language": "bn",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4409405311",
+    "title": "বরহমণবডযর লক সঙগত ও লক জবনর পরচয",
+    "authors": [
+      "মোহাম্মদ মফিজ উদ্দিন"
+    ],
+    "year": 1993,
+    "language": "bn",
+    "abstract": "ব্রাহ্মণবাড়িয়া লোকসঙ্গীত লোকজীবনের যে ধারা বহমান তা ঐতিহ্যমণ্ডিত। এখানে লোকদের মুখে মুখে অনেক গান প্রচলিত রয়েছে। এই সব গানের রচয়িতা কে তা বলা কঠিন। কিন্তু এইগুলোর আবেদন চিরন্তন। গ্রামের সহজ-সরল মানুষের অকপট হৃদয়ের অভিব্যক্তিই এই গান। এই গানে আছে মাটির মানুষের প্রাণের ছোঁয়া। এই গানের বিষয় হয়ে উঠেছে পল্লীর মানুষের মনের কথা, হৃদয়ের আকুলতা-ব্যাকুলতা, সুখ-দুঃখ, হাসি কান্না, বিরহ-ব্যথা, প্রেম-ভালবাসা, আচার- বিশ্বাস ইত্যাদি। ব্রাহ্মণবাড়িয়ার লোকসঙ্গীতের আলোচনার মাধ্যমেই উল্লিখিত বিষয়ের যথার্থতা নিরূপণ করা যেতে পরে। দেশের অন্যান্য অঞ্চলের মতো ব্রাহ্মণবাড়িয়ায়ও বিয়ে উপলক্ষে গান গীত হয়ে থাকে। মেয়েরা একত্রিত হয়ে এই গান গেয়ে থাকে। এই সব মেয়েলী গানে লোকজীবনের সুন্দর পরিচয় পাওয়া যায়।",
+    "source": "openalex"
+  }
+]
