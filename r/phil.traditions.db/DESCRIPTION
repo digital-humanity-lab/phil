@@ -1,0 +1,13 @@
+Package: phil.traditions.db
+Title: Philosophical Tradition Structure Database
+Version: 0.1.0
+Authors@R:
+    person("Yusuke", "Matsui", email = "mail.to.matsui@gmail.com", role = c("aut", "cre"))
+Description: Database of philosophical traditions with hierarchical structure,
+    temporal periods, and geographic information. Provides tree traversal and
+    querying capabilities for tradition-based analysis.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Imports:
+    DBI,
+    RSQLite

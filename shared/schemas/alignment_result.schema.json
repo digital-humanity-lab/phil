@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AlignmentResult",
+  "description": "Result of cross-tradition concept alignment.",
+  "type": "object",
+  "properties": {
+    "concept_a_id": { "type": "string" },
+    "concept_b_id": { "type": "string" },
+    "method": {
+      "type": "string",
+      "enum": ["semantic", "structural", "argumentative", "hybrid"]
+    },
+    "similarity": { "type": "number", "minimum": 0, "maximum": 1 },
+    "facet_scores": {
+      "type": "object",
+      "properties": {
+        "definition": { "type": "number" },
+        "usage": { "type": "number" },
+        "relational": { "type": "number" }
+      }
+    },
+    "evidence": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  },
+  "required": ["concept_a_id", "concept_b_id", "method", "similarity"]
+}

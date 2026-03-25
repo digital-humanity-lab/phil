@@ -1,0 +1,59 @@
+traditions:
+  western:
+    label: Western Philosophy
+    sub_traditions:
+      - ancient_greek
+      - medieval_scholastic
+      - early_modern_rationalist
+      - early_modern_empiricist
+      - german_idealism
+      - phenomenology
+      - existentialism
+      - analytic
+      - pragmatism
+      - poststructuralism
+      - critical_theory
+
+  east_asian:
+    label: East Asian Philosophy
+    sub_traditions:
+      - confucianism
+      - daoism
+      - chan_zen_buddhism
+      - neo_confucianism
+      - japanese_buddhism
+      - kyoto_school
+      - korean_confucianism
+      - chinese_marxism
+
+  south_asian:
+    label: South Asian Philosophy
+    sub_traditions:
+      - vedanta
+      - nyaya
+      - samkhya
+      - yoga
+      - mimamsa
+      - vaisheshika
+      - theravada_buddhism
+      - mahayana_buddhism
+      - jainism
+      - carvaka
+
+  islamic:
+    label: Islamic Philosophy
+    sub_traditions:
+      - kalam
+      - falsafa
+      - sufism
+      - illuminationism
+      - transcendent_theosophy
+
+  african:
+    label: African Philosophy
+    sub_traditions:
+      - ubuntu
+      - ethnophilosophy
+      - sage_philosophy
+      - african_existentialism
+      - kemetic_philosophy

@@ -1,0 +1,113 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://phil-ecosystem.dev/schemas/concept.schema.json",
+  "title": "Concept",
+  "description": "A philosophical concept with multilingual labels and tradition metadata.",
+  "type": "object",
+  "required": ["id", "labels", "tradition", "domain"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9_]+$",
+      "description": "Unique identifier for the concept."
+    },
+    "labels": {
+      "type": "object",
+      "description": "Multilingual labels keyed by ISO 639-3 language code.",
+      "additionalProperties": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "minItems": 1
+      },
+      "minProperties": 1
+    },
+    "tradition": {
+      "type": "string",
+      "description": "Primary philosophical tradition this concept belongs to."
+    },
+    "sub_tradition": {
+      "type": "string",
+      "description": "Sub-tradition within the primary tradition."
+    },
+    "domain": {
+      "type": "string",
+      "enum": [
+        "metaphysics",
+        "epistemology",
+        "ethics",
+        "aesthetics",
+        "logic",
+        "philosophy_of_mind",
+        "philosophy_of_language",
+        "political_philosophy",
+        "philosophy_of_religion",
+        "ontology"
+      ],
+      "description": "Philosophical domain."
+    },
+    "definition": {
+      "type": "object",
+      "description": "Definitions keyed by ISO 639-3 language code.",
+      "additionalProperties": {
+        "type": "string"
+      }
+    },
+    "related_concepts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["concept_id", "relation"],
+        "properties": {
+          "concept_id": {
+            "type": "string"
+          },
+          "relation": {
+            "type": "string",
+            "enum": [
+              "similar_to",
+              "opposite_of",
+              "part_of",
+              "derived_from",
+              "influenced_by",
+              "translates_as"
+            ]
+          },
+          "confidence": {
+            "type": "number",
+            "minimum": 0.0,
+            "maximum": 1.0
+          }
+        }
+      }
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "author": { "type": "string" },
+          "work": { "type": "string" },
+          "year": { "type": "integer" }
+        }
+      }
+    },
+    "embeddings": {
+      "type": "object",
+      "description": "Pre-computed embeddings keyed by model name.",
+      "additionalProperties": {
+        "type": "array",
+        "items": { "type": "number" }
+      }
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date-time"
+    }
+  }
+}

@@ -1,0 +1,420 @@
+[
+  {
+    "id": "https://openalex.org/W4403866953",
+    "title": "Test of lepton flavor universality with a measurement of <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>R</mml:mi><mml:mo stretchy=\"false\">(</mml:mo><mml:msup><mml:mi>D</mml:mi><mml:mo>*</mml:mo></mml:msup><mml:mo stretchy=\"false\">)</mml:mo></mml:math> using hadronic <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>B</mml:mi></mml:math> tagging at the Belle II experiment",
+    "authors": [
+      "I. Adachi",
+      "K. Adamczyk",
+      "L. Aggarwal",
+      "H. Ahmed",
+      "H. Aihara",
+      "Н. Акопов",
+      "A. Aloisio",
+      "N. Anh Ky",
+      "D. M. Asner",
+      "H. Atmacan",
+      "T. Aushev",
+      "V. Aushev",
+      "M. Aversano",
+      "R. Ayad",
+      "V. Babu",
+      "H. Bae",
+      "S. Bahinipati",
+      "P. Bambade",
+      "Sw. Banerjee",
+      "S. Bansal",
+      "M. Barrett",
+      "J. Baudot",
+      "M. Bauer",
+      "A. Baur",
+      "A. Beaubien",
+      "F. Becherer",
+      "Jürgen Becker",
+      "J. V. Bennett",
+      "F. U. Bernlochner",
+      "V. Bertacchi",
+      "M. Bertemes",
+      "E. Bertholet",
+      "M. Bessner",
+      "S. Bettarini",
+      "B. Bhuyan",
+      "F. Bianchi",
+      "L. Bierwirth",
+      "T. Bilka",
+      "S. Bilokin",
+      "D. Biswas",
+      "A. Bobrov",
+      "D. Bodrov",
+      "A. E. Bolz",
+      "A. Bondar",
+      "J. Borah",
+      "A. Bożek",
+      "M. Bračko",
+      "P. Branchini",
+      "R. A. Briere",
+      "T. E. Browder",
+      "A. Budano",
+      "S. Bussino",
+      "M. Campajola",
+      "L. Cao",
+      "G. Casarosa",
+      "C. Cecchi",
+      "J. Cerasoli",
+      "M.-C. Chang",
+      "P. Chang",
+      "R. Cheaib",
+      "P. Cheema",
+      "C. Chen",
+      "B. G. Cheon",
+      "K. Chilikin",
+      "K. Chirapatpimol",
+      "H.-E. Cho",
+      "K. Cho",
+      "S.-J. Cho",
+      "S.-K. Choi",
+      "S. Choudhury",
+      "J. Cochran",
+      "L. Corona",
+      "L. Cremaldi",
+      "S. Das",
+      "F. Dattola",
+      "E. De La Cruz–Burelo",
+      "S. A. De La Motte",
+      "G. De Nardo",
+      "M. De Nuccio",
+      "G. De Pietro",
+      "R. de Sangro",
+      "M. Destefanis",
+      "R. Dhamija",
+      "A. Di Canto",
+      "F. Di Capua",
+      "J. Dingfelder",
+      "Z. Doležal",
+      "I. Domínguez Jiménez",
+      "T. V. Dong",
+      "M. Dorigo",
+      "K. Dort",
+      "S. Dreyer",
+      "S. Dubey",
+      "G. Dujany",
+      "P. Ecker",
+      "M. Eliachevitch",
+      "D. Epifanov",
+      "P. Feichtinger",
+      "T. Ferber",
+      "D. Ferlewicz"
+    ],
+    "year": 2024,
+    "language": "yo",
+    "abstract": "The ratio of branching fractions <a:math xmlns:a=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><a:mi>R</a:mi><a:mo stretchy=\"false\">(</a:mo><a:msup><a:mi>D</a:mi><a:mo>*</a:mo></a:msup><a:mo stretchy=\"false\">)</a:mo><a:mo>=</a:mo><a:mi mathvariant=\"script\">B</a:mi><a:mo stretchy=\"false\">(</a:mo><a:mover accent=\"true\"><a:mi>B</a:mi><a:mo stretchy=\"false\">¯</a:mo></a:mover><a:mo stretchy=\"false\">→</a:mo><a:msup><a:mi>D</a:mi><a:mo>*</a:mo></a:msup><a:msup><a:mi>τ</a:mi><a:mo>−</a:mo></a:msup><a:msub><a:mover accent=\"true\"><a:mi>ν</a:mi><a:mo stretchy=\"false\">¯</a:mo></a:mover><a:mi>τ</a:mi></a:msub><a:mo stretchy=\"false\">)</a:mo><a:mo>/</a:mo><a:mi mathvariant=\"script\">B</a:mi><a:mo stretchy=\"false\">(</a:mo><a:mover accent=\"true\"><a:mi>B</a:mi><a:mo stretchy=\"false\">¯</a:mo></a:mover><a:mo stretchy=\"false\">→</a:mo><a:msup><a:mi>D</a:mi><a:mo>*</a:mo></a:msup><a:msup><a:mo>ℓ</a:mo><a:mo>−</a:mo></a:msup><a:msub><a:mover accent=\"true\"><a:mi>ν</a:mi><a:mo stretchy=\"false\">¯</a:mo></a:mover><a:mo>ℓ</a:mo></a:msub><a:mo stretchy=\"false\">)</a:mo></a:math>, where <u:math xmlns:u=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><u:mo>ℓ</u:mo></u:math> is an electron or muon, is measured using a Belle II data sample with an integrated luminosity of <w:math xmlns:w=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><w:mn>189</w:mn><w:mtext> </w:mtext><w:mtext> </w:mtext><w:msup><w:mi>fb</w:mi><w:mrow><w:mo>−</w:mo><w:mn>1</w:mn></w:mrow></w:msup></w:math> at the SuperKEKB asymmetric-energy <y:math xmlns:y=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><y:msup><y:mi>e</y:mi><y:mo>+</y:mo></y:msup><y:msup><y:mi>e</y:mi><y:mo>−</y:mo></y:msup></y:math> collider. Data is collected at the <ab:math xmlns:ab=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ab:mi mathvariant=\"normal\">ϒ</ab:mi><ab:mo stretchy=\"false\">(</ab:mo><ab:mrow><ab:mn>4</ab:mn><ab:mi mathvariant=\"normal\">S</ab:mi></ab:mrow><ab:mo stretchy=\"false\">)</ab:mo></ab:math> resonance, and one <gb:math xmlns:gb=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><gb:mi>B</gb:mi></gb:math> meson in the <ib:math xmlns:ib=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ib:mi mathvariant=\"normal\">ϒ</ib:mi><ib:mo stretchy=\"false\">(</ib:mo><ib:mrow><ib:mn>4</ib:mn><ib:mi mathvariant=\"normal\">S</ib:mi></ib:mrow><ib:mo stretchy=\"false\">)</ib:mo><ib:mo stretchy=\"false\">→</ib:mo><ib:mi>B</ib:mi><ib:mover accent=\"true\"><ib:mi>B</ib:mi><ib:mo stretchy=\"false\">¯</ib:mo></ib:mover></ib:math> decay is fully reconstructed in hadronic decay modes. The accompanying signal <rb:math xmlns:rb=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><rb:mi>B</rb:mi></rb:math> meson is reconstructed as <tb:math xmlns:tb=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><tb:mover accent=\"true\"><tb:mi>B</tb:mi><tb:mo stretchy=\"false\">¯</tb:mo></tb:mover><tb:mo stretchy=\"false\">→</tb:mo><tb:msup><tb:mi>D</tb:mi><tb:mo>*</tb:mo></tb:msup><tb:msup><tb:mi>τ</tb:mi><tb:mo>−</tb:mo></tb:msup><tb:msub><tb:mover accent=\"true\"><tb:mi>ν</tb:mi><tb:mo stretchy=\"false\">¯</tb:mo></tb:mover><tb:mi>τ</tb:mi></tb:msub></tb:math> using leptonic <ac:math xmlns:ac=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ac:mi>τ</ac:mi></ac:math> decays. The normalization decay, <cc:math xmlns:cc=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><cc:mover accent=\"true\"><cc:mi>B</cc:mi><cc:mo stretchy=\"false\">¯</cc:mo></cc:mover><cc:mo stretchy=\"false\">→</cc:mo><cc:msup><cc:mi>D</cc:mi><cc:mo>*</cc:mo></cc:msup><cc:msup><cc:mo>ℓ</cc:mo><cc:mo>−</cc:mo></cc:msup><cc:msub><cc:mover accent=\"true\"><cc:mi>ν</cc:mi><cc:mo stretchy=\"false\">¯</cc:mo></cc:mover><cc:mo>ℓ</cc:mo></cc:msub></cc:math>, produces the same observable final-state particles. The ratio of branching fractions is extracted in a simultaneous fit to two signal-discriminating variables in both channels and yields <jc:math xmlns:jc=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><jc:mi>R</jc:mi><jc:mo stretchy=\"false\">(</jc:mo><jc:msup><jc:mi>D</jc:mi><jc:mo>*</jc:mo></jc:msup><jc:mo stretchy=\"false\">)</jc:mo><jc:mo>=</jc:mo><jc:msubsup><jc:mn>0.262</jc:mn><jc:mrow><jc:mo>−</jc:mo><jc:mn>0.039</jc:mn></jc:mrow><jc:mrow><jc:mo>+</jc:mo><jc:mn>0.041</jc:mn></jc:mrow></jc:msubsup><jc:mo stretchy=\"false\">(</jc:mo><jc:mrow><jc:mi>stat</jc:mi></jc:mrow><jc:msubsup><jc:mo stretchy=\"false\">)</jc:mo><jc:mrow><jc:mo>−</jc:mo><jc:mn>0.032</jc:mn></jc:mrow><jc:mrow><jc:mo>+</jc:mo><jc:mn>0.035</jc:mn></jc:mrow></jc:msubsup><jc:mo stretchy=\"false\">(</jc:mo><jc:mrow><jc:mi>syst</jc:mi></jc:mrow><jc:mo stretchy=\"false\">)</jc:mo></jc:math>. This result is consistent with the current world average and with Standard Model predictions. Published by the American Physical Society 2024",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2773222768",
+    "title": "David Àìná's \"Ẹ Jẹ Ká Jọ Yọ\" (Let Us All Rejoice)",
+    "authors": [
+      "Aaron Carter-Ényì",
+      "David Oludaisi Aina"
+    ],
+    "year": 2013,
+    "language": "yo",
+    "abstract": "A Christmas carol written in December 1988 in the highlife style. This performance is by members of All Saints' Church Choir conducted by their music director David Aina, in Yaba, Lagos, Nigeria on 21 October 2013. This piece is popular with choirs all over Nigeria and abroad during the Christmas season.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2188523756",
+    "title": "Modeling and De Circuit in High Vo",
+    "authors": [
+      "Iran Un",
+      "Taghi Mohamadi"
+    ],
+    "year": 2011,
+    "language": "yo",
+    "abstract": "A wireless energy transfer struc posed in this paper. Wireless energy transfe magnetic resonances is a technology which en ferred via coupled magnetic resonances in near-field. Based on this structure, a simple troduced, analyzed and simulated. Experimen fying this model show that the model works w can be transmitted is up to 60Watt, the tr about 60 %, the distance of energy transfer is most important point; its frequency is 50 H application of these circuits seems to be wide such as mobile charging, industrial robot, simulators, wireless sensor networks, data tr stations and RFID technology.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2331640776",
+    "title": "Syllabaire Hittite Cunéiforme",
+    "authors": [
+      "E. H. Sturtevant",
+      "Louis Delaporte"
+    ],
+    "year": 1930,
+    "language": "yo",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2439200246",
+    "title": "ÌÅÒÎÄÈÊÀ ÎÖÅÍÊÈ ÊÀ×ÅÑÒÂÀ ÑÈÑÒÅÌÛ ÏÀÑÑÀÆÈÐÑÊÈÕ ÀÂÒÎÏÅÐÅÂÎÇÎÊ",
+    "authors": [
+      "E. Nurgaliev"
+    ],
+    "year": 2014,
+    "language": "yo",
+    "abstract": "Рассмотрены методы оценки транспортных систем для определения основных показателей с целью обеспечения качества пассажирских перевозок. Даны параметры, характеризующие состояние системы процесса перевозок. Описаны компоненты, определяющие муниципальную транспортную систему. Предложена функциональная схема муниципальной маршрутной сети. Рассмотрены вероятностный и аналитический подходы, использующиеся при моделировании муниципальной транспортной системы пассажироперевозок. Дана схема управления муниципальной транспортной системой с учетом обратной связи для адаптируемой системы. Приведены основные критерии, характеризующие работу автотранспортной системы перевозки пассажиров. Критерии качества работы муниципальной транспортной системы в соответствии с предложенной классификацией разделены на социальноэкономические показатели обслуживания пассажиров и показатели эффективности работы субъектов – транспортных предприятий. Указаны достоинства и недостатки существующих показателей, а также то, что они характеризуют. Дальнейшие исследования позволят расширить объектную базу, уточнить параметры и разработать систему управления транспортными процессами пассажироперевозок. Ключевые слова : пассажирские перевозки, математическое моделирование, критерии качества. The methods of assessment of transport systems are considered in order to identify the key indicators to ensure the quality of passenger transportation. The parameters characterizing the state of transportation process are given. The components that determine the municipal transport system are described. The functional diagram of the municipal route network is presented. The probabilistic and analytical approaches used in modeling municipal passenger transport system are considered. The scheme of the municipal transport system taking into account the feedback for the adaptable system is presented. The basic criteria for characterizing the performance of the road transport system are given. The quality criteria of the municipal transport system in accordance with the proposed classification are divided into socio-economic indicators of passenger service and performance indicators of operation of subjects – transportation companies. The advantages and disadvantages of the existing indicators, as well as the things they describe are shown. Further studies will expand the object base, specify the parameters of the control system and develop passenger transport processes.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2487339951",
+    "title": "A Conversation with Vo Thi Xuan Ha",
+    "authors": [
+      "Qui-Phiet Tran"
+    ],
+    "year": 2001,
+    "language": "yo",
+    "abstract": "Vo Thi Xuan Ha was born in 1959 in Hanoi. A graduate of Hanoi College of Education in 1978 and valedictorian at Nguyen Du School of Writing in 1992, she is currently editor of Bao dien anh kich truong Viet Nam (Vietnam Motion Pictures and Theater Magazine). Her publications include five collections of short stories: Vinh biet giac mo ngot ngao (Farewell to a Sweet Dream) (1992), Bay huu nhay mua (Dancing Deer) (1994), Co tich cho tuoi hoc tro (Fairy Tales for School Children) (1994), Ke doi dau (The Opponent) (1998), Gia nhang den va nhung truyen khac (The Price of Candles and Incense Sticks and Other Stories) (1999); and two novels for children: Chiec hop gia bao (The Family Treasure Box) (1997) and Chuyen o rung soi (Tales from Oak Forests) (1999). She was the recipient of the 1999 Association of Writers Best Fiction Award.KeywordsShort StoryFairy TaleYoung WriterHanoi CollegeVietnamese PeopleThese keywords were added by machine and not by the authors. This process is experimental and the keywords may be updated as the learning algorithm improves.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2766381908",
+    "title": "shi lun wen wu bao hu zhong cun zai de wen ti ji dui ce",
+    "authors": [
+      "Sun Tuoya"
+    ],
+    "year": 2013,
+    "language": "yo",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2808091323",
+    "title": "han guo xin cun yun dong dui wo guo xin nong cun jian she de qi shi",
+    "authors": [
+      "Jianping Li",
+      "Bai Zuo"
+    ],
+    "year": 2007,
+    "language": "yo",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2808164311",
+    "title": "zuo zhi bing cun de shou shu fang shi xuan ze",
+    "authors": [
+      "Long Wenbin",
+      "Wang shuang-ying",
+      "Long Kuanbin"
+    ],
+    "year": 2008,
+    "language": "yo",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2989409741",
+    "title": "Jiali Cun Xi Zhou yi zhi",
+    "authors": [
+      "Shaanxi sheng kao gu yan jiu suo"
+    ],
+    "year": 2017,
+    "language": "yo",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3194194019",
+    "title": "ji suan ji wang luo xin xi an quan guan li cun zai wen ti ji dui ce fen xi",
+    "authors": [
+      "Zicheng Liu"
+    ],
+    "year": 2017,
+    "language": "yo",
+    "abstract": "随着经济和科技速度的发展越来越快,计算机在高速发展的同时也开始广泛应用与社会各领域,然而目前社会因计算机信息被泄露发生的安全事故越来越多,这种现象也使得社会对计算机网络信息的安全开始高度关注.针对此本文主要对计算机网络信息安全管理中存在的问题做了相关的阐述,并同时提出了解决问题的对策.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3194318198",
+    "title": "qian xi mei li xiang cun jian she de li lun yi ju",
+    "authors": [
+      "Yang Jian-cai"
+    ],
+    "year": 2021,
+    "language": "yo",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3194408507",
+    "title": "guan zhu ji ceng zhu ce hui ji shi de sheng cun zhuang tai",
+    "authors": [
+      "Yue Zhi"
+    ],
+    "year": 2004,
+    "language": "yo",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3195466271",
+    "title": "wo guo nong cun bao xian shi chang cun zai de wen ti yu dui ce",
+    "authors": [
+      "Yang Zuo"
+    ],
+    "year": 2010,
+    "language": "yo",
+    "abstract": "自改革开放以来,我国保险业市场发展迅速,但是农村保险市场发展缓慢,究其原因,既有农民保险意识淡薄,政府缺乏必要的支持,包括法律、经济等政策支持,也有大多数保险公司开展农村保险业务的积极性不高、没能设计出符合农民需求的保险产品等因素.因此,我国的农村保险业要顺利发展,除了提高农民的保险意识,加大政府支持力度外,保险公司也要励精图治、勇于创新.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3197051739",
+    "title": "Ìyàmi: symbol ancestral feminine the Brazil",
+    "authors": [
+      "Vanda Alves Torres Azevedo"
+    ],
+    "year": 2006,
+    "language": "yo",
+    "abstract": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3198027034",
+    "title": "emc cun chu yun wei guan li ping tai yan jiu",
+    "authors": [
+      "Yang Yongdan"
+    ],
+    "year": 2017,
+    "language": "yo",
+    "abstract": "存储系统是整个IT系统的基石,是IT技术赖以存在和发挥效能的基础平台.云南电网有限责任公司在2013年初即开展了存储资源池建设工作,建设完成了以EMC VNX存储和EMC VMAX存储为底层资源,通过EMC VPLEX和IBM SVC存储虚拟化设备对外统一提供服务,随着小机资源池、计算资源池的虚拟机数量不断增长,以及业务系统数据的不断增加,又分别进行了VNX存储和VMAX存储的扩容工作.业务系统的越来越复杂,数据量越来越大,安全性能要求也随之加大,云南电网公司不仅对整个存储资源池进行扩容,还新购置了华为18500、5800、VIS2600T等高中低端的存储设备,同时对信息中心四个生产在用机房进行了大规模的SAN网络改造工作,提升传输速率的同时,彻底解决了原有各机房SAN网络孤立的局面,现今已形成了以DCX交换机为核心存储系统,有效的提高了存储资源的利用率、存储资源的性能提升、存储资源的稳定性提升.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3200027252",
+    "title": "gao wei yao pin guan li cun zai de wen ti yu dui ce",
+    "authors": [
+      "Lihui Sun",
+      "Wang Jing",
+      "Yu Xuejing"
+    ],
+    "year": 2019,
+    "language": "yo",
+    "abstract": "目的:研究观察高危药品管理存在的问题并提出相应对策。方法:讨论西药房及(手术室)高危药品管理中存在的问题,并提出相应的对策。结果:药剂科管理医师及手术室管理人员对高危药品的认识不足,管理存在多种漏洞是高危药品管理存在的主要问题。结论:规范西药房的工作流程,提高高危药品的管理工作和管理医师的水平能力,能够保障患者的用药安全。",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3200589072",
+    "title": "cong cun min zhi ping kan nong cun zhi li jie gou de wan shan jian lun cun min zhi ping he tu di zheng shou de guan xi",
+    "authors": [
+      "Xiaoping Liu"
+    ],
+    "year": 2010,
+    "language": "yo",
+    "abstract": "村民直评制度是基层民主监督的新举措,从其产生之日起就引起了广泛关注;它的产生一定程度上改变了传统农村治理框架,在农村公共事务的决策和管理中,尤其是土地征收过程中产生了积极意义,为村民委员会切实代表农村集体的利益提供了制度保障.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3203142609",
+    "title": "bian zhi cun zhuang gui hua ying ba wo de si tiao yuan ze",
+    "authors": [
+      "Yuan Zuo",
+      "Zhang Xuebiao",
+      "Fengying Nie"
+    ],
+    "year": 2021,
+    "language": "yo",
+    "abstract": "村庄规划是开展乡村建设、推进乡村振兴的重要基础性工作.一些地方由于村庄建设布局缺乏科学规划,导致无序大拆大建、盲目合村并居、乱占耕地建房等现象时有发生.2021年中央一号文件提出,要加快推进村庄规划工作.当前,三农工作的重心已历史性转向全面推进乡村振兴,科学编制村庄规划,迫在眉睫.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4205439470",
+    "title": "A Conversation with Toyin Falola on the future of Yoruba Language",
+    "authors": [
+      "Oyesina Fadare"
+    ],
+    "year": 2021,
+    "language": "yo",
+    "abstract": "OF: Èdè Yorùbá ni á ̀kóko yìí tí ̀ ń lọ sí òkun ìgbàgbé, níbo ni ọr̀ ọ yìí tí w ̀ ọ wá?&#x0D; TF: Hmm, ìbéèrè tó ṣe kókó tó ṣe pàtàkì tó ń kọni lóminú rèé. Lotitọ, èdè abínibí wa Yorùbá ti ń parun, àwọn oun tó sì fàá pọ̀ lọṕ ọ̀lọpọ. À ̀kọ́kọ́ ni ipò ti ède ̀ Gẹẹ̀ sí ̀ ni ́ ori ́lè e ̀de ̀ wa Nài ̀jirí yá . Ipo ̀ ̀ yíì jẹyọ lati ipa ìj ́ ọba awon ̀ Birìtìko ̀ ́ loriwa kí a to ́ ́ gba ominira a ̀ ti a ̀ won funfun tí w ̀ ọn gbe ́ ́ ìmọ̀ẹsìn wa ̀ . ́ Aẁ ọn wọnyi ̀ ́ ni wọn k ́ ọ́kọ́ gbé ẹsìn ìgba ̀ gb̀ ọ́ ati ̀ ẹ̀kọ́ mọọ̀ ́kọ mọọ̀ ́ka. Wọn ́ bẹr̀ ẹ̀ síní ma kọ́ aẁ ọn ará Yorùbá ni e ̀dè Gẹẹ̀ si ní ile ́ ́ ìwéṣugb̀ ọn a ko ́ ̀ le ̀ so wipé ́ wọn ́ ṣe eyi ̀ ́ ki e ̀dè Yorùbá le ̀ parun. Ìdi ́ ti ́ mo f sọ eyi ̀ ́ ni wipé ́ aẁ ọn ti ́ wọn gbe ́ ́ ẹsì n i ̀ gba ̀ gbo ̀ ́ yi ̀i ́ wá naá ̀ lóṣe igbi ̀ yà nju ̀ ́ lori bi ́ ́ ède ̀ Yorùbáṣe kókó di ki ́kọ si ́lẹ. ̀&#x0D; Nígbà tí aẁ ọn Bìrìtìkó dé lati wa ́ ́ ma ṣe ìjọba amunisi ́ n, i ̀ ̀jọba atò ̀kerè wa ̀ ́ lẹyìn tí o ́ wo ̀ ̀ amuni ́ ṣẹrú dé opin, e ̀ ̀dè Gẹẹ̀ sì yíì ni w ́ ọn ́ f ń darí wa. Oun ti ̀ wọn ́ f ń kọ́ aẁ ọn ọmọ Yorùbá tó jẹ́ akẹẹ́ ̀kọ́ ni ́ẹ̀kọ; ò un ni w ̀ ọn ́ f ńṣe etò ̀ of̀ n, oun na ̀ á ̀ sìni wọn ́ f ṣe etò ̀ kará ̀katá . È yí tu ́ ḿ ọ̀ si ́ wipé ́ẹnikẹni to ́ ́ bá fẹ́ rí ọwọ́ mun nigba ́ ̀ naa gbọdọ le sọ e ̀dè Gẹẹ̀ si. E ́ ̀dè Gẹẹ̀ si yi rí iha pa ́ tà ̀kì yii gba nitori ́ pé ́ oun ni e ̀ ̀dè tó pa gbogbo wa pọ̀ nigba naa torí gẹǵ ẹ́ bi ́ gbogbo wá ṣe mọ, ori ̀ ́ṣiri ́ṣi ati ̀ ọp̀ ọ̀lọpọ̀ e ̀dè abinibi ́ ́ ni ó wà ni orílẹ̀ e ̀dè Nài ̀jirí yá . ̀ Ati igba ̀ yi ni e ̀ ̀dè Gẹẹ̀ si ti j ́ ẹ gàba lori a ́ won e ̀ ̀dè abínibí wa.&#x0D; Ohun mirá n to ̀ ́ ń mú ìparun bá èdè Yorùbá ni aẁ ọn ìjọba wa. Lẹyìn tí a ́ gba ominira, e ̀ ̀dè yíì ṣi wà pẹ̀lu wa títí di oní. Ipo ̀ ̀ gíga tí ó wà nọni o ́ ́ṣì wa. ̀ Òun ni èdè ìdarí ìjọba, oun ni e ̀ ̀dè of̀ n wa. Kó dà iwe of̀ n tó ga jùlo ní ilu wa e ̀dè Gẹẹ̀ si ni w ́ ọn ́ f kọ. Ni toot ́ ọ, o ma ṣoro fu ̀ n ìj ́ ọba apap ̀ ọ̀ láti mú èdè kan ṣoṣo ninú ́ oríṣiríṣi ede to n be ni ilu wa, eyi lo faa ti èdè Geesi ti ko je ti eya kankan f jẹ aaỳ ò ̀ wọn. Ṣugb̀ ọn a ́ ẁ ọn adari ́ ni ́ ipi ̀ nl ́ ẹ̀ tó jẹ́ ti Yorùbá 1 . Tis essay was originally published in Gbe ́legb́ ọ́ a Yoruba weekly magazine issue of March 23-29, 2020. 322 Oyesina Fadare lèṣe aẁ ọn nǹkan tó le mú agbega ba ̀ ́ èdè Yorùbá. Bi ́ owe a ̀ ẁ ọn baba wa, ti ́ọr̀ ọ̀ bá kan òke ̀ tó kan ilẹ, ò ́ ni ́ ibi ̀kan à ń gbe si. Á ẁ ọn olorí ́ ilẹ̀ Yorùbá gbọ́dọ̀ mọ̀ pé àì fun li ́ ́lo èdè Yorùbá ni ́ ipò ti ́ yanranti ́ ninú ́ i ̀ṣèjọbà kò jẹ́ kí ó wun ará ìlú lati ma ́ a lo. Ede G ́ ẹẹ̀ si ti di e ́ ̀de ̀ apà pà ndodo fun a ̀ ̀ṣeyọrí ni ́ ori ́le ̀ e ̀dè wa.&#x0D; Yat̀ọ sí íj ̀ ọba, aẁ ọn òbi naá ni ̀ nn ́ ̀kan ṣe pẹ̀lúọr̀ ọ tò wa ́ nil ̀ ẹ yi. Aẁ ọn òbí ayé òde oni ̀ ́ kìí sọ èdè Yorùbá si awọn ọmọ wọn. Wọn ní ìgba ́ gb̀ ọ́ pé èdè abinibi ́ ma ́ ṣe àkóbá fun mím ́ ọ e ̀de G̀ ẹẹ̀ si; a ́ ti wi ̀ pé Ǵ ẹẹ̀ si si ́ ṣe patà ̀kì ju e ̀de ̀ abinibi ́ ́ lọ. Ihà tí wọn k ́ ọ sí e ̀dè abinibi ́ ́ kò da rará ; ẃ ọn rí bíi ede ara ́ ́ oko. Wọn gbagb ́ ọ pe ti ọmọ bá ti mọ e ̀dè Gẹẹ̀ si, o ́ ́ ti kogo ja; ko ́ ̀ sí ipò ti ́ kò le ̀ dé ni aye ́ . Ile ́ í we to n ko ̀ ọmọ ni ede Gẹẹ̀ si ni ́ ̀kan ni won ma n fẹ ra ́ n a ́ ẁ ọn ọmọ wọn lo. Gbogbo eerò ̀ burúkú wọnyi ̀ ́ ni wọn ́ f si ́ awon ọmọ ninu ti wọn ó si ̀ ma dagba ̀ là ti ko ́ rira e ́ ̀de abi ̀ nibi ́ . É yi ̀ ló fá ti ̀ é ̀de Yoru ̀ ̀báf n re ko ́ tò . Oo ̀ ̀ṣà tí á n bọ tí a kòf han ọmọ, ṣé ìparun rẹ̀ ò ma kan d ̀ ẹ̀dẹ?̀ Aẁ ọn ti ́ mo tun ma ni ́ ́ wọn ́ ṣe okunfa ̀ ̀ iparun e ̀ ̀dè abinibi ́ ́ bi ́i Yorùbá ni aẁ ọn olùkọ́ ati olu ̀ ̀dasíl ́ ẹ̀ ile iwe. Lati ́ ẹ̀kọ́ ìbẹr̀ ẹ̀ ni wàhálà yíì ti f́ ojú han. ̀ Ède G̀ ẹẹ̀ si ni olu ́ ̀kọ ma n ́ ló fù n ́ ọp̀ ọ̀lọpọ à ẁ ọn im̀ ọ̀ẹ̀kọ. Iye a ́ ̀kóko tí w ̀ ọn ́ f ń kọ́ e ̀dè Gẹẹ̀ si ju a ́ ̀kókò ti won f sílẹ̀ fún e ̀dè abinibi ́ ́ lọ ni ìlọpo ìlọpo. Kó dàẹ̀ṣẹ̀ ńlá ni ti akẹẹ́ ̀kọ̀ bá ń sọ e ̀dè Yorùba.&#x0D; &#x0D;",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4233920988",
+    "title": "Hēfēr BERît",
+    "authors": [
+      "Winfried Thiel"
+    ],
+    "year": 1970,
+    "language": "yo",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4254830143",
+    "title": "II: Mysticism of Inwardness",
+    "authors": [
+      "David Baumgardt"
+    ],
+    "year": 1961,
+    "language": "yo",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4386577488",
+    "title": "Cundy, Thomas",
+    "authors": [
+      "Neil Burton"
+    ],
+    "year": 2003,
+    "language": "yo",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4398836952",
+    "title": "CUNY_Pell.tab",
+    "authors": [
+      "Nathaniel Hendren"
+    ],
+    "year": 2019,
+    "language": "yo",
+    "abstract": ":unav",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4398855546",
+    "title": "ARY August 18 syntax.sps",
+    "authors": [
+      "Leila Koushenova",
+      "Ainura Moldokmatova"
+    ],
+    "year": 2014,
+    "language": "yo",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4398984550",
+    "title": "cuny_pell.tab",
+    "authors": [
+      "Nathaniel Hendren"
+    ],
+    "year": 2019,
+    "language": "yo",
+    "abstract": ":unav",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W59401839",
+    "title": "The derivation of VO and OV (Book)",
+    "authors": [
+      "Kleanthes Κ. Grohmann"
+    ],
+    "year": 2003,
+    "language": "yo",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W983358156",
+    "title": "Communitgar en pliras linguas e mintgatant era cun mauns e pes",
+    "authors": [
+      "Barbla Etter"
+    ],
+    "year": 2012,
+    "language": "yo",
+    "abstract": "",
+    "source": "openalex"
+  }
+]

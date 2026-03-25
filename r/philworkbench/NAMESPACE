@@ -1,0 +1,43 @@
+# Read
+export(phil_read)
+export(phil_segment)
+export(phil_lookup)
+
+# Explore
+export(phil_explore)
+S3method(print, phil_exploration)
+S3method(plot, phil_exploration)
+
+# Compare (facade)
+export(phil_compare)
+
+# Annotate
+export(phil_annotate)
+export(phil_review)
+export(phil_tag)
+
+# Trace
+export(phil_trace)
+S3method(print, phil_genealogy)
+S3method(plot, phil_genealogy)
+
+# Plot
+export(phil_plot)
+
+# Export
+export(phil_to_latex)
+export(phil_to_bibtex)
+export(phil_export)
+
+# Dashboard
+export(phil_dashboard)
+
+# Notebook
+export(phil_inline_cite)
+export(phil_session_info)
+
+# Config
+export(phil_config)
+
+# Session
+export(phil_session)

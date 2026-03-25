@@ -1,0 +1,234 @@
+{
+  "total_raw": 4535,
+  "total_filtered": 1884,
+  "filter_rate": "41.5%",
+  "tradition_coverage": {
+    "phenomenology": {
+      "target": 200,
+      "actual": 428,
+      "met": true,
+      "ratio": "214%"
+    },
+    "confucianism": {
+      "target": 200,
+      "actual": 258,
+      "met": true,
+      "ratio": "129%"
+    },
+    "buddhism": {
+      "target": 200,
+      "actual": 232,
+      "met": true,
+      "ratio": "116%"
+    },
+    "daoism": {
+      "target": 100,
+      "actual": 98,
+      "met": false,
+      "ratio": "98%"
+    },
+    "platonism": {
+      "target": 100,
+      "actual": 87,
+      "met": false,
+      "ratio": "87%"
+    },
+    "aristotelianism": {
+      "target": 100,
+      "actual": 92,
+      "met": false,
+      "ratio": "92%"
+    },
+    "stoicism": {
+      "target": 100,
+      "actual": 65,
+      "met": false,
+      "ratio": "65%"
+    },
+    "scholasticism": {
+      "target": 100,
+      "actual": 65,
+      "met": false,
+      "ratio": "65%"
+    },
+    "german_idealism": {
+      "target": 100,
+      "actual": 117,
+      "met": true,
+      "ratio": "117%"
+    },
+    "kantian": {
+      "target": 100,
+      "actual": 154,
+      "met": true,
+      "ratio": "154%"
+    },
+    "existentialism": {
+      "target": 100,
+      "actual": 152,
+      "met": true,
+      "ratio": "152%"
+    },
+    "hermeneutics": {
+      "target": 100,
+      "actual": 190,
+      "met": true,
+      "ratio": "190%"
+    },
+    "analytic": {
+      "target": 100,
+      "actual": 119,
+      "met": true,
+      "ratio": "119%"
+    },
+    "poststructuralism": {
+      "target": 100,
+      "actual": 107,
+      "met": true,
+      "ratio": "107%"
+    },
+    "pragmatism": {
+      "target": 100,
+      "actual": 108,
+      "met": true,
+      "ratio": "108%"
+    },
+    "critical_theory": {
+      "target": 50,
+      "actual": 73,
+      "met": true,
+      "ratio": "146%"
+    },
+    "ubuntu_philosophy": {
+      "target": 100,
+      "actual": 48,
+      "met": false,
+      "ratio": "48%"
+    },
+    "african_philosophy": {
+      "target": 100,
+      "actual": 25,
+      "met": false,
+      "ratio": "25%"
+    },
+    "islamic_philosophy": {
+      "target": 200,
+      "actual": 84,
+      "met": false,
+      "ratio": "42%"
+    },
+    "indian_philosophy": {
+      "target": 200,
+      "actual": 58,
+      "met": false,
+      "ratio": "29%"
+    },
+    "kyoto_school": {
+      "target": 100,
+      "actual": 50,
+      "met": false,
+      "ratio": "50%"
+    },
+    "korean_philosophy": {
+      "target": 50,
+      "actual": 28,
+      "met": false,
+      "ratio": "56%"
+    },
+    "latin_american": {
+      "target": 50,
+      "actual": 13,
+      "met": false,
+      "ratio": "26%"
+    },
+    "process_philosophy": {
+      "target": 50,
+      "actual": 28,
+      "met": false,
+      "ratio": "56%"
+    },
+    "watsuji_ethics": {
+      "target": 50,
+      "actual": 12,
+      "met": false,
+      "ratio": "24%"
+    }
+  },
+  "language_coverage": {
+    "en": {
+      "target": 500,
+      "actual": 1329,
+      "met": true
+    },
+    "de": {
+      "target": 200,
+      "actual": 203,
+      "met": true
+    },
+    "fr": {
+      "target": 200,
+      "actual": 47,
+      "met": false
+    },
+    "ja": {
+      "target": 200,
+      "actual": 14,
+      "met": false
+    },
+    "zh": {
+      "target": 200,
+      "actual": 96,
+      "met": false
+    },
+    "es": {
+      "target": 100,
+      "actual": 63,
+      "met": false
+    },
+    "pt": {
+      "target": 100,
+      "actual": 38,
+      "met": false
+    },
+    "ko": {
+      "target": 100,
+      "actual": 6,
+      "met": false
+    },
+    "ar": {
+      "target": 100,
+      "actual": 24,
+      "met": false
+    },
+    "ru": {
+      "target": 100,
+      "actual": 7,
+      "met": false
+    }
+  },
+  "temporal_coverage": {},
+  "gaps": [
+    "tradition:daoism (98/100)",
+    "tradition:platonism (87/100)",
+    "tradition:aristotelianism (92/100)",
+    "tradition:stoicism (65/100)",
+    "tradition:scholasticism (65/100)",
+    "tradition:ubuntu_philosophy (48/100)",
+    "tradition:african_philosophy (25/100)",
+    "tradition:islamic_philosophy (84/200)",
+    "tradition:indian_philosophy (58/200)",
+    "tradition:kyoto_school (50/100)",
+    "tradition:korean_philosophy (28/50)",
+    "tradition:latin_american (13/50)",
+    "tradition:process_philosophy (28/50)",
+    "tradition:watsuji_ethics (12/50)",
+    "language:fr (47/200)",
+    "language:ja (14/200)",
+    "language:zh (96/200)",
+    "language:es (63/100)",
+    "language:pt (38/100)",
+    "language:ko (6/100)",
+    "language:ar (24/100)",
+    "language:ru (7/100)"
+  ]
+}

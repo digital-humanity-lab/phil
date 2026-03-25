@@ -1,0 +1,19 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "philbench"
+version = "0.1.0"
+description = "Integrated workbench for computational philosophy research"
+license = "MIT"
+requires-python = ">=3.11"
+authors = [{ name = "Yusuke Matsui", email = "mail.to.matsui@gmail.com" }]
+dependencies = ["philcore", "philengine", "philmap"]
+
+[project.optional-dependencies]
+full = ["philtext", "philgraph"]
+dashboard = ["streamlit"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/philbench"]

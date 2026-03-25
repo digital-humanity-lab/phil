@@ -1,0 +1,72 @@
+[
+  {
+    "id": "ctp:analects",
+    "title": "論語 (Analerta)",
+    "tradition": "confucianism",
+    "language": "zh",
+    "chars": 523
+  },
+  {
+    "id": "ctp:mengzi",
+    "title": "孟子 (Mengzi)",
+    "tradition": "confucianism",
+    "language": "zh",
+    "chars": 411
+  },
+  {
+    "id": "ctp:daxue",
+    "title": "大学 (Great Learning)",
+    "tradition": "confucianism",
+    "language": "zh",
+    "chars": 115
+  },
+  {
+    "id": "ctp:zhongyong",
+    "title": "中庸 (Doctrine of the Mean)",
+    "tradition": "confucianism",
+    "language": "zh",
+    "chars": 115
+  },
+  {
+    "id": "ctp:xunzi",
+    "title": "荀子 (Xunzi)",
+    "tradition": "confucianism",
+    "language": "zh",
+    "chars": 253
+  },
+  {
+    "id": "ctp:dao-de-jing",
+    "title": "道徳経 (Dao De Jing)",
+    "tradition": "daoism",
+    "language": "zh",
+    "chars": 6798
+  },
+  {
+    "id": "ctp:zhuangzi",
+    "title": "荘子 (Zhuangzi)",
+    "tradition": "daoism",
+    "language": "zh",
+    "chars": 253
+  },
+  {
+    "id": "ctp:han-feizi",
+    "title": "韓非子 (Han Feizi)",
+    "tradition": "legalism",
+    "language": "zh",
+    "chars": 115
+  },
+  {
+    "id": "ctp:mozi",
+    "title": "墨子 (Mozi)",
+    "tradition": "mohism",
+    "language": "zh",
+    "chars": 323
+  },
+  {
+    "id": "ctp:heart-sutra",
+    "title": "般若心経 (Heart Sutra)",
+    "tradition": "buddhism",
+    "language": "zh",
+    "chars": 115
+  }
+]

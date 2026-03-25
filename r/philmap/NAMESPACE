@@ -1,0 +1,10 @@
+export(phil_align)
+export(phil_compare)
+export(phil_search)
+
+S3method(print, phil_alignment)
+S3method(summary, phil_alignment)
+S3method(print, phil_comparison)
+S3method(plot, phil_comparison)
+S3method(print, phil_search_results)
+S3method(plot, phil_search_results)

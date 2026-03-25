@@ -1,0 +1,60 @@
+languages:
+  - code: eng
+    name: English
+    script: Latin
+
+  - code: deu
+    name: German
+    script: Latin
+
+  - code: fra
+    name: French
+    script: Latin
+
+  - code: ell
+    name: Greek (Modern)
+    script: Greek
+
+  - code: grc
+    name: Greek (Ancient)
+    script: Greek
+
+  - code: lat
+    name: Latin
+    script: Latin
+
+  - code: ara
+    name: Arabic
+    script: Arabic
+
+  - code: fas
+    name: Persian
+    script: Arabic
+
+  - code: san
+    name: Sanskrit
+    script: Devanagari
+
+  - code: pal
+    name: Pali
+    script: various
+
+  - code: zho
+    name: Chinese
+    script: Han
+
+  - code: lzh
+    name: Classical Chinese
+    script: Han
+
+  - code: jpn
+    name: Japanese
+    script: Han/Kana
+
+  - code: kor
+    name: Korean
+    script: Hangul
+
+  - code: tib
+    name: Tibetan
+    script: Tibetan

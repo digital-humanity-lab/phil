@@ -1,0 +1,61 @@
+[
+  {
+    "id": "nagarjuna_mulamadhyamakakarika",
+    "title": "Mulamadhyamakakarika",
+    "author": "Nagarjuna",
+    "tradition": "madhyamaka",
+    "language": "sa",
+    "chars": 50971
+  },
+  {
+    "id": "vasubandhu_abhidharmakosa",
+    "title": "Abhidharmakosabhasya",
+    "author": "Vasubandhu",
+    "tradition": "yogacara",
+    "language": "sa",
+    "chars": 953330
+  },
+  {
+    "id": "patanjali_yogasutra",
+    "title": "Yogasutra",
+    "author": "Patanjali",
+    "tradition": "yoga",
+    "language": "sa",
+    "chars": 13186
+  },
+  {
+    "id": "brahmasutra",
+    "title": "Brahmasutra",
+    "language": "sa",
+    "tradition": "vedanta",
+    "chars": 25601
+  },
+  {
+    "id": "vigrahavyavartani",
+    "title": "Vigrahavyavartani",
+    "language": "sa",
+    "tradition": "madhyamaka",
+    "chars": 44696
+  },
+  {
+    "id": "bhagavadgita_en",
+    "title": "Bhagavadgita (English)",
+    "language": "en",
+    "tradition": "vedanta",
+    "chars": 147382
+  },
+  {
+    "id": "upanishads_en",
+    "title": "Upanishads (English)",
+    "language": "en",
+    "tradition": "vedanta",
+    "chars": 125356
+  },
+  {
+    "id": "dhammapada_en",
+    "title": "Dhammapada (English)",
+    "language": "en",
+    "tradition": "theravada",
+    "chars": 88515
+  }
+]

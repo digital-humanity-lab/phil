@@ -1,0 +1,56 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PhilCorpus",
+  "description": "SummarizedExperiment-like data container for philosophical texts.",
+  "type": "object",
+  "properties": {
+    "layers": {
+      "type": "object",
+      "description": "Named matrices: original, embedding, features, etc.",
+      "additionalProperties": true
+    },
+    "segment_data": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "segment_id": { "type": "string" },
+          "text_id": { "type": "string" },
+          "position": { "type": "integer" },
+          "section": { "type": "string" },
+          "segment_type": { "type": "string", "enum": ["paragraph", "sentence", "argument"] }
+        },
+        "required": ["segment_id", "text_id"]
+      }
+    },
+    "text_metadata": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "text_id": { "type": "string" },
+          "title": { "type": "string" },
+          "author": { "type": "string" },
+          "year": { "type": "integer" },
+          "tradition": { "type": "string" },
+          "language": { "type": "string", "description": "ISO 639-3 code" },
+          "edition": { "type": "string" }
+        },
+        "required": ["text_id", "title"]
+      }
+    },
+    "concept_spans": {
+      "type": "array",
+      "items": { "$ref": "concept_spans.schema.json#/items" }
+    },
+    "provenance": {
+      "type": "object",
+      "properties": {
+        "source": { "type": "string" },
+        "built_with": { "type": "string" },
+        "annotation_method": { "type": "string" }
+      }
+    }
+  },
+  "required": ["layers", "segment_data", "text_metadata"]
+}

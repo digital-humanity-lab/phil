@@ -1,0 +1,20 @@
+Package: philcore
+Title: Core Data Structures for Phil Ecosystem
+Version: 0.1.0
+Authors@R:
+    person("Yusuke", "Matsui", email = "mail.to.matsui@gmail.com", role = c("aut", "cre"))
+Description: Provides core data structures for the Phil philosophy research
+    ecosystem. Includes PhilCorpus (a SummarizedExperiment-like container for
+    philosophical texts), ConceptSpans (GRanges-like concept annotations), and
+    PhilCollection (multi-corpus integration). Designed for cross-cultural,
+    multilingual philosophical text analysis.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports:
+    jsonlite
+Suggests:
+    testthat (>= 3.0.0),
+    arrow
+Config/testthat/edition: 3

@@ -1,0 +1,15 @@
+Package: phil.concepts.db
+Title: Philosophical Concept Annotation Database
+Version: 0.1.0
+Authors@R:
+    person("Yusuke", "Matsui", email = "mail.to.matsui@gmail.com", role = c("aut", "cre"))
+Description: AnnotationDbi-style database for philosophical concepts.
+    Provides concept IDs, multilingual labels, definitions, tradition
+    associations, and cross-references to Wikidata and InPhO.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Imports:
+    DBI,
+    RSQLite
+Suggests:
+    testthat (>= 3.0.0)

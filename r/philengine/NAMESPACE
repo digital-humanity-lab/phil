@@ -1,0 +1,10 @@
+export(phil_engine)
+export(phil_embed)
+export(phil_embed_corpus)
+export(phil_quantify)
+export(phil_list_backends)
+export(phil_compare_backends)
+export(phil_cache_path)
+export(phil_clear_cache)
+
+S3method(print, phil_engine)

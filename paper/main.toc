@@ -1,0 +1,66 @@
+\contentsline {section}{\numberline {1}はじめに}{5}{section.1}%
+\contentsline {subsection}{\numberline {1.1}哲学研究における情報技術導入の現状}{5}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}他の人文学との比較：なぜ哲学は遅れているのか}{5}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}本エコシステムのビジョン}{5}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}論文の構成}{6}{subsection.1.4}%
+\contentsline {section}{\numberline {2}哲学研究に計算的アプローチが必要な理由}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}単一学者の認知限界問題}{6}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}概念の通約不可能性問題}{7}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}解釈の追跡可能性問題}{7}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}正典中心主義からの脱却}{8}{subsection.2.4}%
+\contentsline {section}{\numberline {3}日常化のための設計思想}{8}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Bioconductor の成功に学ぶ}{8}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}「BLAST のような概念検索」}{9}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}研究者が触れるのは15の「動詞」だけ}{10}{subsection.3.3}%
+\contentsline {section}{\numberline {4}具体的利用事例}{10}{section.4}%
+\contentsline {subsection}{\numberline {4.1}事例1：和辻「間柄」の伝統横断探索}{11}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}事例2：概念比較レポートの自動生成}{12}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}事例3：概念の時系列変遷追跡}{13}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}事例4：解釈の布置図}{14}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}事例5：ゼミ・教育利用}{15}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}事例6：科研費申請・論文準備ワークフロー}{16}{subsection.4.6}%
+\contentsline {section}{\numberline {5}データ構造：PhilCorpus と ConceptSpans}{16}{section.5}%
+\contentsline {subsection}{\numberline {5.1}PhilCorpus：哲学テキストのための標準データコンテナ}{16}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}ConceptSpans：テキスト上の概念アノテーション}{19}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}解釈の多重性への対応}{19}{subsection.5.3}%
+\contentsline {section}{\numberline {6}エコシステムアーキテクチャ}{20}{section.6}%
+\contentsline {subsection}{\numberline {6.1}7層アーキテクチャ}{20}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}R/Python 二言語戦略}{21}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}リポジトリ構成}{22}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}依存関係グラフ}{22}{subsection.6.4}%
+\contentsline {section}{\numberline {7}テキスト定量化エンジン（philengine）}{23}{section.7}%
+\contentsline {subsection}{\numberline {7.1}プラガブルバックエンド設計}{23}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}ファセット埋め込み}{24}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}非ベクトル的定量化}{26}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}古典語への対応}{26}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.5}哲学ドメイン特化ファインチューニング}{27}{subsection.7.5}%
+\contentsline {section}{\numberline {8}概念整列手法（philmap）}{27}{section.8}%
+\contentsline {subsection}{\numberline {8.1}4つの整列手法}{27}{subsection.8.1}%
+\contentsline {subsubsection}{\numberline {8.1.1}意味的整列（Semantic Alignment）}{27}{subsubsection.8.1.1}%
+\contentsline {subsubsection}{\numberline {8.1.2}構造的整列（Structural Alignment）}{28}{subsubsection.8.1.2}%
+\contentsline {subsubsection}{\numberline {8.1.3}論証的整列（Argumentative Alignment）}{28}{subsubsection.8.1.3}%
+\contentsline {subsubsection}{\numberline {8.1.4}ハイブリッド整列（Hybrid Alignment）}{28}{subsubsection.8.1.4}%
+\contentsline {subsection}{\numberline {8.2}ベンチマーク}{29}{subsection.8.2}%
+\contentsline {section}{\numberline {9}知識グラフとテキスト解析}{30}{section.9}%
+\contentsline {subsection}{\numberline {9.1}philgraph：哲学知識グラフ}{30}{subsection.9.1}%
+\contentsline {subsubsection}{\numberline {9.1.1}ノード型}{30}{subsubsection.9.1.1}%
+\contentsline {subsubsection}{\numberline {9.1.2}エッジ型}{30}{subsubsection.9.1.2}%
+\contentsline {subsection}{\numberline {9.2}philtext：論証抽出と解釈追跡}{31}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}非古典論理サポート}{32}{subsection.9.3}%
+\contentsline {section}{\numberline {10}深層学習基盤との関係}{32}{section.10}%
+\contentsline {subsection}{\numberline {10.1}大規模言語モデルとの連携}{32}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}多言語埋め込みモデルの発展と哲学への応用}{33}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}今後のモデル開発の方向性}{33}{subsection.10.3}%
+\contentsline {section}{\numberline {11}関連研究}{34}{section.11}%
+\contentsline {subsection}{\numberline {11.1}デジタル・ヒューマニティーズ}{34}{subsection.11.1}%
+\contentsline {subsection}{\numberline {11.2}計算哲学}{34}{subsection.11.2}%
+\contentsline {subsection}{\numberline {11.3}哲学的テキストマイニング}{34}{subsection.11.3}%
+\contentsline {subsection}{\numberline {11.4}Bioconductor / BioPython との比較}{35}{subsection.11.4}%
+\contentsline {subsection}{\numberline {11.5}多言語埋め込みモデル}{35}{subsection.11.5}%
+\contentsline {section}{\numberline {12}ロードマップと今後の課題}{35}{section.12}%
+\contentsline {subsection}{\numberline {12.1}実装ロードマップ}{35}{subsection.12.1}%
+\contentsline {subsection}{\numberline {12.2}コミュニティ形成の課題}{36}{subsection.12.2}%
+\contentsline {subsection}{\numberline {12.3}評価基準の共同構築}{36}{subsection.12.3}%
+\contentsline {section}{\numberline {13}まとめ}{36}{section.13}%
+\contentsline {subsection}{\numberline {13.1}本質的な貢献}{36}{subsection.13.1}%
+\contentsline {subsection}{\numberline {13.2}「哲学のパラダイムシフト」への展望}{37}{subsection.13.2}%

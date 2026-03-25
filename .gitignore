@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
+*.whl
+.venv/
+venv/
+env/
+.env
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+htmlcov/
+.coverage
+coverage.xml
+
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rcheck/
+*.tar.gz
+Meta/
+doc/
+docs/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Docker
+docker/data/
+
+# Project
+shared/data/*.csv
+shared/data/*.parquet
+*.log
+
+# Large data files (use DuckDB locally, Parquet for sharing)
+data/phil.duckdb
+data/journal_abstracts/top_journals_abstracts.json
+data/journal_fulltext/texts/

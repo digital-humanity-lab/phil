@@ -1,0 +1,40 @@
+# Generated - do not edit by hand
+
+# PhilCorpus
+export(PhilCorpus)
+export(layers)
+export("layers<-")
+export(segmentData)
+export("segmentData<-")
+export(textMetadata)
+export("textMetadata<-")
+export(conceptSpans)
+export("conceptSpans<-")
+export(provenance)
+export(n_segments)
+export(n_texts)
+export(phil_add_layer)
+
+S3method(print, PhilCorpus)
+S3method(summary, PhilCorpus)
+S3method(plot, PhilCorpus)
+S3method("[", PhilCorpus)
+
+# ConceptSpans
+export(ConceptSpans)
+export(filter_by_concept)
+export(filter_by_interpretation)
+S3method(print, ConceptSpans)
+S3method("[", ConceptSpans)
+
+# PhilCollection
+export(PhilCollection)
+export(corpora)
+S3method(print, PhilCollection)
+
+# IO
+export(phil_load)
+export(phil_save)
+
+# Validation
+export(validate_phil_corpus)

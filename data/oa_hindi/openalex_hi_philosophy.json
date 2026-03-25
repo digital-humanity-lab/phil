@@ -1,0 +1,2334 @@
+[
+  {
+    "id": "https://openalex.org/W1574980499",
+    "title": "Conflicts of values",
+    "authors": [
+      "Bernard Williams"
+    ],
+    "year": 1981,
+    "language": "hi",
+    "abstract": "Isaiah Berlin has always insisted that there is a plurality of values which can conflict with one another, and which are not reducible to one another; consequently, that we cannot conceive of a situation in which it was true both that all value-conflict had been eliminated, and that there had been no loss of value on the way. To have insisted on these truths is one of the conspicuous services that Berlin has rendered to a sound and humane conception of social thought.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2118136514",
+    "title": "Argument Ellipsis, Classifier Phrases, and the DP Parameter",
+    "authors": [
+      "Hsu-Te Johnny Cheng"
+    ],
+    "year": 2013,
+    "language": "hi",
+    "abstract": "This thesis investigates two theoretical consequences of a point of typological variation, namely, the presence/lack of Determiner Phrase (DP) in a language. I argue that the availability of Argument Ellipsis (AE) is directly tied to the lack of DP in a given language, and that (numeral) Classifier Phrases (CLP) and DP cannot co-occur in the same language.\\nIn chapter 2, building on Bošković’s (2008a, 2012) claim that languages without articles lack DP, I investigate the status of DP in Mandarin Chinese (MC). I examine previous literature and show that claims regarding the existence of DP in MC are not supported and provide evidence that the DP projection is indeed missing from the nominal structure of MC. In chapter 3, I examine the null argument paradigm in MC and argue that the phenomenon of AE, in which the argument is elided in the PF component, is independently attested in MC. In chapter 4, I propose a new theory of AE, where the licensing condition on AE is tied to the absence of DP. In other words, AE may only occur in languages without the DP projection. I propose that the lack of DP makes VP (rather than vP) a phase in these languages. As a consequence, the direct object of the verb, which is the complement of a phase head, may be elided in the PF component, resulting in the phenomenon of AE. In chapter 5, I explore the second consequence of the lack of DP: its relation with numeral classifiers. Examining various languages, I establish a correlation between the existence of a numeral Classifier (CL) system and the lack of DP, which states that numeral CLPs do not co-occur with DP in the same language. I also examine CLP systems in Japanese and MC as case studies to capture certain differences in their nominal domains.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2461826422",
+    "title": "Grit or Gunk",
+    "authors": [
+      "Peter Forrest"
+    ],
+    "year": 2004,
+    "language": "hi",
+    "abstract": "Journal Article Grit or Gunk: Implications of the Banach-Tarski Paradox Get access Peter Forrest Peter Forrest University of New England Armidale, Australia Search for other works by this author on: Oxford Academic PubMed Google Scholar The Monist, Volume 87, Issue 3, 1 July 2004, Pages 351–370, https://doi.org/10.5840/monist200487317 Published: 25 November 2014",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2738906282",
+    "title": "Identifiability of Model Parameter",
+    "authors": [
+      "K.R. Godfrey",
+      "Joseph J. DiStefano"
+    ],
+    "year": 1985,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W372977555",
+    "title": "Parameter identification for a traffic flow model",
+    "authors": [
+      "Μ. Cremer",
+      "Markos Papageorgiou"
+    ],
+    "year": 1981,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2493461424",
+    "title": "The Agreement Parameter",
+    "authors": [
+      "Chris Collins"
+    ],
+    "year": 2004,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1969618942",
+    "title": "A finite element analysis of surface-stress effects on measurement of the Si lattice parameter",
+    "authors": [
+      "Danilo Quagliotti",
+      "G. Mana",
+      "E. Massa",
+      "Carlo Paolo Sasso",
+      "U. Kuetgens"
+    ],
+    "year": 2013,
+    "language": "hi",
+    "abstract": "A stress exists in solid surfaces even if the underlying bulk material is stress-free. This paper investigates the effect of surface stress on the value of the Si lattice parameter measured by combined x-ray and optical interferometry. An elastic-film model has been used to provide a surface load in a finite element model on the x-ray interferometer crystal. Eventually, an interferometer design is proposed to determine a measurement where the effect of the surface stress is deemed to be detected.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W31532292",
+    "title": "Estimation of proper parameter values for document binarization",
+    "authors": [
+      "E. Badekas",
+      "N. Papamarkos"
+    ],
+    "year": 2008,
+    "language": "hi",
+    "abstract": "Most of the existing document-binarization techniques deal with many parameters that require a priori setting of their values. Due to the unknown of the ground-truth images, the evaluation of document binarization techniques is subjective and employs human observers for the estimation of the appropriate parameter values. The selection of the appropriate values for these parameters is crucial and influences to the final binarization. However, there is no predetermined set of parameters that guarantees optimal binarization for all document images. This paper proposes a new technique that allows the estimation of proper parameters values for each one of the document binarization techniques. The proposed approach is based on a statistical performance analysis of a set of binarization results, which are obtained by applying various binarization techniques with different parameter values. The proposed statistical performance analysis can also depicts the best document binarization result obtained by a set of document binarization techniques.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2131652078",
+    "title": "Optimized parameter extraction using fuzzy logic",
+    "authors": [
+      "Rodrigo Picos",
+      "O. Calvo",
+      "Benjamı́n Iñı́guez",
+      "E. Garcı́a-Moreno",
+      "Rodolfo García",
+      "M. Estrada"
+    ],
+    "year": 2007,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2364063356",
+    "title": "Attitude representation using rodrigues parameter",
+    "authors": [
+      "Minghai Wang"
+    ],
+    "year": 2004,
+    "language": "hi",
+    "abstract": "This paper gives detail discussion of attitude representation using Rodrigues parameters.Many new attractive properties of Rodrigues parameters are presented.A special algebra of Rodrigues parameters is defined for better description of attitude motion and coordinate transformation.A simple derivation of Rodrigues parameters based attitude kinematics equation and inverse kinematics equation is presented.The relationship of Rodrigues parameters with other attitude representation,such as Euler angle,quaternion and direction cosine matrix are also provided.We point out that attitude representation using Rodrigues parameters has the advantage of simple and clear geometric interpretation,and that the Rodrigues parameters based attitude kinematics equation has simple mathematic structure and is more efficient than widely used quaternion based kinematics equation.At last,we discussed the application of Rodrigues parameters in real time attitude calculation of strapdown ballistic missile.The computational burden of Rodrigues parameters based strapdown attitude algorithm is only half of currently used quaternion based algorithm,while has better precision and less memory consumption.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2057500046",
+    "title": "Parameter optimizations of multiple-mirror reactors",
+    "authors": [
+      "F. Najmabadi",
+      "A. J. Lichtenberg",
+      "M. A. Lieberman"
+    ],
+    "year": 1983,
+    "language": "hi",
+    "abstract": "The diffusion density profile model for multiple-mirror devices is limited to machines with a large number of cells and high mirror ratios. A new discrete staircase density profile model, without those limitations, has been developed. This model, along with the diffusion model, has been used to study the parameters of steady-state multiple-mirror reactors. A linear fusion device consisting of a central solenoid and multiple mirrors at each end has been considered. The magnetic field is taken to be produced by a solenoid and mirror-quadrupole assemblies which produce an average-minimum-B stable configuration. Different means of supplying the re-circulating power, including high-energy neutral-D injectors, are considered. Distribution functions of alpha particles and beam particles in this machine have been calculated. Trade-offs among the length of the machine, Q ≡ fusion power/beam power, and other machine parameters in two different operating modes: wetwood burner (pure-T plasma background) and conventional (T and D background plasma) have been studied. It is found that the staircase density profile results in shorter reactors with a larger number of cells, compared to those of the diffusion-determined density profile.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2543836877",
+    "title": "New parameters for the sociophonetic indexes",
+    "authors": [
+      "Giovanna Marotta"
+    ],
+    "year": 2014,
+    "language": "hi",
+    "abstract": "A sociophonetic analysis of the main phonological processes occurring in Tuscan Italian is presented within a global proposal of a new, original set of parameters of variation. After a general discussion on the sociophonetic indexes and the illustration of phonological processes occurring in the local pronunciation of Italian, the parameters of the new model are metaphorically identified as properties of solids, i.e. shape, size, thickness and weight. In the last section of the paper, the sociophonetic parameters proposed are compared with the socially-marked variables proposed by Labov (2001), showing analogies and differences. The advantages derivable from the model proposed are finally discussed, with the explicit acknowledgement of the need for the inspection of the phonological system in sociophonetic analysis.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4309217259",
+    "title": "Ambedkar's novel 'Navayan': Pedestal and Ideology (With reference to addressed speeches and published magazines)",
+    "authors": [
+      "Manoj Kumar Pandya"
+    ],
+    "year": 2022,
+    "language": "hi",
+    "abstract": "Dr. Bhimrao Ambedkar has been a recognized Great Hero of the past century. He is neither a Shudra by birth nor a Brahmin by birth. He is a Brahmin and a Shudra on the basis of Karma. The philosophy and way of life in the form of liberty, equality and fraternity can be found only in Buddhism. Teachings and characteristics of Buddha and Dhamma: Individual centre, truth-exploration, self-promotion, humanism, the spiritual state of religion, and the highest state of conscience Ambedkar Praneet Navayana was the cornerstone of Humanity. Abstract in Hindi Language: विगत शताब्दी के मान्य महानायक रहे हैं डॉ भीमराव अम्बेडकर। डॉ अम्बेडकर का चिंतन-व्यवहार का आधार बिंदु मानवता ही है जो नस्ल, रंग, जाति, लिंग भेद से परे है जिसमें समता समाज ही उनके नवयान का आधार बनी। यह धारणः प्रत्येक व्यक्ति न जन्म से शूद्र होता है और न ही जन्म से ब्राह्मण। वह कर्म के आधार पर ही ब्राह्मण और शूद्र होता है। डॉ भीमराव का धर्मांतरण अन्धानुकरण नहीं था। उन्होंने बौद्ध धर्म की प्रज्ञा, करुणा, और समता आधारित दृष्टि को देखा और पाया कि स्वतंत्रता, समानता और बन्धुत्त्व रूपी जीवन दर्शन और जीवन पद्धति बौद्ध धर्म में ही पाई जा सकती है। बुद्ध और धम्म की शिक्षाएँ और विशेषताएँः व्यक्ति केंद्र, सत्यान्वेषण, आत्मोन्नति, मानवतावाद, धर्म की साधनावत स्थिति, विवेक की सर्वोच्च स्थिति ही अम्बेडकर प्रणीत नवयान की आधारशिला रही। Keywords: महानायक, मानवतावाद, अछूत, धर्मांतरण, समतामूलक समाज, व्यक्ति केंद्र, सत्यावेषण, आत्मोन्नति, विवेक की सर्वोच्च स्थिति",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1504472651",
+    "title": "THERMAL PROPERTIES OF HIGH-TEMPERATURE MATERIALS,",
+    "authors": [
+      "W.D. Wood",
+      "H.W. Deem"
+    ],
+    "year": 1964,
+    "language": "hi",
+    "abstract": "This report is a compilation of specific heat, thermal expansion, and thermal conductivity data for materials of possible structural usefulness above 2500 F. Data are presented graphically with notations as to measurement methods and test conditions. Prominent laboratories currently making thermal property measurements are identified. (Author)",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W659582829",
+    "title": "The Vital Message",
+    "authors": [
+      "Arthur Conan Doyle"
+    ],
+    "year": 1919,
+    "language": "hi",
+    "abstract": "IN The New Revelation the first dawn of the coming change has been described. In The Vital Message the sun has risen higher, and one sees more clearly and broadly what our new relations with the Unseen may be. As I look into the future of the human race I am reminded of how once, from amid the bleak chaos of rock and snow at the head of an Alpine pass, I looked down upon the far stretching view of Lombardy, shimmering in the sunshine and extending in one splendid panorama of blue lakes and green rolling hills until it melted into the golden haze which draped the far horizon. Such a promised land is at our very feet which, when we attain it, will make our present civilisation seem barren and uncouth. Already our vanguard is well over the pass. Nothing can now prevent us from reaching that wonderful land which stretches so clearly before those eyes which are opened to see it.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W128191121",
+    "title": "Evaluation of the IRT Parameter Invariance Property for the MCAT.",
+    "authors": [
+      "Vinaya Kelkar",
+      "Linda F. Wightman",
+      "Richard M. Luecht"
+    ],
+    "year": 2000,
+    "language": "hi",
+    "abstract": "AUTHOR Kelkar, Vinaya; Wightman, Linda F.; Luecht, Richard M. TITLE Evaluation of the IRT Parameter Invariance Property for the MCAT. PUB DATE 2000-04-25 NOTE 66p.; Paper presented at the Annual Meeting of the National Council on Measurement in Education (New Orleans, LA, April 25-27, 2000). The Graduate School Research Program is sponsored by the Association of American Medical Colleges--Medical College Admission Test. PUB TYPE Reports Evaluative (142) -Speeches/Meeting Papers (150) EDRS PRICE MF01/PC03 Plus Postage. DESCRIPTORS Ability; *College Entrance Examinations; *Difficulty Level; Ethnicity; Higher Education; *Item Response Theory; *Racial Differences; Validity IDENTIFIERS *Invariance; *Medical College Admission Test; One Parameter Model; Three Parameter Model; Two Parameter Model",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1973851145",
+    "title": "The<i>Nomos</i>of Apologia",
+    "authors": [
+      "Maria Giannacopoulos"
+    ],
+    "year": 2009,
+    "language": "hi",
+    "abstract": "On 13 February 2008, the newly elected Prime Minister of Australia, Kevin Rudd, offered an apology to the Stolen Generations of Indigenous peoples — an apology he said he offered ‘without qualification’. His ‘unqualified’ apology, however, was crafted for the purpose of bringing ‘the first two centuries of our settled history to a close’. In this article, I not only contend that Rudd’s apology comes with qualifications but also that it is unqualified. Rudd says: ‘but my proposal is this: If the apology we extend today is accepted in the spirit of reconciliation, in which it is offered, we can today resolve together that there be a new beginning for Australia’. This is precisely a moment of ‘qualification’, since Rudd attempts to delineate the boundaries through which the recipients are to ‘accept’ his terms. But further, the delineation of the boundaries for the comprehension of this apology also draw our attention to the ways in which the apology is ‘unqualified’ — that is to say, it silences and denies the more complete context of colonial violence for which Rudd should be apologizing, or at least acknowledging, but instead is silent. This contradiction in the text of Rudd’s apology is not accidental: it reproduces the violent and productive contradictions that are constitutive of Australian law and sovereignty. Rudd’s apology is for specific laws of the past but not for the system of law itself, which in the Australian context is an effect and perpetuation of colonial violence. By remaining silent on the larger questions of the place of white law in a still-colonial Australian context, Rudd can seemingly logically call a period of history ‘settled’, ‘resolved’ and, alarmingly, ‘closed’.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2725598562",
+    "title": "Parameter estimation using paleodata assimilation",
+    "authors": [
+      "J. D. Annan",
+      "Michel Crucifix",
+      "T.R. Edwards",
+      "André Paul"
+    ],
+    "year": 2013,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2744716063",
+    "title": "All-Star Cast",
+    "authors": [
+      "Emily Genauer"
+    ],
+    "year": 1937,
+    "language": "hi",
+    "abstract": "In This period when political loyalties are increasingly divided, uncertain and complex, and personal allegiances attach not to governments so much as to systems of government, it is interesting to note how such an international presentation as the 1937 Exposition Universelle des Arts et Techniques, in Paris, sharpens again in all who come to see it, the blunted edges of jingoism.By far the largest majority of visitors to this gigantic display of all that the nations of the world are contributing to economic and social progress, rush directly to their own country's pavilion. Americans too, anybody on the sidelines will note, in most cases proceed straightway to the building of the United States. But there is this difference between the attitudes and reactions of our own countrymen as contrasted with those of the rest of the world. We approach our own show with greater detachment. Our pavilion is, to be sure, no presentation to provoke loud and exuberant huzzahs. There is no denying the fact that America l...",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3126516092",
+    "title": "NATURAL RESOURCES AND THEIR CONSERVATION",
+    "authors": [
+      "Anita Singh",
+      "Ragini Singh"
+    ],
+    "year": 2015,
+    "language": "hi",
+    "abstract": "Nature has provided all the useful resources to man with free hand. Adivana relied entirely on nature to fulfill all its needs, but in the development of Adivasi from human to modern man, man exploited the natural resources in full and consequently the abundant wealth of nature gradually started to end. In this sequence, various species have reached the category of extinct species, conservation of natural resources has become imperative to preserve the remaining species and the human species itself. Along with taking various protective measures for this, the need is for the youth who are sensitive to nature and able to bear the responsibility of conservation of natural resources by staying in the nature of nature even in odd circumstances.&#x0D; प्रकृति ने मनुष्य को सभी जीवनोपयोगी संसाधन मुक्त हस्त से प्रदान किये हैं। आदिमानव अपनी समस्त आवष्यकताओं की पूर्ति के लिये पूरी तरह प्रकृति पर निर्भर करता था, किंतु आदि मानव से आधुनिक मनुष्य बनने की विकासयात्रा में मनुष्य ने प्राकृतिक संसाधनों का भरपूर दोहन किया फलस्वरूप प्रकृति की अकूत संपदा धीरे-धीरे समाप्त होने लगी। इस क्रम में विभिन्न प्रजातियाँ विलुप्त प्रजातियों की श्रेणी में पहुँच गयीं, शेष बची हुई प्रजातियों और स्वयं मनुष्य प्रजाति को बचाये रखने के लिये भी प्राकृतिक संसाधनों का संरक्षण अत्यावष्यक हो गया है। इस हेतु विभिन्न सुरक्षात्मक कदम उठाने के साथ-साथ आवष्यकता ऐसे युवाओं की है जो प्रकृति के प्रति संवेदनषील हों तथा विषम परिस्थितियों में भी प्रकृति के सानिध्य में रहकर प्राकृतिक संसाधनों के संरक्षण का उत्तरदायित्व निभाने में सक्षम हों।",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3133498811",
+    "title": "\"COLOR COMBINATION IN ABSTRACT PAINTING STYLE\"",
+    "authors": [
+      "Kumkum Bhardwaj",
+      "Monika Yadav"
+    ],
+    "year": 2014,
+    "language": "hi",
+    "abstract": "Varna means color is the life of any artwork which depends on vision and light, there is some color in every object, so any object is identified by colors.Color is the property of light. Color does not exist independently, but the effect that the brain has on the axon is color. Two objects of the same form are identified by different colors. Color is the property of the object that we experience by the eyes. We can see an object only in the presence of light, so light gives us a sense of colors.&#x0D; वर्ण अर्थात रंग किसी भी कलाकृति का प्राण है जो दृष्टि एवं प्रकाश पर निर्भर करता है प्रत्येक वस्तु में कोई न कोई रंग विद्यमान होता है अतः किसी भी वस्तु की पहचान रंगों के कारण होती है।रंग प्रकाश का गुण है रंग का स्वतंत्र अस्तित्व नहीं होता है अपितु अक्षपटल द्वारा मस्तिष्क पर पड़ने वाला प्रभाव रंग है एक ही रूप की दो वस्तुओं को पृथक-पृथक रंगों द्वारा पहचाना जाता है रंग वस्तु का वह गुण है जिसका अनुभव हम नेत्रों द्वारा करते है प्रकाष की उपस्थिति में ही हम किसी वस्तु को देख सकते है अतः प्रकाश हमें रंगों का बोध कराता है।",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4210572566",
+    "title": "शतकज दवर सचलत ‘आओ गढ़ ससकरवन पढ़ - गरभतसव ससकर’ आनदलन स भरतय समज एव गरभवत मतओ म जगत क परयस : एक ववचनतमक अधययन",
+    "authors": [
+      "Gayatri Sharma",
+      "Reetu Singh"
+    ],
+    "year": 2022,
+    "language": "hi",
+    "abstract": "किसी राष्ट्र की सच्ची सम्पत्ति वहाँ के आदर्श चरित्र वाले महान व्यक्ति होते हैं, जो राष्ट्र की प्रगति एवं कार्यशक्ति का आधार माने जाते हैं। मानव के वैचारिक पतन ने नकारात्मक दृष्टिकोण, असंतुलित जीवनशैली और विनाशकारी कार्य पद्धति को जन्म दिया है, फलस्वरूप वातावरण की विषाक्तता पनपी है और मानवता को खतरा उत्पन्न हो गया है । भारतीय एवं वैश्विक मनुष्य समुदाय में आधुनिक समय में उनकी परवरिश में शारीरिक विकास एवं स्वास्थ्य पर ही ध्यान दिया जाता है । उनके मानसिक, भावनात्मक एवं नैतिक विकास पर ध्यान न दिये जाने के कारण भावी पीढ़ी दिशा विहीन, तरह-तरह के अपराधों में लिप्त, भावनात्मक एवं नैतिक मूल्यों से वंचित होती जा रही है, जिसके कारण उच्चशिक्षा प्राप्त करने पर भी बच्चे संस्कारों के अभाव के कारण चिन्तन, चरित्र और व्यवहार में उत्कृष्टता, शालीनता, आदर्शवादिता एवं दैवी गुणों से वंचित हो रहे हैं, जिसका परिणाम परिवार, समाज एवं राष्ट्र में भ्रष्टाचार, पापाचार के रूप में आ रहा है । अखिल विश्व गायत्री परिवार के संस्थापक युग ऋषि पंडित श्रीराम शर्मा आचार्य जी के साहित्य में भावी पीढ़ी के निर्माण के सूत्र छिपे पड़े हैं। उनमें यह निर्देशित है कि बच्चों के गिरते मानवीय एवं नैतिक मूल्यों तथा समस्त सामाजिक, सांस्कृतिक एवं नैतिक पतन की जड़ गर्भ से प्रारम्भ होती है । गर्भ से ही बच्चों में व्यक्तित्व (शरीर एवं मन ) की नींव पड़ जाती है, अतः इस ज्ञान को प्रामाणिक और वैज्ञानिक आधार के साथ न केवल व्यक्ति, परिवार वरन राष्ट्र एवं विश्व हित के लिए जन-जन तक पहुँचाकर एक सभ्य, संस्कारित, सद्गुणी पीढ़ी के निर्माण का प्रयास आवश्यक है । इन प्रेरक प्रयासों के अंतर्गत पिछले ~5 सालों से भावी पीढ़ी के निर्माण में लगे प्रयासों को ‘आओ गढ़े संस्कारवान पीढ़ी’ आंदोलन के नाम से व्यवस्थित स्वरुप दिया गया है जिसका विवेचनात्मक अध्ययन इस शोध पत्र में प्रस्तुत है ।&#x0D; The real wealth of a nation is the great people with ideal character, who are considered to be the basis of progress and work power of the nation. The ideological degradation of human has given rise to negative attitude, unbalanced lifestyle and destructive working practices, resulting in poisoning of the environment and threatening humanity. In modern times in Indian and global human community, the focus is only on physical development and health in their upbringing. Due to lack of attention to their mental, emotional and moral development, the future generation is becoming directionless, indulged in various types of crimes, deprived of emotional and moral values, due to which the children, even after getting higher education, are suffering from lack of values. Due to this, excellence in thinking, character and behavior, decency, idealism and divine qualities are being deprived, which results in corruption, sinfulness in the family, society and nation. In the literature of the founder of All World Gayatri Parivar Yug Rishi Pandit Shriram Sharma Acharya Ji, the sources of creation of the future generation are hidden. It is directed in them that the root of the declining human and moral values ​​of children and all social, cultural and moral degradation starts from the womb. From the very womb, the foundation of personality (body and mind) is laid in children, so by taking this knowledge with authentic and scientific basis, not only for the benefit of the individual, the family but also for the nation and the world, a civilized, cultured, virtuous person is born. With these inspirations, for the creation of the future generation, for past 5 years, the systematic efforts are made through 'Aao Gadhe Sanskarwan Generation' movement to awaken Indian society and pregnant mothers social welfare which are presented in this research paper.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4234515732",
+    "title": "SUBORDINATION DEPENDING ON A PARAMETER",
+    "authors": [
+      "Ken‐iti Sato"
+    ],
+    "year": 1990,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W574661848",
+    "title": "The Oxford progressive English-Hindi dictionary = ऑकसफ़रड परगरसव अगरज़-हनद कश",
+    "authors": [
+      "Satish Verma",
+      "R. N. Sahai"
+    ],
+    "year": 1979,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2094231912",
+    "title": "Korean Verb Inflectional Paradigm V-<i>i-usi-ess-ess-keyss-te</i>",
+    "authors": [
+      "Dong-Jae Lee"
+    ],
+    "year": 1992,
+    "language": "hi",
+    "abstract": "Preview this article: Korean Verb Inflectional Paradigm V-i-usi-ess-ess-keyss-te, Page 1 of 1 < Previous page | Next page > /docserver/preview/fulltext/kl.7.04djl-1.gif",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2150072364",
+    "title": "The Last Message",
+    "authors": [
+      "Viktoria Graham"
+    ],
+    "year": 2014,
+    "language": "hi",
+    "abstract": "This creative piece depicts an underlying problem in the world from an Australian perspective. Written in the third person, it portrays a young girl in high school and what she is seemingly uncontrollably subjected to as a part of her everyday life.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2187297350",
+    "title": "Biological Parameter Monitoring using Android Smartphone",
+    "authors": [
+      "Prerana Borwankar"
+    ],
+    "year": 2014,
+    "language": "hi",
+    "abstract": "This paper describes work in progress regarding personalized heart monitoring using smart phones. Our research combines ubiquitous computing with mobile health technology. We have introduced a system called CUEDETA. This system will continuously monitors the ECG signals of the patient and send alerts to his/her contacts, medical professional and ambulance services. The alert also includes a URL which can be used to find the exact position of the patient using Google maps. The alerts are arranged in fashion, so that the patient and his/her social contacts have a chance to detect false alerts before contacting medical professionals, this is possible by connecting wireless heart rate monitoring device to the body and interfacing it with a smart phone.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2239848324",
+    "title": "Information Theoretic Parameter Estimation",
+    "authors": [
+      "Badong Chen",
+      "Yu Zhu",
+      "Jinchun Hu",
+      "José C. Prı́ncipe"
+    ],
+    "year": 2013,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W2901462259",
+    "title": "Parameters analysis of fusion PE-HD pipes welding",
+    "authors": [
+      "Damir Šoštarić",
+      "Drago Žagar",
+      "Zvonimir Kolumbić",
+      "Marko Dunđer",
+      "Ivan Samarđžić"
+    ],
+    "year": 2011,
+    "language": "hi",
+    "abstract": "U radu se prikazuju glavni parametri fuzijskog zavarivanja te njihova Off – line analiza PE-HD cijevi. Direktnim mjerenjem napona i struje na spojnici induktivnog i djelatnog karaktera uocene su promjene u amplitudnoj modulaciji valnih oblika mjerenih signala. Pocetkom mjerenja uređaj analizira skenirane parametre sa pojedine vrste spojnice i uspoređuje ih sa ispitanim i izmjerenim parametrima koje je odradio sam uređaj za zavarivanje. Upravo se tu vidi zadrska u vremenu tzv. „mrtvo vrijeme“ kada stroj analizira parametre i dimenzionira sustav regulatorske funkcije. Snimanje parametara zavarivanja u stvarnom vremenu osigurava detaljniju informaciju o procesu fuzijskog zavarivanja. Tako se pomocu mjernog sucelja mogu izmjeriti parametri za razlicite promjere spojnica kao i vremenska ovisnost trajanja zavarivanja.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3138943050",
+    "title": "THE ARCHAEOLOGICAL SITES OF MIRZAPUR",
+    "authors": [
+      "Akanksha Singh",
+      "K. Ratanam"
+    ],
+    "year": 2019,
+    "language": "hi",
+    "abstract": "The prehistoric man's era, which is reflected in the name of the Dark Ages, is also called from the unknown period, and the script was not invented in this period, in which case the human means of expressing his inner feelings in the pictures. Created, executed what he saw or felt, through the observation of these pictures, the knowledge of the prehistoric human's struggling life process and heterogeneous environment is gained, the idea of ​​depicting how he struggles with so many odd situations It must have come and not just the idea, how to invent such a wide scale illustration, but far ahead of these ideas of ours, prehistoric humans gave us proof of their original origin and aesthetic sense through the medium of rock paintings. प्रागैतिहासिक काल के मानव का काल जो अंधकार युग के नाम से प्रतिबिम्बित है, को अज्ञात काल से भी पुकारा जाता है, और इस काल में लिपि का अविष्कार नही हआ था, इस स्थिति में मानव ने अपनी आन्तरिक भावनाओं को प्रकट करने का माध्यम चित्रों को बनाया, उसने जो देखा या महसूस किया, उसे चित्रों के माध्यम से निष्पादित किया, इन चित्रों के अवलोकन से प्रागैतिहासिक मानव के संघर्षपूर्ण जीवन प्रक्रिया तथा विषमगत वातावरण का ज्ञान प्राप्त होता है, कैसे इतनी विषम परिस्थितियों से संघर्ष करते करते उसे चित्रण करने का विचार आया होगा और सिर्फ विचार ही नही, इतने व्यापक पैमाने पर चित्रण का अविष्कार कैसे किया होगा, किन्तु हमारे इन विचारों से बहुत आगे, प्रागैतिहासिक मानव ने अपनी मौलिक उद्भावना एवं सौन्दर्य बोध का प्रमाण हमें शैल चित्रों के माध्यम से दिया।",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3191381518",
+    "title": "People's consciousness in Nagarjuna's poem",
+    "authors": [
+      "Reena Agrawal"
+    ],
+    "year": 2017,
+    "language": "hi",
+    "abstract": "The term democracy is the Hindi version of English democracy, for which the words democracy, democracy, democracy etc. are also used, which means - a mechanism or system in which the people have sovereignty.&#x0D; It is an undeniable truth that economic inequality is the root of all difficulties. Due to this, the world is deranged and frustrated and for this reason, since ancient times in India, mystics dreamed to remove the economic disparity between humans. Democracy is one such vision in which workers, peasants and helpless victims come together to play the role of their true partner.&#x0D; जनवाद शब्द अंग्रेजी के डेमोक्रेसी का हिंदी प्रतिरूप है, जिसके लिए जनतंत्र, लोकतंत्र, लोकशाही आदि शब्दों का भी प्रयोग किया जाता है, जिसका अर्थ है - एक ऐसा तंत्र या व्यवस्था जिसमें जनता की संप्रभुता हो।यह निर्विवाद सत्य है कि आर्थिक विषमता सभी कठिनाइयों की जड़ हैं। इसके कारण संसार विश्रृंखलित एवं कंुठित होता है और इसी कारण भारत में प्राचीन काल से ही मनीषियों ने मानव-मानव के मध्य आर्थिक विषमता को दूर करने का स्वप्न देखा। जनवाद एक ऐसी ही दृष्टि है जिसमें मजदूरों, किसानों, असहाय पीड़ितों को एक जुट कर उनके सच्चे साथी की भूमिका निभाती है।",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3209155113",
+    "title": "अपन सरकडयन घड़ क परबदध /सचत कर (Hindi)",
+    "authors": [
+      "Coline Weinzaepflen",
+      "Manuel Spitschan",
+      "Meenakshi Sinha",
+      "B. N. Pande",
+      "Unmi Deshpande",
+      "Vaishnavi Dandawate"
+    ],
+    "year": 2021,
+    "language": "hi",
+    "abstract": "Enlighten your clock: How your body tells time – Hindi",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4220709007",
+    "title": "Contemplation of 'Jiva' of Saint DaduDayal",
+    "authors": [
+      "Sunil Kumar Chhipa"
+    ],
+    "year": 2022,
+    "language": "hi",
+    "abstract": "The basic concept of Indian philosophy 'Jiva' is also known as soul and soul. It is inherent behind every action of man, just as there is 'Brahm' behind the activities of the universe. It is a part of 'Brahm' itself, therefore it is endowed with its nature-characteristics. It is eternal, conscious and happy, and like its part, it is freer, pure, niranjan and niramay.&#x0D; &#x0D; Abstract in Hindi Language:&#x0D; भारतीय दर्शन की आधारभूत अवधारणा ‘जीव‘ को जीवात्मा1 व आत्मा2 के नाम से भी जाना जाता है। यह मनुष्य के प्रत्येक कर्म के पीछे वैसे ही निहित है जैसे ब्रह्माण्ड की गतिविधियों के पीछे ‘ब्रह्म‘ है। यह ‘ब्रह्म‘ का ही अंश है इसलिए उसके स्वरूप-लक्षण से संपंन है। यह नित्य, चेतन एवं सुखराशि है और अपने अंशी की भाँति निर्विकार, निर्मल, निरंजन और निरामय भी है।&#x0D; Keywords: ‘जीव‘, जीवात्मा, आत्मा, ब्रह्म, अद्वैत, निराकार, अज्ञान।",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4221034455",
+    "title": "Globalization and its impact on Indian Agriculture",
+    "authors": [
+      "Pravesh Kumar"
+    ],
+    "year": 2022,
+    "language": "hi",
+    "abstract": "Globalization and its impact on Indian agriculture have been analyzed in this research paper. After 1991, one of the main components of the new economic policy in India, how has globalization affected our Indian agriculture and the agreement policy on agriculture that was formed after the World Trade Organization (WTO) came into existence on January 01, 1995. The impact that is being had on our Indian agriculture has also been discussed. The ASSOCHAM 2002 report is also described in general. What are the benefits of globalization to Indian agriculture? What is the loss? This has also been discussed in general. Abstract in Hindi Language: इस शोध पत्र में वैश्वीकरण और इसके भारतीय कृषि पर प्रभाव का विश्लेषण किया गया है 1991 के बाद भारत में नई आर्थिक नीति के अवयवों में से प्रमुख अवयव वैश्वीकरण ने हमारी भारतीय कृषि पर किस प्रकार के प्रभाव डालें है, तथा विश्व व्यापार संगठन (WTO) के 01 जनवरी 1995 को अस्तित्व में आने के बाद कृषि पर जो समझौता नीति बनी उसके भी प्रभाव हमारी भारतीय कृषि पर जो पड़े है, उसका भी विवेचन किया गया है एसोचैम 2002 की रिपोर्ट का भी सामान्य रूप से वर्णन किया गया है भारतीय कृषि को वैश्वीकरण के कारन क्या लाभ हुआ है? क्या हानि हुई है? इसका भी सामान्य रूप से विवेचन किया गया है.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4237660026",
+    "title": "Selye, Hans1",
+    "authors": [
+      "B Tuchweber",
+      "P Bois"
+    ],
+    "year": 2007,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4306359288",
+    "title": "Shahjahanpur Jile Ke gramin Vikas Mein Swrojgaar Yojnao Ka Pravhaw- Ek Arthik Vishleshan",
+    "authors": [
+      "डॉ पुष्पेन्द्र"
+    ],
+    "year": 2022,
+    "language": "hi",
+    "abstract": "शाहजहाँपुर जिले में बेरोजगारी को दूर करने हेतु एवं इसके समाधान हेतु कई स्वरोजगार योजनाएँ शासन द्वारा चलाई जा रहीं हैं, शिक्षित बेरोजगारी को दूर करने हेतु सभी वर्गों के युवाओं के लिए शासन द्वारा प्रधानमंत्री रोजगार योजना चलाई जा रही है। यह योजना जिले में, जिला व्यापार एवं उद्योग केन्द्र द्वारा संचालित की जा रही है। कई वर्षों से यह योजना जिले की बैंकिंग व्यवस्था पर विपरीत प्रभाव डाल रही है। इसका कारण योजना के तहत् ऋण प्राप्त करने के पश्चात् हितग्राहियों द्वारा ऋणों का पुनर्भुगतान नहीं किया जाना है। योजनान्तर्गत प्रशिक्षण कार्यक्रम में विषय-विशेषज्ञ के रूप में स्थानीय प्रसिद्व व्यापारियों एवं उद्योगपतियों को आमंत्रित किया जाए तथा बाजार प्रबंधन के संदर्भ में विस्तृत जानकारी पशिणार्थियों को विशेष रूप से दिलाई जाए। शासन को औपचारिक शिक्षा संस्थाओं के स्थान पर रोजगार-मूलक प्रशिक्षण केन्द्र स्थापित करने पर बल देना चाहिए। योजनाओं के प्रभावी क्रियान्वयन हेतु प्रशासनिक संगठनों में कर्मचारियों की संख्या बढ़ाई जानी चाहिए। उन्हें प्रेरणा प्रदान करने के लिए विभिन्न प्रेरक उपाय किए जाने चाहिए। योजनांतर्गत प्रशिक्षण हेतु एक सुसंगत माॅडल तैयार किया जाना चाहिए। योजना क्रियान्वयन के प्रत्येक स्तर पर हितग्राहियों एवं कार्यक्रम अधिकारियों दोनों को प्रशिक्षित किया जाना चाहिए।",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W649788397",
+    "title": "Bhanudas : translated from Mahipati's Bhaktavijaya chapters 42 & 43 with Marathi text in appendix = भनदस : महपतकत भकतवजय, अधयय ४२, ४३",
+    "authors": [
+      "Mahīpati",
+      "Justin E. Abbott"
+    ],
+    "year": 1926,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W3010765235",
+    "title": "The<i>Servus Callidus</i>in Charge",
+    "authors": [
+      "Ferdinand Stürner"
+    ],
+    "year": 2020,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W569186687",
+    "title": "The Message of Galatians",
+    "authors": [
+      "John R. W. Stott"
+    ],
+    "year": 2020,
+    "language": "hi",
+    "abstract": "To enclaves of young converts tucked away in the mountains of Asia Minor, Paul wrote what is perhaps the oldest document in the New Testament--the letter to the Galatians. What problems were they facing? Among a variety of religious authorities espousing different teachings, how were they to know who was right? How were men and women to be put right with God? How could Christians in the midst of a pagan culture live lives truly pleasing to God? 'Only one way--' ansered Paul, 'through Jesus Christ.' His answer holds true for us as well. The details of our struggle have changed since Paul's day, but the principles he sets forth are as timeless as the Lord he exalts. In this book John Stott helpf us to understand and apply the message of Galatians in the face of contemporary challenges to our faith.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W64597723",
+    "title": "Optimal Feedback Controls for Parameter Identification.",
+    "authors": [
+      "David N Olmstead"
+    ],
+    "year": 1979,
+    "language": "hi",
+    "abstract": "This dissertation investigates improving the estimates of unknown constant parameters in the plant and control matrices of a linear discrete system from noisy measurements by the use of a control consisting of a feedback term and open-loop term. The feedback term allows one to move the poles of the system to location which improve the information in the output about the parameters beyond that attainable with only open-loop control inputs. An energy constraint is placed on the open-loop term of the control and the closed-loop poles are required to remain within a predetermined constraint space. Output feedback is used and for the cases where the dimension of the output is less than the dimension of the system states, an additional consistency constraint on the closed-loop poles is required. The criterion that has been used is the maximization of the trace or weighted trace of the Fisher information matrix. A graident projection algorithm has been developed that maximizes this scalar function while maintaining the poles within the constraint space. This procedure results in maximizing the sum of a maximum eigenvalue of a positive semi-definite matrix and a term resulting from the feedback of measurement noise into the process equations. The variable in this maximizaton procedure is the feedback matrix. The optimal open-loop control sequence is a scaled eigenvector corresponding to the maximum eigenvalue. The procedure is developed for the multiple parameter and multiple input control cases. Examples are used to demonstrate the enhancement of parameter identification gained by adding feedback control to an open-loop control input. (Author)",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W651118306",
+    "title": "On the present state of modern Rajasthani grammar",
+    "authors": [
+      "Kali Charan Bahl"
+    ],
+    "year": 1972,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W643661095",
+    "title": "Dictionnaire général hindi-français = समनय हद-फ़रसस शबदकश",
+    "authors": [
+      "Nicole Balbir",
+      "Jagbans Kishore Balbir",
+      "Sarasvati Joshi",
+      "Niti Srivastava",
+      "Vraj Raj Joshi"
+    ],
+    "year": 1992,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1001673671",
+    "title": "Samaj shastriya hindi samiksha (समज शसतरय हनद समकष)",
+    "authors": [
+      "Nathu Sinh Sengar"
+    ],
+    "year": 2002,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1007175122",
+    "title": "Gurubhaktishingh, Narendra Sharma aur Kuvar Narayan ke kavyo ke pariprekshya mein chhayavadottar Hindi prabandha kavyo ka adhyayan (गरभकतसह, नरनदर शरम और कवर नरयण क कवय क परपरकषय म छयवदततर हनद परबनद कवय क अधययन)",
+    "authors": [
+      "M J Annamkutty"
+    ],
+    "year": 1995,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1013724137",
+    "title": "Virendra Jain ke upanyason mein yug chetna (वरनदर जन क उपनयस म यग चतन)",
+    "authors": [
+      "Uma D Mehta"
+    ],
+    "year": 2011,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1013882247",
+    "title": "Shiv prasad sinh ke upanyas vastu or shilp (शव परशद सह क उपनयस वसत और शलप)",
+    "authors": [
+      "Samita Devi"
+    ],
+    "year": 2007,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1015533355",
+    "title": "Hindi ke vikas mein hindi prachar sansthaon ka yogdan (1947 ke bad)(हनद क वकस म हद परचर ससथओ क यगदन (१९४७ क बद))",
+    "authors": [
+      "Arvindkumar B Ledva"
+    ],
+    "year": 2013,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1017650146",
+    "title": "Alpsankhyak samuday ka parivar kalyan karyakram me abhivruti ka samajshastriya adhyayan: Bundelkhand Sambhag ke Janpad Jalon ke Muslim parivar ke vishesh sandarbh mein(अलपसखयक समदय क परवर कलयण करयकरम म अभवत क समजशसतरय अधययन)",
+    "authors": [
+      "Anand Kumar Khare"
+    ],
+    "year": 1994,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1019575179",
+    "title": "Mohan Rakesh ke natya sahitya mein samajik yatharth(महन रकश क नटय सहतय म समजक यथरथ )",
+    "authors": [
+      "Amanullah Khan"
+    ],
+    "year": 2012,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1020357367",
+    "title": "Sanskrit ke pramukh mahakavyon per adharit swatantryottar Hindi natakon ka mulankan 1947-2005(ससकत क परमख महकवय पर आधरत सवततरयततर हद नटक क मलकन १९४७ -२००५)",
+    "authors": [
+      "Pratichi Prakash Bhatambrekar"
+    ],
+    "year": 2012,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1020383240",
+    "title": "Hindi upanyash me samajik vightan(हद उपनयस म समजक वघटन)",
+    "authors": [
+      "Dharmendranath Srivastava"
+    ],
+    "year": 1981,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1024947169",
+    "title": "Kishor Doordarshan darshakoke ling tatha sujavgrahanshilta ka shadyantrakari vyavhar pr prabhav ka adhyayan (कशर दरदरशन दरशकक लग तथ सजवगरहणशलत क षडयतरकर वयवहर पर परभवक अधययन)",
+    "authors": [
+      "Alpana Deshpande"
+    ],
+    "year": 2011,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1025898677",
+    "title": "Swadhinata andolan aur udarwadi evam ugravadi: ek tulanatmak mulyankan (सवधनत आनदलन और उदरवद एव उगरवद : तलनतमक मलयकन)",
+    "authors": [
+      "Shyam Narayan"
+    ],
+    "year": 2008,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1026639709",
+    "title": "Avadh ki lok sanskriti aur padmavrat(अवध क लक ससकत और पदमवत)",
+    "authors": [
+      "Ghanshyam Mishra"
+    ],
+    "year": 1981,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1028493032",
+    "title": "Hindi aalochna ke badalte mulya aur bhakti kavya ka mulyankan(हद आलचन क बदलत मलय और भकत कवय क मलयनकन )",
+    "authors": [
+      "Rustam Ray"
+    ],
+    "year": 1999,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1028778105",
+    "title": "Dr Urmila Shirish ke katha sahitya ka vishesh adhyayan(ड. उरमल शरष क कथ सहतय क वशष अधययन)",
+    "authors": [
+      "Sarita Upadhyay"
+    ],
+    "year": 2007,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1030797487",
+    "title": "Samkalin hindi natya-kavyo ka manovaigyanik adhyayan (समकलन हद नटय-कवय क मनवजञनक अधययन)",
+    "authors": [
+      "Aditi Jaiswal"
+    ],
+    "year": 1985,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1030872403",
+    "title": "Shikshashastri ke rup mein John Dewey aur Mahatma Gandhi ka ek tulnatmak adhyayan tatha vartmaan bharat mein shiksha hetu unki sangati(शकषशसतर क रप म जन डव और महतम गध क एक तलनतमक अधययन तथ वरतमन भरत म शकष हत उनक सगत)",
+    "authors": [
+      "Daya Shankar Dube"
+    ],
+    "year": 1992,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1034678622",
+    "title": "Dharmashastron mein prabandhan (धरमशसतर म परबधन)",
+    "authors": [
+      "Pooja Gautam"
+    ],
+    "year": 2013,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1034767315",
+    "title": "Premchand ke Sahitya ki Saarvkalik Yug Prasangigkta ka Vilochanaatmak Adhyayan (परमचद क सहतय क सरवकलक यग परसगकत क वलचनतमक अधययन)",
+    "authors": [
+      "Savitri"
+    ],
+    "year": 2012,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1036275369",
+    "title": "Swatantryottar - hindi kahaniyon mein aarthik sangharsh ki abhivyakti (सवततरयततर - हद कहनय म आरथक सघरष क अभवयकत)",
+    "authors": [
+      "Sunita Gupta"
+    ],
+    "year": 1999,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1036889647",
+    "title": "Hindi patrakarita pr bhumandalikaran ka prabhav: Navbharat Times (Delhi) ke vishesh sandarbh mein (1991-2005)(हद पतरकरत पर भमदलकरण क परभव: नवभरत टइमस दलल क वशष सनदरभ म (१९९१-२००५))",
+    "authors": [
+      "Arvind Kumar"
+    ],
+    "year": 2009,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1037860054",
+    "title": "Sanchar madhyamon mein hindi ek anushilan (सचर मधयम म हद एक अनशलन)",
+    "authors": [
+      "Trupti Bharatkumar Dave"
+    ],
+    "year": 2011,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1040349444",
+    "title": "Vartmaan naari vimarsh ke sandarbh mein Yashpaal ke upanyaaso mein Naari sarokar aur drashti (वरतमन नर वमरश क सनदरभ म यशपल क उपनयस म नर सरकर और दरषट)",
+    "authors": [
+      "Minakshi Sharma"
+    ],
+    "year": 2011,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1040359525",
+    "title": "Hindi aur Marathi ke swatantrottar Upanyaso me abhi vyanjit varg sangharsh ek tulanatmak adyayan (सवततरयततर हद और मरठ उपनयस म वरगय अव जतय सघरष)",
+    "authors": [
+      "Vimal Khandekar"
+    ],
+    "year": 1999,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1044382768",
+    "title": "Agnye ka kahani sahitya: ek adhyayan (अजञए क कहन सहतय एक अधययन)",
+    "authors": [
+      "Milankumar S Inamdar"
+    ],
+    "year": 2006,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1099991898",
+    "title": "Hindi mein Dalit rachanakaro ki aatmakathaye aur Bhartiya sankrutik parivesh ka sandarbh(हद म दलत रचनकरक आतमकथए और भरतय ससकतक परवशक सनदरभ)",
+    "authors": [
+      "Sat Narain"
+    ],
+    "year": 2011,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1132301511",
+    "title": "चमर जत क गरवशल इतहस",
+    "authors": [
+      "Satanāma Siṃha"
+    ],
+    "year": 2009,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1150145529",
+    "title": "31 दन म पल : आवशयक पल",
+    "authors": [
+      "Ānanda Kausalyāyana",
+      "Vimalakīrti"
+    ],
+    "year": 2007,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1158598734",
+    "title": "आधरपरदश क समदर मतसयक वकस क लए एन आई ऍफ़ प ट ट",
+    "authors": [
+      "J S Meena"
+    ],
+    "year": 2008,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1184096727",
+    "title": "सवधनत आदलन क कहनय : परमचद कथ सहतय",
+    "authors": [
+      "Premacanda",
+      "Nirupamā Harshavardhana"
+    ],
+    "year": 2012,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W140135235",
+    "title": "Sant mat mein adhyatmik chetana ka vikas (सत मत म अधयतमक चतन क वकस)",
+    "authors": [
+      "Satguru Piary"
+    ],
+    "year": 2013,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1419493744",
+    "title": "अतत क वष",
+    "authors": [
+      "Rāmadaraśa Miśra"
+    ],
+    "year": 2007,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1468015734",
+    "title": "उरद-हद-अगरज तरभष कश = Urdu-Hindi-English trilingual dictionary",
+    "authors": [
+      "Rāmacandra Varmā",
+      "Badri Nath Kapoor"
+    ],
+    "year": 2012,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W146948844",
+    "title": "Dharmveer bhartee ke sahitya me jeevan mulya (धरमवर भरत क सहतय म जवन मलय)",
+    "authors": [
+      "Baby Sachan"
+    ],
+    "year": 2002,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1482500393",
+    "title": "पइअ-सदद-महणणव (परकत-शबद-महरणव) : अरथत ववध परकत भषओ क शबद क ससकत परतशबद स यकत, हनद अरथ स अलकत, परचन गरनथ क अनलप अवतरण और परपरण परमण स वभषत बहतकश",
+    "authors": [
+      "Haragovindadāsa Trikamacanda Seṭha"
+    ],
+    "year": 1986,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1482873986",
+    "title": "वपतर",
+    "authors": [
+      "Gajānana Mādhava Muktibodha"
+    ],
+    "year": 1970,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1483447871",
+    "title": "इसभसयइ : परचन जन आगम",
+    "authors": [
+      "Walther Schubring"
+    ],
+    "year": 1974,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1484947814",
+    "title": "Chhayavadottar hindi kavita me saundarya - Bodh: Kedar Naagaarjun evam trilochan ke vishesh sandarbh me (छयवदततर हनद कवत म सनदरय - बध: कदर नगरजन एव तरलचन क वशष सनदरभ म)",
+    "authors": [
+      "A. Gupta"
+    ],
+    "year": 1998,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1485259265",
+    "title": "Hindi ke khandya kabyon me yug chetnaहद क खडय कबय म यग चतन",
+    "authors": [
+      "Sachhelal Nishad"
+    ],
+    "year": 2012,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1487227058",
+    "title": "तलस-गरथवल",
+    "authors": [
+      "Tulasīdāsa",
+      "Ram Chandra Shukla",
+      "Lālā Bhagavānadīna",
+      "Vrajaratnadāsa"
+    ],
+    "year": 1958,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1489174960",
+    "title": "सचतर रयपसणय (रजपरशनय) सतर : दवतय उपग : मल शदध पठ, हनद-अगरज अनवद, ववचन तथ रगन चतर सहत",
+    "authors": [
+      "Amaramuni",
+      "Śrīcanda Surānā",
+      "Rājakumāra Jaina",
+      "Muni Taruṇa"
+    ],
+    "year": 2007,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1490492110",
+    "title": "अधर क जगन",
+    "authors": [
+      "Rangeya Raghava"
+    ],
+    "year": 1957,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1492354011",
+    "title": "मर सकषतकर",
+    "authors": [
+      "Mainejara Pāṇḍeya"
+    ],
+    "year": 1998,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1492367390",
+    "title": "Estimating 3-D SE(B) Fracture Parameters using 2-D Equations",
+    "authors": [
+      "G. SHEN G.",
+      "R. Bouchard",
+      "W. R. Tyson"
+    ],
+    "year": null,
+    "language": "hi",
+    "abstract": "The present study was conducted to assess the accuracy of plane-stress or plane-strain approximations when used to assess the state of three-dimensional samples.SE(B) samples were modelled by 2-D and 3-D finite elements and load/CMOD compliance and elastic J-integrals were calculated for elastic deformations; no attempt was made to study the effects of plasticity.The calculated 2-D and 3-D results were compared with those estimated using the equations given in ASTM E 1820.For a standard B2B SE(B) sample with a/W = 0.5, the crack front is in a near-plane-strain state over most of the specimen thickness, although the specimen as a whole is in a mixed plane-strain/plane-stress state.The stress state changes continuously from plane strain to plane stress as the distance from crack tip (r) increases, and is close to plane stress when r/b = 0.6 to 0.8 where b is the width of the ligament.Near the point of load application (r/b = 1), the stress state is close to plane strain.In general, the out-of-plane stress state is closest to plane strain in the regions of highest in-plane stress gradient.The crack length calculated from CMOD compliance is approximated better by a 2-D plane-stress equation than by a plane-strain one.Experimental results are reported which substantiate this conclusion.Also, the relation between the elastic J-integral (calculated by the virtual crack extension method) and the stress intensity factor is in closer agreement to a 2-D plane-stress equation than a plane-strain one.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1492629952",
+    "title": "समनयनरकतपरकरणम : कशसथरजकयससकतपठशलय नययशसतरपरधनधयपकन म. म. प० शरपरभदततशसतरतनजन नययचरय प० शरशवदततमशरगडन वरचतय \"गङग\" वयखयय सवलतम",
+    "authors": [
+      "th Gadādharabhaṭṭācārya",
+      "th cent.",
+      "Śivadattamiśra Gauḍa"
+    ],
+    "year": 1935,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1495849035",
+    "title": "हकर : रषटरय कवतओ क सगरह",
+    "authors": [
+      "Ramdhari Sinha Dinkar"
+    ],
+    "year": 1955,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1496563730",
+    "title": "Anuvad ki vyavaharik samasyayen: Hindi aur Malayalam ke vishesh sandarbh mein (अनवद क वयवहरक समसयए: हद और मलयलम क वशष सनदरभ म)",
+    "authors": [
+      "K P Prameela"
+    ],
+    "year": 1993,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1496883492",
+    "title": "वशल क नगरवध : बदधकलन इतहस-रस क मलक उपनयस",
+    "authors": [
+      "Acharya Caturasena"
+    ],
+    "year": 1962,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1499023356",
+    "title": "Swatantryottar kal mein bhratiya jansankhya ki pravatti, samasya evam samadhan ka vishleshanatmak adhyayan (सवततरयततर कल म भरतय जनसखय क परवतत, समसय एव समधन क वशलषणतमक अधययन",
+    "authors": [
+      "Rashmi Gupta"
+    ],
+    "year": 2004,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1500118223",
+    "title": "मनक सकषपत अगरज-हनद कश = Standard concise English-Hindi dictionary",
+    "authors": [
+      "Rājendrasiṃha Gauṛa"
+    ],
+    "year": 1998,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1501416541",
+    "title": "Premchand ke upanyaason mein yatharthvad ka punah mulyankan (परमचनद क उपनयस म यथरथवद क पनरमलयकन)",
+    "authors": [
+      "Rita Kuriakose"
+    ],
+    "year": 1995,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1501790155",
+    "title": "पकक कदम : तरकमनसतन म जवन-मरण क लमहरष क कहन",
+    "authors": [
+      "Berdi Kerbabaev",
+      "Yashpal Yashpal"
+    ],
+    "year": 1956,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1506162741",
+    "title": "आधनक भषवजञन : आधनक भषवजञन क मखय आचरय और समपरदय क सदधनत तथ सच क ववचनतमक अधययन",
+    "authors": [
+      "Bholanath Tiwari"
+    ],
+    "year": 1993,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1506409075",
+    "title": "Krishna Sobti: vyakti evam sahitya (कषण सबद: बयकत एव सहतय)",
+    "authors": [
+      "Brigit Paul"
+    ],
+    "year": 2004,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1507374997",
+    "title": "Sant Saahitya ka samajik aur dharmik mahatva: aadhunik sandarbh mein (सत सहतय क समजक और धरमक महतव: आधनक सदरभ म )",
+    "authors": [
+      "G Mohanan"
+    ],
+    "year": 2001,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1508002018",
+    "title": "Swatantarata andolan mein Banda kshetra ke swatantrata senaniyon ka yogdan (1857-1947) सवततरत आनदलन म बद कषतर क सवततरत सननय क यगदन ( १८५७ - १९४७)",
+    "authors": [
+      "Arun Kumar Mishra"
+    ],
+    "year": 2007,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1508580223",
+    "title": "Atmakatha aur upanyaas: 'Banbhatt ki atmakatha' ke vishesh sandarbh me (आतमकथ और उपनयओ बनदबतत क आतमकथ क वशष सनदरभ म)",
+    "authors": [
+      "Gyanendra Kumar Santosh"
+    ],
+    "year": 2006,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1508904937",
+    "title": "जनमपतरदपक : सदहरणसटपपणहनदटकपरषकत",
+    "authors": [
+      "Vindhyeśvarīprasāda Dvivedi"
+    ],
+    "year": 1953,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1511567150",
+    "title": "Premchand ke upanyason mein nari samvedana: ek adhyayan (परमचद क उपनयस म नर सवदन: एक अधययन)",
+    "authors": [
+      "Yogeshbhai Pratapsinh Zala"
+    ],
+    "year": 2011,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1511639144",
+    "title": "शतपथबरहमणम : शकलयजरवदनतरगतमधयनदनशखय : वसततनसनधनपरवकभमकसरवकरनपरयगकणडकनकरमणकसहतम (समपरणम)",
+    "authors": [
+      "A. Cinnasvāmiśāstrī",
+      "P. N. Pattabhirama Sastri",
+      "Rāmanātha Dīkṣita"
+    ],
+    "year": 1984,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1513791537",
+    "title": "YM 670 Postmodern Youth Ministry",
+    "authors": [
+      "James Hampton"
+    ],
+    "year": 2004,
+    "language": "hi",
+    "abstract": "COURSE DESCRIPTION: This course explores the dynamics of living in a postmodern culture and its attendant impact on the church and its ministry to adolescents. The focus is on developing a theology of youth ministry which takes seriously the unique needs of postmodern students, and then look at how that theology should culminate in specific practices of ministry to youth. Special attention is given to the fact that we are living “between worlds” and how our ministries need to become bi-lingual, speaking both the language of faith and the language of culture. (Catalog statement) This is an elective course and is open to any student who has taken either CD 510, CM 510 or YM 510 or with permission of the instructor.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1514260076",
+    "title": "मनरजक ससमरण",
+    "authors": [
+      "Sri Nerain Chaturvedi"
+    ],
+    "year": 1977,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1514516163",
+    "title": "कयल और कवतव",
+    "authors": [
+      "Ramdhari Sinha Dinkar"
+    ],
+    "year": 1964,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1517139536",
+    "title": "मट क मरत",
+    "authors": [
+      "Rāmavr̥ksha Benīpurī"
+    ],
+    "year": 1962,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1518556611",
+    "title": "सदचर क तवज़",
+    "authors": [
+      "Hariśaṅkara Parasāī"
+    ],
+    "year": 2001,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1518600893",
+    "title": "जननयक : महकवय, समपरण गध चरतर",
+    "authors": [
+      "Raghuvīra Śaraṇa Mitra"
+    ],
+    "year": 1958,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1523294016",
+    "title": "दशहन",
+    "authors": [
+      "Haṃsrāja Rahabara"
+    ],
+    "year": 1980,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1524206963",
+    "title": "बहतसततररतनकर",
+    "authors": [
+      "Narayan Ram Acharya",
+      "Śivaprasāda Śarmā"
+    ],
+    "year": 2004,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1525473002",
+    "title": "लघ-सदधनत-कमद : भमवयखय",
+    "authors": [
+      "Bhīmasena Śāstrī",
+      "th cent. Varadarāja"
+    ],
+    "year": 1971,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1525702936",
+    "title": "नड़ क नरमण फर",
+    "authors": [
+      "Harivaṃśa Rāya Baccana"
+    ],
+    "year": 1970,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1526133472",
+    "title": "Swadhinta andolan ke sandharbh me hindi kavita me swachandavad ke vikas ka adhayan(सवधनत आनदलन क सनदरभ म हद कवत म सवचदतवद क वकस क अधयन)",
+    "authors": [
+      "Mehta Asha"
+    ],
+    "year": 1988,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1526274319",
+    "title": "मलयज क डयर",
+    "authors": [
+      "Malayaja",
+      "Nāmavara Siṃha"
+    ],
+    "year": 2000,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1526483313",
+    "title": "Anaamika ke sahityaka sambodhya: stri-vimarsh ke pariprekshyame vivechanatmak adhyayan(अनमकक सहतय क सबधय: सतर वमरश क परपरकषय म ववचनतमक अधययन)",
+    "authors": [
+      "P V Sumit"
+    ],
+    "year": 2010,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1526545999",
+    "title": "महकइपपफयतवरइउ महपरण = महकव पषपदनत वरचत महपरण",
+    "authors": [
+      "th cent. Puṣpadanta",
+      "Paraśurāma Lakshmaṇa Vaidya",
+      "Devendra Kumāra Jaina"
+    ],
+    "year": 2001,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1526777200",
+    "title": "रवनदरनथ क नबनध",
+    "authors": [
+      "Rabindranath Tagore",
+      "Viśvanātha Dinakara Naravaṇe",
+      "Amrit Rai"
+    ],
+    "year": 1990,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1530742728",
+    "title": "Aadhunik Hindi kavita ki lambi kavitao ka vastupurak evam samrachanatmak adhyayan (आधनक हनद कवत क लब कवतओ क वसतपरक एव सरचनतमक अधययन)",
+    "authors": [
+      "Sangita Gopal"
+    ],
+    "year": 1995,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1533150811",
+    "title": "अधर बनद कमर",
+    "authors": [
+      "Mohana Rākeśa"
+    ],
+    "year": 1961,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1533490412",
+    "title": "भरत म आरथक रषटरवद क उदभव और वकस",
+    "authors": [
+      "Bipan Chandra",
+      "Ḍī. Āra. Caudharī"
+    ],
+    "year": 1993,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1534601424",
+    "title": "Hindi ke prasar mein jansanchar madhyamon ki bhumika (varsh 2000 se 2010 tak ke vishesh sandarbh mein) (हद क परसर म जनसचर मधयम क भमक (वरष २००० स २ ०१० तक क वशष सनदरभ म))",
+    "authors": [
+      "Ramvilas Jawaharlal Agarwal"
+    ],
+    "year": 2012,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1534919242",
+    "title": "The modern English-Hindi dictionary = मडरन अगरज़-हनद कश",
+    "authors": [
+      "I. N. Anand"
+    ],
+    "year": 2004,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1536662132",
+    "title": "धरमपतर : एक शरषठ समजक उपनयस",
+    "authors": [
+      "Acharya Caturasena"
+    ],
+    "year": 1966,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1536928018",
+    "title": "दस परतनध कहनय",
+    "authors": [
+      "Sani Sani"
+    ],
+    "year": 1997,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1538457830",
+    "title": "रतनवल : नटक",
+    "authors": [
+      "fl. Kanauj",
+      "Jīvānanda Vidyāsāgara Bhaṭṭācāryya",
+      "Nityabodha Vidyāratna"
+    ],
+    "year": 1910,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1538459498",
+    "title": "आधनक भरत म समजक परवरतन",
+    "authors": [
+      "Mysore Narasimhachar Srinivas",
+      "Nemicandra Jaina"
+    ],
+    "year": 1967,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1541734528",
+    "title": "रसखन-रतनवल",
+    "authors": [
+      "th Rasakhāna",
+      "th cent.",
+      "Bhavānīśaṅkara Yājñika"
+    ],
+    "year": 1964,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1541834797",
+    "title": "Naresh Mehta ke kavya mein manavatavaad(नरश महत क कवय म मनवतवद)",
+    "authors": [
+      "Rocily N Joseph"
+    ],
+    "year": 2002,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1544284930",
+    "title": "आचरय नमचनदर सदधनतचकरवरत रचत गममटसर : जवकणड : शरमतकशववरण वरचत करणटवतत, ससकत टक जवतततवपरदपक, हनद अनवद तथ परसतवन सहत",
+    "authors": [
+      "Nemicandra Siddhāntacakravartin",
+      "Keśavavarṇī",
+      "Ā. Nē. Upādhye",
+      "Kailash Chandra Jain"
+    ],
+    "year": 2000,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1545334003",
+    "title": "सचतर-इनजकशन",
+    "authors": [
+      "Śivanātha Khannā"
+    ],
+    "year": 1959,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1546056394",
+    "title": "सहतयमख",
+    "authors": [
+      "Ramdhari Sinha Dinkar"
+    ],
+    "year": 1968,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1548272876",
+    "title": "Hindi kavyabhasha ka swaroop aur vikas eithihasik sarvekshan (हद कवयभष क सवरप और वकस एतहसक सरवकषण )",
+    "authors": [
+      "L S Surya"
+    ],
+    "year": 2011,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1549078408",
+    "title": "अजय क डयर",
+    "authors": [
+      "N. K. Devaraja"
+    ],
+    "year": 1960,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1549327926",
+    "title": "Viveki rai ke upanyasom mein anchalikata(ववक रय क उपनयस म आचलकत)",
+    "authors": [
+      "C R Rajeemole"
+    ],
+    "year": 2011,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1549743676",
+    "title": "शरवयसमहरषपरकत शरमदभगवतपरणम : शरधरसवमवरचतय भवरथबधननमनय ससकतटकय समपतम",
+    "authors": [
+      "Vyāsa",
+      "Jagdish Lal Shastri",
+      "Srīdhara Svāmin"
+    ],
+    "year": 1999,
+    "language": "hi",
+    "abstract": "It is a book of devotion. Its exponents the nine fold devotion [navadha bhakti]. The present Purana is accompanied by the commentary Bhavarthabodhini of Sridhara Swami who interprets it on the lines of the Advaita School of Sankara. This Purana ha a great attraction for Vaishanavas. The Purana is an excellent contribution to the study of ancient indian tradition and mythology.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1550685747",
+    "title": "Prachin bharat mein varn vyavastha - ek anushilan (Vaidik kal se lekar athanin sadi is. tak) परचन भरत म वरण वयवसथ - एक अनशलन (वदक कल स लकर आठव सद ई. तक)",
+    "authors": [
+      "Virendra Kumar Dubey"
+    ],
+    "year": 2011,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1550863934",
+    "title": "Ashkke upanyaaso mein madhyam vargiya chetana (अशक क उपनयस म मधयवरगय चतन)",
+    "authors": [
+      "Hareendran Cheenanakandy"
+    ],
+    "year": 1988,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1553937691",
+    "title": "परतनध एकक",
+    "authors": [
+      "Upendra Nath Ashk"
+    ],
+    "year": 1958,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1555494001",
+    "title": "आगर क लल कल हनद भवन ह",
+    "authors": [
+      "Purushottam Nagesh Oak",
+      "Jagamohanarāva Bhaṭṭa"
+    ],
+    "year": 1975,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1557387358",
+    "title": "मर सकषतकर",
+    "authors": [
+      "Rāmavilāsa Śarmā"
+    ],
+    "year": 2004,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1558067381",
+    "title": "खई हई दशए",
+    "authors": [
+      "Kamleshwar"
+    ],
+    "year": 1966,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1558987012",
+    "title": "सतह स उठत आदम",
+    "authors": [
+      "Gajānana Mādhava Muktibodha"
+    ],
+    "year": 1971,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1559397612",
+    "title": "सचतर उपसकदश एव अनततरपपतकदश सतर : मल शदध पठ हनद-अगरज अनवद-ववचन, रगन चतर सहत",
+    "authors": [
+      "Amaramuni",
+      "Muni Taruṇa",
+      "Śrīcanda Surānā",
+      "Rājakumāra Jaina"
+    ],
+    "year": 2006,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1560611748",
+    "title": "कवत-कमद",
+    "authors": [
+      "Rāmanareśa Tripāṭhī"
+    ],
+    "year": 1927,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1562832428",
+    "title": "Pt Bhavani Prasad Mishra ki rachana prakriyaka vishleshan: chhayavadottar Hindi Giteekavyo ke vishesh sandarbh mein (प. भवन परसद मशरक रचन परकरय क वशलषण: छयवदततर हद गतकवय क वशष सदरभम)",
+    "authors": [
+      "Rahul Shukla"
+    ],
+    "year": 2011,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1564556663",
+    "title": "नजवन",
+    "authors": [
+      "Bhairavaprasāda Gupta"
+    ],
+    "year": 1972,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1565486428",
+    "title": "Dr. Prabha Khetan ke samagra sahitya ka anusheelan (ड. परभ खतनक समगर सहतय क अनशलन)",
+    "authors": [
+      "Sugandha Hindurao Gharpankar"
+    ],
+    "year": 2009,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1569398870",
+    "title": "Chandradhar Sharma Guleri ka sahitya parampara aur aadhunikta ka dwandwa(चदरधर शरम गलर क सहतय : परपर और आधनकत क दवनदव)",
+    "authors": [
+      "Gyanendra Ram Tripathy"
+    ],
+    "year": 2004,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1570457482",
+    "title": "बललसर बकरह",
+    "authors": [
+      "Surya Kant Tripathi"
+    ],
+    "year": 1958,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1574430575",
+    "title": "शररमचरतमनस",
+    "authors": [
+      "Tulasīdāsa",
+      "Rāmacandra Prasāda"
+    ],
+    "year": 1988,
+    "language": "hi",
+    "abstract": "The message of Ramacharitamanasa reiterates man's faith in the soundeness of moral order that sustain the world. Dark and evil forces may disrupt that order but divine intervention will ultimately chasten and subdue those forces. This large edition contains the basic text with translation into Hindi and English under each verse.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1575348124",
+    "title": "वरहण वरजगन : वङगय कवशरषठ मइकल मधसदनदतत कत वरजङगन कवय क भवनवद",
+    "authors": [
+      "Māikela Madhusūdana Datta",
+      "Madhupa"
+    ],
+    "year": 1914,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1576117970",
+    "title": "वर वनद",
+    "authors": [
+      "Śyāmaladāsa",
+      "Raghubir Sinh",
+      "Manoharasiṃha Rāṇāvata",
+      "Śivadattadāna Bārahaṭa"
+    ],
+    "year": 1986,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1577668985",
+    "title": "वशव सकत कश : वशव क महन वचरक क सकतय क सरवगण सगरह",
+    "authors": [
+      "Śrī Śaraṇa"
+    ],
+    "year": 1975,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1577673054",
+    "title": "अधर कवतए",
+    "authors": [
+      "Bhavānīprasāda Miśra"
+    ],
+    "year": 1968,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1582197612",
+    "title": "Sushasan ke sandarbh mein lok seva ayog ki bhumika (सशसन क सनदरभ म लक सव आयग क भमक)",
+    "authors": [
+      "S Rai."
+    ],
+    "year": 2011,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1583671584",
+    "title": "छनदवशतक : 'वमल' वयखयपत",
+    "authors": [
+      "Rāmacandra Jhā"
+    ],
+    "year": 1961,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1585417923",
+    "title": "A ‘Malay’ or <i>Kerajaan</i> World?",
+    "authors": [
+      "Anthony Milner"
+    ],
+    "year": 2008,
+    "language": "hi",
+    "abstract": "This chapter contains sections titled: A Unified World? Prestige and Expansion 'Malay'? 'Malay' in Malay Writings Ethnicity? Other Concepts of Community and Identity? The Kerajaan Community",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1585991436",
+    "title": "Mahavir Prasad Dwivedi yug ke pramukh kavi: adhyayan aur visleswan (महवर परसद दववद यग परमख कव अधययन और वशलषण)",
+    "authors": [
+      "Jyothy Balakrishnan"
+    ],
+    "year": 2004,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1587273642",
+    "title": "शरजगदशतरकलङकरकत अवचछदकतवनरकत : ... नययचरय प० शरशवदततमशरगडन वरचतय गङगवयखयय सवलतम",
+    "authors": [
+      "Jagadīśatarkālaṅkāra",
+      "Śivadattamiśra Gauḍa",
+      "Sheo Dutt Mishra",
+      "Ḍhuṇḍhirāja Śāstri",
+      "th cent. Gaṅgeśa",
+      "Raghunātha Śiromaṇi"
+    ],
+    "year": 1932,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1587912407",
+    "title": "Aadhunik nari jeevan ka santhras: mahilakatha lekhan ke sandarbh mein(आधनक नर जवन क सतरस: महल कथ लखन क सदरभम)",
+    "authors": [
+      "K Babita"
+    ],
+    "year": 2010,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1589345110",
+    "title": "Munsi Premchand ke upannyason mein nari ki sangharsh yatra (मश परमचद क उपनयस म नर क सघरष यतर)",
+    "authors": [
+      "Sunita"
+    ],
+    "year": 2012,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1590335832",
+    "title": "सततर-परथम-परशनवल : परथमपरकषसमगतसकलपरशनपतरसहत : लघकमद-परशनततर",
+    "authors": [
+      "Rāmacandra Jhā"
+    ],
+    "year": 1952,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1591001445",
+    "title": "Bachhan ke gadhya sahitya ka vishleshnatamak adhyayan (बचचन क गदय सहतय क वशलषणतमक अधययन)",
+    "authors": [
+      "V S Lilly"
+    ],
+    "year": 1995,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1591124721",
+    "title": "भरतय परमपर क मल सवर",
+    "authors": [
+      "Govind Chandra Pande"
+    ],
+    "year": 1981,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1592477152",
+    "title": "Kabir ki rachanao ka vishleshnatmak adhyayan samaj sudharak ke vishesh sandarbh mein (कबर क रचनओ क वशलषणतमक अधययन समज सधरक क वशष सदरभ म)",
+    "authors": [
+      "V Sudha Sarma"
+    ],
+    "year": 1993,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1593025433",
+    "title": "हनद क शरषठ कहनय",
+    "authors": [
+      "Nandadulāre Vājapeyī"
+    ],
+    "year": 1957,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1593570168",
+    "title": "Hindi natak: parivartan ke vividh aayam (1950se 2000 tak) (हद नटक: परवरतन क ववध आयम(१९५० स २००० तक)",
+    "authors": [
+      "Reddy Pothuraju Venkata"
+    ],
+    "year": 2003,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1595040465",
+    "title": "लकयत : परचन भरतय भतकवद क अधययन",
+    "authors": [
+      "Debiprasad Chattopadhyaya",
+      "Bhunesh Kumar Sharma"
+    ],
+    "year": 1982,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1596497193",
+    "title": "Hindi aur Telugu upanyas ke udbhav aur vikas ki prakriya ka samaj shashtriya adhyayan (हद और तलग उपनयस क उदभव और वकस क परकरय क समज शशतरय अधययन)",
+    "authors": [
+      "Raghu Vijaykumar Bikki"
+    ],
+    "year": 1995,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1596922961",
+    "title": "गरज कमर मथर",
+    "authors": [
+      "Girijā Kumāra Māthura",
+      "Nāgendra",
+      "Kailāśa Vājapeyī"
+    ],
+    "year": 1961,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1598026091",
+    "title": "Angareji shashankal mein Bundelkhand mein isaimat ka itihas 1804 se 1947 tak (अनगरज शसनकल म बदलखड म ईसईमत क इतहस १८०४ स १९४७)",
+    "authors": [
+      "Ajaypal Singh Chauhan"
+    ],
+    "year": 1988,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1598255974",
+    "title": "Multimethods approach to safety parameter display evaluation",
+    "authors": [
+      "W.W. Banks",
+      "Harold S. Blackman",
+      "David I. Gertman",
+      "Rohn J. Petersen"
+    ],
+    "year": 1982,
+    "language": "hi",
+    "abstract": "The purpose of this study was to determine which of two orthogonal display evaluation methods could best differentiate (on the basis of objective performance measures) between three unique safety parameter display formats. Another objective was to quantitatively measure the degree to which a tachistoscopic method of evaluation would correlate with the results of a multidimensional rating approach to display evaluation. A sample of test subjects who are qualified test reactor operators were used for a collection of data under experimental detection and recognition paradigms. The same test subjects (N = 5) also rated the quality and quantity of the data from three different safety parameter display formats by using a multidimensional rating scale (MDRS) consisting of seven dimensions. Results indicate the MDRS can be used to predict detection scores, since the results of the tachistoscopic method significantly correlated with three of the seven MDRS dimensions.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1602030933",
+    "title": "छनदशसतरम",
+    "authors": [
+      "Piṅgala",
+      "Halāyudha Bhaṭṭa",
+      "Kedāranātha",
+      "Madhusūdana Ojhā",
+      "Anantaśarmā Yajñeśvara Dhupakara"
+    ],
+    "year": 1981,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1603003237",
+    "title": "Pragatishil Hindi kavita me lok jivan(परगतशल हद कवत म लक-जवन)",
+    "authors": [
+      "फरमान Ali Farmanअली"
+    ],
+    "year": 2007,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1603050789",
+    "title": "वयकरणमहभषयम (नवहनकम) : अषटधययपरथमधययपरथमपदवयखयनम, शरमदपधययकयटनरमत\"परदप\"परकशतम, सरवतनतरसवतनतरशरमननगशभटटवरचतददयतदभसतम : पणडतशररदरधरझशरमपरणतय \"तततवलक\" टकय समललसतम",
+    "authors": [
+      "Patañjali",
+      "Kaiyaṭa",
+      "fl. Nāgeśabhaṭṭa",
+      "Rudradharajhāśarma",
+      "Giridhar Sharma Chaturvedi"
+    ],
+    "year": 1954,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1603088614",
+    "title": "Nirala ke kavyo mein pragatishil tatva (नरल क कवय म परगतशल ततव)",
+    "authors": [
+      "P Y Baby"
+    ],
+    "year": 2002,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1603503831",
+    "title": "'Bachchan' ke sahitya mein saundaryanubhuti (बचचन क सहतय म सहतय म सनदरयनभत)",
+    "authors": [
+      "Madhuri H Shukla"
+    ],
+    "year": 2002,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1606619249",
+    "title": "Swami Vivekanand ke Navya Vedant Darshan avm unke Shekshik Vicharom ki Vartamaan Prasangikta (सवम ववकनद क नवय वदत दरशन एव उनक शकषक वचर क वरततमन परसगकत)",
+    "authors": [
+      "Satya Prakash Mohta"
+    ],
+    "year": 2012,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1636085583",
+    "title": "Rajendra Yadav ka aalochna sahitya aur saamajik chintan (रजदर यदव क आलचन सहतय और समजक चतन)",
+    "authors": [
+      "Suresh Kumar"
+    ],
+    "year": 2000,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1667990715",
+    "title": "Maharishi Patanjili evam Mahatma Buddh ki yog sadhana paddhati (महरष पतजल एव महतम बदध क यग सधन पदधत)",
+    "authors": [
+      "Urmila Pandey"
+    ],
+    "year": 2013,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1725148195",
+    "title": "Adhunik Hindi kavita me mithakiya sanyojana(आधनक हद कवत म मथकय सयजन)",
+    "authors": [
+      "Mamta Dwivedi"
+    ],
+    "year": 2006,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W174010763",
+    "title": "आधरपरदश क वलपवरत मतसयक सपदए",
+    "authors": [
+      "Prathibha Rohit",
+      "K Ram Mohan",
+      "M S Sumithrudu"
+    ],
+    "year": 2008,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1750923117",
+    "title": "फलप कलट, बदवक समपद सरकषण और टकऊ वकस [Intellectual Property and Sustainable Development]",
+    "authors": [
+      "Philippe Cullet",
+      "Rajendra Ravi"
+    ],
+    "year": 2008,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1767999163",
+    "title": "Gramin paryatan ki sambhavanyein evam prabhav \"Samod (Jaipur) ke vishesh sandarbh mein) (गरमण परयटन क सभवनए एव परभव \"समद (जयपर) क वशष सनदरभ म\")",
+    "authors": [
+      "Umakant Indauliya"
+    ],
+    "year": 2013,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1789107877",
+    "title": "Badalte parivesh mein panapte antar-pidhi sangharsh ke vibhinna ayamon ka ek samajshastriya adhyayan (Hamirpur janpad ke vishesh sandarbh mein) (बदलत परवश म पनपत अतर - पढ सघरष क वभनन आयम क एक समजशसतरय अधययन (हमरपर जनपद क वशष सनदरभ म)",
+    "authors": [
+      "Sunita Tripathi"
+    ],
+    "year": 2007,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1790965453",
+    "title": "Aadhunik Bharat ke samajik aandolano ka vikas: Dr Bhim rao Ambedkar ke sandarbh me (आधनक भरत क समजक आदलन क वकस : ड भमरव अमबडकर क सदरभ म (एक ऐतहसक अधययन)",
+    "authors": [
+      "Sarita Gajbhiye Meshram"
+    ],
+    "year": 2012,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1795306956",
+    "title": "Hathayogic abhyas ka asthama ke rogiyon per prabhav ka adhyayan (हठयगक अभयस क असथम क रगय पर परभव क अधययन)",
+    "authors": [
+      "Dayanand Prasad"
+    ],
+    "year": 2012,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1797003115",
+    "title": "Yogshastra mein manochikitsa ek saidhantik adhyayan (यगशसतर म मनचकतस - एक सदधनतक अधययन)",
+    "authors": [
+      "Hemadri Kumar Sao"
+    ],
+    "year": 2012,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1808064146",
+    "title": "Ekanki ke tatvo ka hindi ekankiyo mein nirvahan sankalan tray sidhant ke sandarbh mein (एकक क ततव क हनद एककय म नरवहण सकलन तरय सदधनत क सनदरभ म)",
+    "authors": [
+      "Charly Sebastian"
+    ],
+    "year": 1997,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1819040743",
+    "title": "Nirmal Verma ke katha sahitya main adhunikta (नरमल वरम क कथ सहतय म आधनकत)",
+    "authors": [
+      "Poonam Poonam"
+    ],
+    "year": 2011,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W181978783",
+    "title": "जलय जवववधत क पहल : Proceedings of Seminar on Issues in Aquatic Biodiversity (Hindi)",
+    "authors": [
+      "Kochi Cmfri"
+    ],
+    "year": 2005,
+    "language": "hi",
+    "abstract": "E E M x I",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1838636057",
+    "title": "धआ : इचआक न सन क 'कमर इच कमर न' क हनद अनवद",
+    "authors": [
+      "啄木 石川",
+      "Unītā Saccidānanda",
+      "善次 望月"
+    ],
+    "year": 2007,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1859179793",
+    "title": "Yogic abhyason ka sharirik vikalang vyaktiyon ki kuntha atmahinata evam asuraksha ki bhavana per padane wale prabhav ka adhyayan (यगक अभयस क शररक वकलग वयकतय क कणठ , आतमहनत एव असरकष क भवन पर पडन वल परभव क अधययन)",
+    "authors": [
+      "Bhavana Srivastava"
+    ],
+    "year": 2012,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1876139159",
+    "title": "Saathottar Hindi kavya mein chitrit pauraanik paatra: ek adhyayan (सठततर हनद कवय म चतरत परणक पतर: एक अधययन)",
+    "authors": [
+      "K.G Shini"
+    ],
+    "year": 2002,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1877205730",
+    "title": "Dalit sahitya ki avdharna aur Dr. N. Singh ka sahitya (दलत सहतय क अवधरण और ड. एन सह क सहतय)",
+    "authors": [
+      "Sharmeela Devi Yadav"
+    ],
+    "year": 2013,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1881706312",
+    "title": "Aadhunik hindi kahani ka samajshastriy adhyayan (आधनक हद कहन क समजशसतरय अधययन)",
+    "authors": [
+      "P J Beena"
+    ],
+    "year": 2009,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1884290059",
+    "title": "Deviatoric Formulation of the SWT Parameter",
+    "authors": [
+      "Daniel Kujawski"
+    ],
+    "year": null,
+    "language": "hi",
+    "abstract": "The Smith-Watson-Topper (SWT) parameter was originally suggested and is still widely used to account for a mean stress in fatigue life analysis.It is well recognized however, that the SWT parameter might be non-conservative for cyclic loads that involve relatively large compressive mean stresses.A new energy interpretation of the SWT parameter is proposed.This interpretation is formulated in terms of the sum of strain energy density, the complementary strain energy density supplemented by the strain energy density associated with a mean stress in the cycle.Then, a new deviatoric formulation of the SWT D parameter is proposed.Capability of the deviatoric SWT D parameter to correlate experimental data for 7075-T651Al and ASTM A723 steel under various positive and negative mean stresses is presented.At high negative mean stresses, the deviatoric SWT D parameter demonstrates a fairly good correlation where the original SWT parameter is unable to correlate the data.",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1891515480",
+    "title": "Hindi ke anchalik upnyaso me gramya jeevanहद क आचलक उपनयस म गरमय जवन",
+    "authors": [
+      "Varsha Revadas Vasava"
+    ],
+    "year": 2013,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1898351777",
+    "title": "Swatantrata andolan mein Lal Bahadur shastri ka yogdan (सवततरत आनदलन म लल बहदर शसतर क यगदन)",
+    "authors": [
+      "Barkat Ulla"
+    ],
+    "year": 2000,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1902346280",
+    "title": "Srimad Bhagvad me bhaktiyog ek samikshatmak adhyayan (शरमद भगवद म भकतयग एक समकषतमक अधययन)",
+    "authors": [
+      "Amit Kumar Pandey"
+    ],
+    "year": 2012,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W1912051372",
+    "title": "Sarvajanik evam niji upkramon ke jansampark vibhagon ki karyapranali ka tulanatmak adhyayan सरवजनक एव नज उपकरम क जनसपरक वभग क करयपरणल क तलनतमक अधययन (सटल अथरट ऑफ इडय ल. एव टट सटल क वशष सनदरभ म)",
+    "authors": [
+      "Rameshchandra Pathak"
+    ],
+    "year": 2013,
+    "language": "hi",
+    "abstract": "",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4387613283",
+    "title": "अदवतवदनत म परतयकष-समपरतयय",
+    "authors": [
+      "डॉ. गोविन्द प्रसाद मिश्र"
+    ],
+    "year": 2023,
+    "language": "hi",
+    "abstract": "भारतीय दार्शनिक चिन्तन में अविद्या समस्त दुखों का मूल कारण है | अविद्या एवं उसके संस्कारों को नष्ट करके सत्यज्ञान का बोध कराना ही भारतीय दर्शन का उद्देश्य है | यहाँ सत्य एवं असत्य के निर्णय हेतु लक्षण एवं प्रमाणों का निर्देश है- 'लक्षणप्रमाणाभ्यां वस्तुसिद्धिः | प्रमाणों के द्वारा सत्यासत्य परीक्षण ही न्याय है- प्रमाणैरर्थपरीक्षणं न्याय: | भारतीय दर्शन में यथार्थ ज्ञान (प्रमा) प्राप्ति के साधन को प्रमाण कहा गया है जिनमे प्रत्यक्ष ,अनुमान,शब्द,उपमान.अर्थापत्ति , अनुपलब्धि आदि प्रमाण प्रमुख हैं| यद्यपि प्रमाणों की संख्या के सम्बन्ध में सभी दर्शनों में मतैक्य नहीं है, नास्तिक चार्वाक केवल एक ( प्रत्यक्ष ) , बौद्ध एवं वैशेषिक दर्शन दो ( प्रत्यक्ष,अनुमान ), जैन, सांख्य, योग, रामानुज तीन (प्रत्यक्ष ,अनुमानएवं शब्द ), न्याय दर्शन चार (प्रत्यक्ष ,अनुमान,शब्दएवं उपमान. ) प्रभाकर मीमांसा पांच ( प्रत्यक्ष ,अनुमान,शब्द,उपमान एवं अर्थापत्ति ,), भट्ट मीमांसा एवं अद्वैत वेदान्त छः ( प्रत्यक्ष ,अनुमान,शब्द,उपमान.अर्थापत्ति एवं अनुपलब्धि) ,तथा पुराण आठ प्रकार के प्रमाण (प्रत्यक्ष ,अनुमान,शब्द,उपमान.अर्थापत्ति , अनुपलब्धि, ऐतिह्य एवं संभव ) मानते हैं | प्रमाणों की संख्या में मतभेद होने के बावजूद सभी ने प्रत्यक्ष को ज्ञान का प्रथम साधन स्वीकार किया है | इसप्रकार प्रत्यक्ष को प्रथम/सर्वश्रेष्ठ प्रमाण स्वीकार करने में सभी वैदिक या वैदिकेतर दर्शन एक मत हैं यद्यपि प्रत्यक्ष के स्वरूप को लेकर उनमे आपसी मतभेद विद्यमान हैं",
+    "source": "openalex"
+  },
+  {
+    "id": "https://openalex.org/W4406236468",
+    "title": "अदवत कशमर शवदरशन एव सफदरशन",
+    "authors": [
+      "Kartar Chand Sharma"
+    ],
+    "year": 2019,
+    "language": "hi",
+    "abstract": "सृष्टि के आरम्भ से ही कश्मीर की धरती पर नाग तथा मानव मिलकर रहते थे। कालान्तर में समय के साथ-साथ कश्मीर में अनेक संस्कृतियों एवं सम्प्रदायों ने स्थान ग्रहण किया। इन संस्कृतियों के साथ-साथ समय-समय पर अनेक दर्शनों ने भी कश्मीर को प्रभावित किया। इनमें से वेदान्त, अद्वैत शैव एवं सूफी-दर्शन प्रधान हैं। शैवदर्शन का प्रभाव तो कश्मीर में सृष्टि के आरम्भ से ही था। परन्तु नवी शताब्दी में शैवदर्शन की जिस विधा का आरम्भ हुआ उसका महत्‍त्व विशेष है। क्योंकि यह दर्शन सामाजिक भेदभाव में विश्वास नहीं करता। कश्मीर में सूफी परम्परा का आरम्भ इस्लाम के आगमन के साथ ही हुआ तथा इस्लाम का प्रचार-प्रसार करना ही सूफियों का लक्ष्य था। सूफियों की नीति को ही आगे बढ़ाते हुए नुन्द ऋषि ने सूफी परम्परा से हटकर एक नई परम्परा की स्थापना की जिसे ऋषि-परम्परा के नाम से जाना जाता है। नुन्द ऋषि लल्लदेद से प्रभावित थे। लल्लदेद ने कश्मीर में समाज के सभी समुदायों का कश्मीर-शैवदर्शन के सिद्धान्तों के अनुरूप सामाजिक भाईचारे के लिए मार्गदर्शन किया। भले ही नुन्दऋषि ने सूफीवाद से हटकर ऋषि परम्परा का आरम्भ किया हो परन्तु उनकी ऋषि-परम्परा भी एक प्रकार से कश्मीर-शैवदर्शन तथा सूफीवाद के बीच का ही मार्ग प्रतीत होती है।",
+    "source": "openalex"
+  }
+]

@@ -1,0 +1,51 @@
+# Phil Ecosystem - Non-Classical Logic Families
+
+logic_families:
+  - id: catuskoti
+    name_en: Catuskoti (Tetralemma)
+    name_ja: 四句分別
+    origin_thinker: Nagarjuna
+    origin_year: 150
+    tradition: madhyamaka
+    values: ["true", "false", "both", "neither", "none_of_above"]
+    description: >
+      Buddhist four-cornered logic. For any proposition P: (1) P is true,
+      (2) P is false, (3) P is both true and false, (4) P is neither true
+      nor false. Nagarjuna's radical extension adds total rejection of all four.
+
+  - id: basho
+    name_en: Basho Logic (Place Logic)
+    name_ja: 場所的論理
+    origin_thinker: Nishida Kitaro
+    origin_year: 1926
+    tradition: kyoto_school
+    values: ["u_no_basho", "soutai_mu_no_basho", "zettai_mu_no_basho"]
+    description: >
+      Three-level place hierarchy: 有の場所 (place of being) is enveloped by
+      相対無の場所 (place of relative nothingness), which is enveloped by
+      絶対無の場所 (place of absolute nothingness). Each level transcends and
+      includes the previous.
+
+  - id: paraconsistent
+    name_en: Paraconsistent Logic
+    name_ja: 矛盾許容論理
+    origin_thinker: Newton da Costa / Nuel Belnap
+    origin_year: 1977
+    tradition: analytic
+    values: ["true", "false", "both", "neither"]
+    description: >
+      Logic that tolerates contradictions without triviality. Belnap's
+      four-valued semantics assigns {T, F, Both, Neither} to propositions.
+      Ex contradictione non sequitur quodlibet.
+
+  - id: dialectical
+    name_en: Dialectical Logic
+    name_ja: 弁証法論理
+    origin_thinker: G.W.F. Hegel
+    origin_year: 1807
+    tradition: german_idealism
+    values: ["thesis", "antithesis", "synthesis"]
+    description: >
+      Movement of thought through contradictions. Thesis generates its
+      antithesis; their conflict is resolved through synthesis (Aufhebung),
+      which preserves, negates, and elevates both.
