@@ -1,53 +1,36 @@
 # Python
 __pycache__/
-*.py[cod]
-*$py.class
+*.pyc
 *.egg-info/
-*.egg
 dist/
 build/
 .eggs/
-*.whl
-.venv/
-venv/
-env/
-.env
-*.so
-.pytest_cache/
-.mypy_cache/
-.ruff_cache/
-htmlcov/
-.coverage
-coverage.xml
 
 # R
-.Rproj.user/
 .Rhistory
 .RData
-.Ruserdata
-*.Rcheck/
-*.tar.gz
-Meta/
-doc/
-docs/
+*.Rproj.user
+
+# LaTeX
+*.aux
+*.log
+*.toc
+*.out
+*.fdb_latexmk
+*.fls
+*.synctex.gz
 
 # IDE
-.idea/
 .vscode/
-*.swp
-*.swo
-*~
+.idea/
+
+# OS
 .DS_Store
+Thumbs.db
 
-# Docker
-docker/data/
-
-# Project
-shared/data/*.csv
-shared/data/*.parquet
-*.log
-
-# Large data files (use DuckDB locally, Parquet for sharing)
-data/phil.duckdb
-data/journal_abstracts/top_journals_abstracts.json
+# Data (locally generated, too large for git even with LFS)
 data/journal_fulltext/texts/
+
+# Cache
+.cache/
+*.npz
